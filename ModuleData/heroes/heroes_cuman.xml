@@ -10,7 +10,8 @@
   <Hero id="lord_cuman_1g_dead" faction="Faction.clan_khuzait_1" alive="false" />
 
 
-
+  <Hero id="lord_6_4" spouse="Hero.lord_6_51" faction="Faction.clan_khuzait_2" text="{=lord_6_4.text}In 1099, together with another khan, Boniak and Davyd Igorovych participated in the battle on the river Wiar, where a huge Hungarian army led by Coloman I the Learned was defeated. Alutnopa's troops shot at the warriors and retreated, the Hungarians chased them and Bonyak struck in the back, then the Cumans turned and struck in the forehead and flanks, defeating the Hungarians. A large number of Hungarians died in the retreat." />
+  <Hero id="lord_6_51" spouse="Hero.lord_6_4" faction="Faction.clan_khuzait_2" />
 
 
 

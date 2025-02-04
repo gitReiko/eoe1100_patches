@@ -2,16 +2,28 @@
 <Factions>
 
   <Faction id="clan_khuzait_1"
-           name="{=clan_khuzait_1.name}Boniak"
-           tier="6"
-           owner="Hero.lord_6_1"
-           culture="Culture.khuzait"
-           super_faction="Kingdom.khuzait"
-           is_noble="true"
-           banner_key="11.90.19.1836.1836.764.764.1.0.-30.510.40.116.443.240.569.764.0.0.90.510.40.116.443.240.959.764.0.0.90.510.40.116.553.240.708.784.0.1.287.510.40.116.553.240.820.784.0.0.72.505.90.116.177.632.764.492.0.0.90.505.90.116.177.632.764.1034.0.0.90"
-           text="{=cuman_kayi.text}Members of the clan were part of the Kayı tribe. A variation of the tamga of this tribe is used as the clan banner. Color random."
-           color="FF9ec400" color2="FFffffff" alternative_color="FF9ec400" alternative_color2="FFffffff"
-            />	
+    name="{=clan_khuzait_1.name}Boniak"
+    tier="6"
+    owner="Hero.lord_6_1"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.90.19.1836.1836.764.764.1.0.-30.510.40.116.443.240.569.764.0.0.90.510.40.116.443.240.959.764.0.0.90.510.40.116.553.240.708.784.0.1.287.510.40.116.553.240.820.784.0.0.72.505.90.116.177.632.764.492.0.0.90.505.90.116.177.632.764.1034.0.0.90"
+    text="{=cuman_kayi.text}Members of the clan were part of the Kayı tribe. A variation of the tamga of this tribe is used as the clan banner. Color random."
+    color="FF9ec400" color2="FFffffff" alternative_color="FF9ec400" alternative_color2="FFffffff"
+  />
+
+   <Faction id="clan_khuzait_2"
+      name="{=clan_khuzait_2.name}Altunopa"
+      tier="5"
+      owner="Hero.lord_6_4"
+      culture="Culture.khuzait"
+      super_faction="Kingdom.khuzait"
+      is_noble="true"
+      banner_key="11.137.19.1836.1836.764.764.1.0.-30.510.40.116.443.240.834.764.0.0.90.510.40.116.443.240.694.764.0.0.90"
+      text="{=cuman_kypchak.text}One of the self-names of the Cumans is Kypchaks. A variation of the tamga of this tribe is used as the clan banner. Color random."
+      color="FF5aa4ad" color2="FFffffff" alternative_color="FF5aa4ad" alternative_color2="FFffffff"
+    />
    
 		  
 </Factions>
