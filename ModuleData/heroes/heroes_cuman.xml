@@ -14,6 +14,13 @@
   <Hero id="lord_6_51" spouse="Hero.lord_6_4" faction="Faction.clan_khuzait_2" />
 
 
+  <Hero id="lord_6_5" spouse="Hero.lord_6_6" faction="Faction.clan_khuzait_3" text="{=lord_6_5.text}In 1093, in alliance with Boniak, he was at war with Sviatopolk II Iziaslavych. In 1094 there was peace and Sviatopolk married daughter Tugorkan, Christian name Olena. In 1095, together with Boniak, he attacked Byzantium and failed. In 1096 together with Kuria attacked Pereiaslav and was died in battle together with his son." />
+  <Hero id="lord_6_6" spouse="Hero.lord_6_5" faction="Faction.clan_khuzait_3" />
+  <Hero id="lord_cuman_3c" father="Hero.lord_6_5" mother="Hero.lord_6_6" faction="Faction.clan_khuzait_3" />
+  <Hero id="lord_cuman_3d" father="Hero.lord_6_5" mother="Hero.lord_6_6" faction="Faction.clan_khuzait_3" />
+  <Hero id="lord_cuman_3e" faction="Faction.clan_khuzait_3" />
+  <Hero id="lord_cuman_3f" faction="Faction.clan_khuzait_3" />
+
 
 
    

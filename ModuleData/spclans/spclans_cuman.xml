@@ -15,7 +15,7 @@
 
    <Faction id="clan_khuzait_2"
       name="{=clan_khuzait_2.name}Altunopa"
-      tier="5"
+      tier="4"
       owner="Hero.lord_6_4"
       culture="Culture.khuzait"
       super_faction="Kingdom.khuzait"
@@ -25,5 +25,29 @@
       color="FF5aa4ad" color2="FFffffff" alternative_color="FF5aa4ad" alternative_color2="FFffffff"
     />
    
+  <Faction id="clan_khuzait_3"
+    name="{=clan_khuzait_3.name}Tugorkan"
+    tier="5"
+    owner="Hero.lord_6_5"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.137.19.1836.1836.764.764.1.0.-30.510.40.116.203.240.764.941.0.0.0.510.40.116.341.240.764.858.0.0.90.510.40.116.281.240.684.621.0.1.313.510.40.116.281.240.844.621.0.0.46.505.137.116.177.632.764.492.0.0.90.505.137.116.177.632.764.1034.0.0.90.510.40.116.203.240.764.821.0.0.0" 
+    text="{=cuman_random.text}For the clan's banner is used the 7th-10th century Turkic tamga found in the Black Sea region."
+    color="FFffffff" color2="FF5aa4ad" alternative_color="FFffffff" alternative_color2="FF5aa4ad"
+  />		
+
+
+
+
+
+
+
+
+
+
+
+
+
 		  
 </Factions>

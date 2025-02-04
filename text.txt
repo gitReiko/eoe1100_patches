@@ -5,10 +5,10 @@ lord_cuman_1e
 lord_cuman_1f_dead
 lord_cuman_1g_dead
 
-
-
-
-
+lord_cuman_3c
+lord_cuman_3d
+lord_cuman_3e
+lord_cuman_3f
 
 
 
