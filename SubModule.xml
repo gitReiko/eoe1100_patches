@@ -1,0 +1,47 @@
+<Module>
+  <Name value="Empires of Europe 1100 Update"/>
+  <Id value="Europe1100 Update"/>
+  <Version value="v1.2.12"/>
+  <ModuleCategory value="Singleplayer"/>
+  <Official value="false" />
+  <DependedModules>
+	
+  </DependedModules>
+  <ModulesToLoadAfterThis>
+  </ModulesToLoadAfterThis>
+  <IncompatibleModules>
+  </IncompatibleModules>
+  
+<SubModules>
+</SubModules>
+  
+  <Xmls>
+  
+	<XmlNode>                
+      <XmlName id="NPCCharacters" path="lords_main"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode> 
+	
+    <XmlNode>
+      <XmlName id="Heroes" path="heroes"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
+    <XmlNode>
+      <XmlName id="Factions" path="spclans"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
+  </Xmls>		
+
+
+</Module>

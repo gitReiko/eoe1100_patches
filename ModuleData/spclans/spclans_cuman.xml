@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_khuzait_1"
+           name="{=Ölberli}Ölberli"
+           tier="6"
+           owner="Hero.lord_6_1"
+           culture="Culture.khuzait"
+           super_faction="Kingdom.khuzait"
+           is_noble="true"
+           banner_key="11.73.19.1836.1836.779.782.1.0.-30.316.73.122.783.770.766.766.1.0.0.140.122.116.530.521.768.818.1.0.0.340.122.116.112.111.788.563.1.0.0" />	
+   
+		  
+</Factions>
