@@ -2,9 +2,18 @@
 
 <Heroes>
 
-  <Hero id="lord_6_1" spouse="Hero.lord_6_2" faction="Faction.clan_khuzait_1" text="{=lord_6_1.text}Boniak, Bonyak or Maniac, also known as Boniak the Mangy, was one of the most prominent Cuman chieftains in the late 11th century and the early 12th century. He headed a powerful Cuman tribe or clan that inhabited the steppes to west of the Dnieper River. He supported the Byzantines against the Pechenegs in the Battle of Levounion in 1091, and he also defeated Coloman, King of Hungary in 1097 or 1099." />
+  <Hero id="lord_6_1" spouse="Hero.lord_6_2" father="Hero.lord_cuman_1f_dead" faction="Faction.clan_khuzait_1" text="{=lord_6_1.text}Boniak, Bonyak or Maniac, also known as Boniak the Mangy, was one of the most prominent Cuman chieftains in the late 11th century and the early 12th century. He headed a powerful Cuman tribe or clan that inhabited the steppes to west of the Dnieper River. He supported the Byzantines against the Pechenegs in the Battle of Levounion in 1091, and he also defeated Coloman, King of Hungary in 1097 or 1099." />
   <Hero id="lord_6_2" spouse="Hero.lord_6_1" faction="Faction.clan_khuzait_1" />
   <Hero id="lord_6_3" faction="Faction.clan_khuzait_1" />
+  <Hero id="lord_cuman_1d" father="Hero.lord_6_1" mother="Hero.lord_6_2" faction="Faction.clan_khuzait_1" />
+  <Hero id="lord_cuman_1f_dead" father="Hero.lord_cuman_1g_dead" faction="Faction.clan_khuzait_1" alive="false" />
+  <Hero id="lord_cuman_1g_dead" faction="Faction.clan_khuzait_1" alive="false" />
+
+
+
+
+
+
 
    
 </Heroes>
