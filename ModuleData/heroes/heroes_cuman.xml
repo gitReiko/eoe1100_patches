@@ -49,7 +49,8 @@
   <Hero id="lord_6_15_1" spouse="Hero.lord_6_15" faction="Faction.clan_khuzait_8" />
 
 
-
+  <Hero id="lord_6_15_2" spouse="Hero.lord_6_16" faction="Faction.clan_khuzait_9" text="{=lord_6_15_2.text}After Urusoba has heard about campaign of Rus on Cumans, he has offered to make peace to other Cumans khans. They laughed at him. In 1103 Cumans have defeated in battle. Urusoba has died together with 19 other khans." />
+  <Hero id="lord_6_16" spouse="Hero.lord_6_15_2" faction="Faction.clan_khuzait_9" />
 
 
 

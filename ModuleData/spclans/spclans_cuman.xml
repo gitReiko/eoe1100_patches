@@ -101,7 +101,17 @@
     />	
 
 
-
+  <Faction id="clan_khuzait_9"
+    name="{=clan_khuzait_9.name}Urusoba"
+    tier="4"
+    owner="Hero.lord_6_15_2"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.113.19.1836.1836.764.764.1.0.-30.510.40.116.443.240.764.694.0.0.26.510.40.116.443.240.764.834.0.0.26" 
+    text="{=cuman_kypchak.text}One of the self-names of the Cumans is Kypchaks. A variation of the tamga of this tribe is used as the clan banner. Color random."
+    color="FF726a3d" color2="FFffffff" alternative_color="FF726a3d" alternative_color2="FFffffff"
+    />
 
 
 
