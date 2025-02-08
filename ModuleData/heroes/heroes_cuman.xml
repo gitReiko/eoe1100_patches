@@ -34,7 +34,11 @@
   <Hero id="lord_cuman_5c" father="Hero.lord_6_9" mother="Hero.lord_6_10" faction="Faction.clan_khuzait_5" />
 
 
-
+  <Hero id="lord_6_101" faction="Faction.clan_khuzait_6" text="{=lord_6_101.text}In 1095 together with khan Kytan has made peace with Volodymyr Monomakh and has taken as hostages his son Sviatoslav Volodymyrovych. Boyar Ratibor conspired Monomakh to break an oath and to attack khans. Cumans almost did not resist. Kytan was killed during attack and Itlar was executed in Pereiaslav." />
+  <Hero id="lord_cuman_6b" spouse="Hero.lord_6_11" faction="Faction.clan_khuzait_6" />
+  <Hero id="lord_6_11" spouse="Hero.lord_cuman_6b" faction="Faction.clan_khuzait_6" />
+  <Hero id="lord_cuman_6d" faction="Faction.clan_khuzait_6" />
+  <Hero id="lord_cuman_6e" faction="Faction.clan_khuzait_6" />
 
 
 

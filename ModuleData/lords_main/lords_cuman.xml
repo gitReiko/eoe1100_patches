@@ -376,7 +376,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_6_51"
-        name="{=Aisilu}Aisilu"
+        name="{=Aisilu}Aisilu*"
         voice="softspoken"
         age="40"
         is_female="true"
@@ -468,7 +468,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_6_6"
-        name="{=lord_6_6.name}Chayana"
+        name="{=lord_6_6.name}Chayana*"
         voice="softspoken"
         age="46"
         is_female="true"
@@ -743,7 +743,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_6_8"
-        name="{=Jiajak}Jiajak"
+        name="{=Jiajak}Jiajak*"
         voice="softspoken"
         age="35"
         is_female="true"
@@ -927,7 +927,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_6_10"
-        name="{=Banat}Banat"
+        name="{=Banat}Banat*"
         voice="softspoken"
         age="26"
         is_female="true"
@@ -1008,7 +1008,235 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_6_101"
+        name="{=lord_6_101.name}Itlar"
+        voice="softspoken"
+        age="57"
+        is_female="false"
+        is_hero="true"
+        culture="Culture.khuzait"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.3988" build="0.5989"  key="0018EC0FC00028D29458D949869681ABD369A614765C88A998AA856A3889886800496603045B718E0000000000000000000000000000000000000000428C0042"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="250" />
+        <skill id="Polearm" value="250" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cum_lord" />
+      <EquipmentSet id="cum_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
+    <NPCCharacter id="lord_cuman_6b"
+        name="{=lord_cuman_6b.name}Asaduk"
+        voice="softspoken"
+        age="43"
+        is_female="false"
+        is_hero="true"
+        culture="Culture.khuzait"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.3988" build="0.5989"  key="0018EC0FC00028D29458D949869681ABD369A614765C88A998AA856A3889886800496603045B718E0000000000000000000000000000000000000000428C0042"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="200" />
+        <skill id="Polearm" value="225" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cum_lord" />
+      <EquipmentSet id="cum_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_6_11"
+        name="{=Guzal}Guzal*"
+        voice="softspoken"
+        age="39"
+        is_female="true"
+        is_hero="true"
+        culture="Culture.khuzait"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.3988" build="0.5989"  key="0018EC0FC0002015947B8795549836C8D369A614765C88A94C75769A3889886800496603048B9B980000000000000000000000000000000000000000428C0083"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="25" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="200" />
+        <skill id="Polearm" value="150" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="-2" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cum_lady" />
+      <EquipmentSet id="cum_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_cuman_6d"
+        name="{=lord_cuman_6d.name}Sauk"
+        voice="softspoken"
+        age="55"
+        is_female="false"
+        is_hero="true"
+        culture="Culture.khuzait"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.3988" build="0.5989"  key="0018EC0FC00028D29458D949869681ABD369A614765C88A998AA856A3889886800496603045B718E0000000000000000000000000000000000000000428C0042"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="250" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="275" />
+        <skill id="Polearm" value="175" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cum_lord" />
+      <EquipmentSet id="cum_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_cuman_6e"
+        name="{=lord_cuman_6e.name}Kytan"
+        voice="softspoken"
+        age="54"
+        is_female="false"
+        is_hero="true"
+        culture="Culture.khuzait"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.3988" build="0.5989"  key="0018EC0FC00028D29458D949869681ABD369A614765C88A998AA856A3889886800496603045B718E0000000000000000000000000000000000000000428C0042"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="125" />
+        <skill id="Bow" value="225" />
+        <skill id="Polearm" value="225" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="-2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cum_lord" />
+      <EquipmentSet id="cum_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
 
 

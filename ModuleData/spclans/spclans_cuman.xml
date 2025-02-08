@@ -62,7 +62,17 @@
     />	
 
 
-
+  <Faction id="clan_khuzait_6"
+    name="{=clan_khuzait_6.name}Itlar"
+    tier="5"
+    owner="Hero.lord_6_101"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.90.19.1836.1836.764.764.1.0.-30.503.40.116.356.356.764.728.0.0.90.503.90.116.283.283.764.728.0.0.90.510.40.116.334.240.764.730.0.0.0.505.90.116.177.632.756.822.0.0.90.510.40.116.334.240.764.880.0.0.0.510.40.116.203.240.764.805.0.0.90" 
+    text="{=cuman_random.text}For the clan's banner is used the 7th-10th century Turkic tamga found in the Black Sea region."
+    color="FF9ec400" color2="FFffffff" alternative_color="FF9ec400" alternative_color2="FFffffff"
+    />	
 
 
 
