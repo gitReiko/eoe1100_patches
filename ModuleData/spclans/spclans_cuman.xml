@@ -75,6 +75,22 @@
     />	
 
 
+  <Faction id="clan_khuzait_7"
+    name="{=clan_khuzait_7.name}Sugr"
+    tier="4"
+    owner="Hero.lord_6_12"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.83.19.1836.1836.764.764.1.0.-30.510.40.116.553.240.708.784.0.1.287.510.40.116.553.240.820.784.0.0.72.505.83.116.177.632.764.492.0.0.90.505.83.116.177.632.764.1034.0.0.90" 
+    text="{=cuman_kayi.text}Members of the clan were part of the Kayı tribe. A variation of the tamga of this tribe is used as the clan banner. Color random." 
+    color="FFd22e31" color2="FFffffff" alternative_color="FFd22e31" alternative_color2="FFffffff" 
+    />
+
+
+
+
+
 
 
 

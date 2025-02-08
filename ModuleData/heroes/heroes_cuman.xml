@@ -41,7 +41,8 @@
   <Hero id="lord_cuman_6e" faction="Faction.clan_khuzait_6" />
 
 
-
+  <Hero id="lord_6_12" spouse="Hero.lord_6_13" father="Hero.lord_cuman_1f_dead" faction="Faction.clan_khuzait_7" text="{=lord_6_12.text}In 1107 in the battle on the river Sula the Cumans army was defeated by the union of Kyiv, Pereiaslav and Chernigov. Khan Sugr was imprisoned. His further destiny is unknown." />
+  <Hero id="lord_6_13" spouse="Hero.lord_6_12" faction="Faction.clan_khuzait_7" />
 
 
 

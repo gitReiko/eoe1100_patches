@@ -1238,6 +1238,101 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_6_12"
+        name="{=lord_6_12.name}Sugr"
+        voice="softspoken"
+        age="34"
+        is_female="false"
+        is_hero="true"
+        culture="Culture.khuzait"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.3988" build="0.5989"  key="0018EC0FC0000854947B8795549836C8D369A614765C88A94C75769A3889886800496603048B9B980000000000000000000000000000000000000000428C00C2"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="200" />
+        <skill id="Polearm" value="275" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="-1" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cum_lord" />
+      <EquipmentSet id="cum_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+<NPCCharacter id="lord_6_13"
+        name="{=Jibek}Jibek*"
+        voice="softspoken"
+        age="37"
+        is_female="true"
+        is_hero="true"
+        culture="Culture.khuzait"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.6931" build="0.3041"  key="002BEC0FC000000194D36F94ABA23D50D369A614765C88A94C75769A3889886800B5A6030B8B9B98000000000000000000000000000000000000000027840083"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="175" />
+        <skill id="Polearm" value="150" />
+        <skill id="OneHanded" value="100" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="-2" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="-2" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cum_lady" />
+      <EquipmentSet id="cum_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+
+
+
 
 
 
