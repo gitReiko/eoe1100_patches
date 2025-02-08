@@ -45,6 +45,12 @@
   <Hero id="lord_6_13" spouse="Hero.lord_6_12" faction="Faction.clan_khuzait_7" />
 
 
+  <Hero id="lord_6_15" spouse="Hero.lord_6_15_1" father="Hero.lord_cuman_1g_dead" faction="Faction.clan_khuzait_8" text="{=lord_6_15.text}Between 1080 and 1082 the Cumans attacked the retinue of Volodymyr Monomakh, the warriors sent wagons with weapons to the city of Pryluki. Armed Rus warriors attacked the enemies and won. The next day Rus army attacked the Cumans and defeated them. In the battle 900 Cumans died, Iasin and his brother Sakz were imprisoned. Further destiny of Sakz is unknown." />
+  <Hero id="lord_6_15_1" spouse="Hero.lord_6_15" faction="Faction.clan_khuzait_8" />
+
+
+
+
 
 
 

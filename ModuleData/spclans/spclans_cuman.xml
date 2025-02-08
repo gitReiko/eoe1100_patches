@@ -88,7 +88,17 @@
     />
 
 
-
+  <Faction id="clan_khuzait_8"
+    name="{=clan_khuzait_8.name}Sakz"
+    tier="4"
+    owner="Hero.lord_6_15"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.137.19.1836.1836.764.764.1.0.-30.510.40.116.443.240.763.764.0.0.135.510.40.116.443.240.763.764.0.0.45" 
+    text="{=cuman_qiyatlar.text}Members of the clan were part of the Kayı tribe. A variation of the tamga of Qıyatlar tribe is used as the clan banner. Color random." 
+    color="FF5aa4ad" color2="FFffffff" alternative_color="FF5aa4ad" alternative_color2="FFffffff"  
+    />	
 
 
 
