@@ -49,7 +49,17 @@
     color="FFf1c231" color2="FFffffff" alternative_color="FFf1c231" alternative_color2="FFffffff" 
     />
 
-
+  <Faction id="clan_khuzait_5"
+    name="{=clan_khuzait_5.name}Aepa"
+    tier="4"
+    owner="Hero.lord_6_9"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.131.19.1836.1836.764.764.1.0.-30.510.40.116.443.240.764.764.0.0.90.510.40.116.443.240.764.764.0.0.0"
+    text="{=cuman_qiyatlar.text}Members of the clan were part of the Kayı tribe. A variation of the tamga of Qıyatlar tribe is used as the clan banner. Color random." 
+    color="FFf1c231" color2="FFffffff" alternative_color="FFf1c231" alternative_color2="FFffffff"  
+    />	
 
 
 

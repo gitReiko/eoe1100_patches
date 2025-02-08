@@ -29,7 +29,9 @@
   <Hero id="lord_cuman_4e" father="Hero.lord_6_7" mother="Hero.lord_6_8" faction="Faction.clan_khuzait_4" />
 
 
-
+  <Hero id="lord_6_9" spouse="Hero.lord_6_10" father="Hero.lord_cuman_1f_dead" faction="Faction.clan_khuzait_5" text="{=lord_6_9.text}In 1108 Aepa married his 11 year old daughter Anna to 10 year old Yuryi Volodymyrovych the Long Hands. In 1113 together with khan Boniak besieged the Vyr fortress, but knew about Rus army and went away. In 1117 he raided the Danube Bulgars and imprisoned many of them. The Bulgarian prince poisoned the khan and many supporters with sent food, and the rest were killed in battle or imprisoned." />
+  <Hero id="lord_6_10" spouse="Hero.lord_6_9" faction="Faction.clan_khuzait_5" />
+  <Hero id="lord_cuman_5c" father="Hero.lord_6_9" mother="Hero.lord_6_10" faction="Faction.clan_khuzait_5" />
 
 
 
