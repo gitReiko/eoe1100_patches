@@ -37,7 +37,17 @@
     color="FFffffff" color2="FF5aa4ad" alternative_color="FFffffff" alternative_color2="FF5aa4ad"
   />		
 
-
+  <Faction id="clan_khuzait_4"
+    name="{=clan_khuzait_4.name}Sharukan"
+    tier="5"
+    owner="Hero.lord_6_7"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.131.19.1836.1836.764.764.1.0.-30.510.40.116.443.240.569.764.0.0.90.510.40.116.443.240.959.764.0.0.90.510.40.116.341.240.764.858.0.0.90.510.40.116.281.240.684.615.0.1.313.510.40.116.281.240.844.615.0.0.46.505.131.116.177.632.764.492.0.0.90.505.131.116.177.632.764.1034.0.0.90" 
+    text="{=cuman_kayi.text}Members of the clan were part of the Kayı tribe. A variation of the tamga of this tribe is used as the clan banner. Color random." 
+    color="FFf1c231" color2="FFffffff" alternative_color="FFf1c231" alternative_color2="FFffffff" 
+    />
 
 
 

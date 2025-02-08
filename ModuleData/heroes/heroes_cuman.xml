@@ -6,6 +6,7 @@
   <Hero id="lord_6_2" spouse="Hero.lord_6_1" faction="Faction.clan_khuzait_1" />
   <Hero id="lord_6_3" faction="Faction.clan_khuzait_1" />
   <Hero id="lord_cuman_1d" father="Hero.lord_6_1" mother="Hero.lord_6_2" faction="Faction.clan_khuzait_1" />
+  <Hero id="lord_cuman_1e" father="Hero.lord_cuman_1g_dead" faction="Faction.clan_khuzait_1" />
   <Hero id="lord_cuman_1f_dead" father="Hero.lord_cuman_1g_dead" faction="Faction.clan_khuzait_1" alive="false" />
   <Hero id="lord_cuman_1g_dead" faction="Faction.clan_khuzait_1" alive="false" />
 
@@ -20,6 +21,24 @@
   <Hero id="lord_cuman_3d" father="Hero.lord_6_5" mother="Hero.lord_6_6" faction="Faction.clan_khuzait_3" />
   <Hero id="lord_cuman_3e" faction="Faction.clan_khuzait_3" />
   <Hero id="lord_cuman_3f" faction="Faction.clan_khuzait_3" />
+
+
+  <Hero id="lord_6_7" spouse="Hero.lord_6_8" father="Hero.lord_cuman_1f_dead" faction="Faction.clan_khuzait_4" text="{=lord_6_7.text}In 1107 year has attacked Pereiaslav. Reached the city of Lubny. Sviatopolk II Iziaslavych has gathered an army and unexpectedly has attacked in response. Cumans was defeated and Sharukan barely escaped." />
+  <Hero id="lord_6_8" spouse="Hero.lord_6_7" faction="Faction.clan_khuzait_4" />
+  <Hero id="lord_6_81" father="Hero.lord_6_7" mother="Hero.lord_6_8" faction="Faction.clan_khuzait_4" />
+  <Hero id="lord_cuman_4e" father="Hero.lord_6_7" mother="Hero.lord_6_8" faction="Faction.clan_khuzait_4" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
