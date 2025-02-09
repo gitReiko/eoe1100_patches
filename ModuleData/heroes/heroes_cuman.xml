@@ -53,7 +53,9 @@
   <Hero id="lord_6_16" spouse="Hero.lord_6_15_2" faction="Faction.clan_khuzait_9" />
 
 
-
+  <Hero id="lord_cuman_10a" spouse="Hero.lord_cuman_10b" father="Hero.lord_cuman_1f_dead" faction="Faction.clan_khuzait_10" text="{=lord_cuman_10a.text}In 1107 in the battle on the river Sula the Cumans army was defeated by the union of Kyiv, Pereiaslav and Chernigov. Khan Taz was killed in the battle." />
+  <Hero id="lord_cuman_10b" spouse="Hero.lord_cuman_10a" faction="Faction.clan_khuzait_10" />
+  <Hero id="lord_cuman_10c" father="Hero.lord_cuman_10a" mother="Hero.lord_cuman_10b" faction="Faction.clan_khuzait_10" />
 
 
    

@@ -114,6 +114,21 @@
     />
 
 
+  <Faction id="clan_khuzait_10"
+    name="{=clan_khuzait_10.name}Taz"
+    tier="4"
+    owner="Hero.lord_cuman_10a"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.113.19.1836.1836.764.764.1.0.-30.510.40.116.553.240.708.784.0.1.287.510.40.116.553.240.820.784.0.0.72.505.113.116.177.632.764.492.0.0.90.505.113.116.177.632.764.1034.0.0.90" 
+    text="{=cuman_kayi.text}Members of the clan were part of the Kayı tribe. A variation of the tamga of this tribe is used as the clan banner. Color random." 
+    color="FF726a3d" color2="FFffffff" alternative_color="FF726a3d" alternative_color2="FFffffff"
+    />
+
+
+
+
 
 		  
 </Factions>
