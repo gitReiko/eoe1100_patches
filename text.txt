@@ -22,4 +22,7 @@ lord_cuman_10a
 lord_cuman_10b
 lord_cuman_10c
 
+lord_cuman_11a
+lord_cuman_11b
+
 

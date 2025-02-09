@@ -58,5 +58,9 @@
   <Hero id="lord_cuman_10c" father="Hero.lord_cuman_10a" mother="Hero.lord_cuman_10b" faction="Faction.clan_khuzait_10" />
 
 
+  <Hero id="lord_cuman_11a" spouse="Hero.lord_cuman_11b" faction="Faction.clan_khuzait_11" text="{=lord_cuman_11a.text}When Sviatopolk II Iziaslavych and Volodymyr Monomakh besieged Oleg Sviatoslavych in Starodub. In 1096 Kuria and Tugorkan attacked Pereiaslav, and Boniak attacked Kyiv. Tugorkan was defeated in battle by Sviatopolk II Iziaslavych and Volodymyr Monomakh. About participation of Kuria in battle is unknown." />
+  <Hero id="lord_cuman_11b" spouse="Hero.lord_cuman_11a" faction="Faction.clan_khuzait_11" />
+
+
    
 </Heroes>

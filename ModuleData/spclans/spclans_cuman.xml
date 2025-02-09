@@ -127,7 +127,17 @@
     />
 
 
-
+    <Faction id="clan_khuzait_11"
+    name="{=clan_khuzait_11.name}Kuria"
+    tier="4"
+    owner="Hero.lord_cuman_11a"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.khuzait"
+    is_noble="true"
+    banner_key="11.90.19.1836.1836.764.764.1.0.-30.503.40.116.241.241.764.667.0.0.90.503.90.116.175.175.764.667.0.0.90.510.40.116.203.240.764.850.0.0.90.510.40.116.93.240.818.816.0.0.0" 
+    text="{=cuman_random.text}For the clan's banner is used the 7th-10th century Turkic tamga found in the Black Sea region."
+    color="FFffffff" color2="FF9ec400" alternative_color="FFffffff" alternative_color2="FF9ec400"
+    />
 
 
 		  
