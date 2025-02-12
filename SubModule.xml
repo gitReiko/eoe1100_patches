@@ -16,6 +16,14 @@
 </SubModules>
   
   <Xmls>
+
+  <XmlNode>
+    <XmlName id="Settlements" path="settlements"/>
+    <IncludedGameTypes>
+      <GameType value = "Campaign"/>
+      <GameType value = "CustomGame"/>
+    </IncludedGameTypes>
+  </XmlNode> 
   
 	<XmlNode>                
       <XmlName id="NPCCharacters" path="lords_main"/>
