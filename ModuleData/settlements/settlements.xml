@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settlements>
-  <Settlement id="town_azak" name="{=town_azak_name}Azak" owner="Faction.clan_khuzait_1" posX="1028.217" posY="1113.877" culture="Culture.khuzait" gate_posX="1027.362" gate_posY="1112.043" text="{=town_azak_text}Azak text...">
+  <Settlement id="town_azak" name="{=town_azak_name}Azak" owner="Faction.clan_khuzait_10" posX="1028.217" posY="1113.877" culture="Culture.khuzait" gate_posX="1027.362" gate_posY="1112.043" text="{=town_azak_text}Azak text...">
     <Components>
       <Town id="town_comp_azak" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -15701,7 +15701,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_khotomyshl" name="{=town_khotomyshl_name}Khotomyshl" owner="Faction.clan_khuzait_10" posX="962.894" posY="1173.603" culture="Culture.khuzait" gate_posX="962.5317" gate_posY="1169.25" text="{=town_khotomyshl_text}Khotomyshl text...">
+  <Settlement id="town_khotomyshl" name="{=town_khotomyshl_name}Khotomyshl" owner="Faction.clan_khuzait_6" posX="962.894" posY="1173.603" culture="Culture.khuzait" gate_posX="962.5317" gate_posY="1169.25" text="{=town_khotomyshl_text}Khotomyshl text...">
     <Components>
       <Town id="town_comp_khotomyshl" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
