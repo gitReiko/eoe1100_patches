@@ -1,28 +1,4 @@
 Necessary made faces
 
-lord_cuman_1d
-lord_cuman_1e
-lord_cuman_1f_dead
-lord_cuman_1g_dead
-
-lord_cuman_3c
-lord_cuman_3d
-lord_cuman_3e
-lord_cuman_3f
-
-lord_cuman_4e
-
-lord_cuman_5c
-
-lord_cuman_6b
-lord_cuman_6d
-lord_cuman_6e
-
-lord_cuman_10a
-lord_cuman_10b
-lord_cuman_10c
-
-lord_cuman_11a
-lord_cuman_11b
 
 
