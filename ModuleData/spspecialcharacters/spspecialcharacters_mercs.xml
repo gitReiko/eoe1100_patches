@@ -1311,7 +1311,7 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="ushkuynik_leader_2" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="24" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+  <NPCCharacter id="ushkuynik_leader_2" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="38" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.villager_aestian"/>
 		</face>
