@@ -1,0 +1,30 @@
+<partyTemplates>
+
+     <MBPartyTemplate id="kingdom_hero_party_outlaw_hospitaller_template" >
+    <stacks>
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.wolfskins_tier_3" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.wolfskins_tier_2" />
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.wolfskins_tier_1" />
+    </stacks>
+  </MBPartyTemplate>
+  
+       <MBPartyTemplate id="kingdom_hero_party_outlaw_jomsvikings_template" >
+    <stacks>
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.embers_of_flame_tier_3" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.embers_of_flame_tier_2" />
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.embers_of_flame_tier_1" />
+    </stacks>
+  </MBPartyTemplate>
+
+
+  <MBPartyTemplate id="ushkuyniks_party_template">
+    <stacks>
+      <PartyTemplateStack min_value="12" max_value="22" troop="NPCCharacter.ushkuynik_tier_1" />
+      <PartyTemplateStack min_value="5" max_value="10" troop="NPCCharacter.ushkuynik_tier_2" />
+      <PartyTemplateStack min_value="5" max_value="10" troop="NPCCharacter.ushkuynik_tier_3" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+
+</partyTemplates>

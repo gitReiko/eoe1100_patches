@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="ghilman"
+           initial_posX="308.0"
+           initial_posY="855.0"
+           banner_key="11.126.146.1289.1116.775.782.1.0.0.505.127.116.1690.207.743.735.0.0.-46"
+           label_color="FFD0884E"
+           color="ff34671e"
+           color2="fff3f3f3"
+           alternative_color="fff3f3f3"
+           alternative_color2="ff34671e"
+           culture="Culture.pirates"
+           default_party_template="PartyTemplate.kingdom_hero_party_mercenary_aserai_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_clan_type_mercenary="false"
+           name="{=E11ARMENIAN_name}Taifa of Majorca"
+           tier="4"
+           text="{=E11ARMENIAN_text}The Taifa of Majorca was a medieval Islamic taifa kingdom which existed from 1018 to 1203 in Majorca. It was founded by the Slavic warlord Mujāhid al-ʿĀmirī. The first taifa lasted for about 50 years (1076-1116), first succumbing to a Christian crusade and later being occupied by the Almoravids.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_ghilman_leader_0" />
+      <template id="NPCCharacter.spc_ghilman_leader_1" />
+      <template id="NPCCharacter.spc_ghilman_leader_2" />
+      <template id="NPCCharacter.spc_ghilman_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+  
+  <Faction id="legion_of_the_betrayed"
+           initial_posX="197.0"
+           initial_posY="876.0"
+           banner_key="11.128.19.1836.1836.779.782.1.0.-30.513.83.116.315.1120.754.611.1.0.-180.505.128.116.558.495.756.431.0.0.0.513.83.116.320.256.754.523.1.0.0.435.83.116.320.256.621.635.1.0.90.435.83.116.320.256.888.635.1.0.-90.521.121.116.301.291.754.667.1.0.0.200.83.116.137.110.750.635.1.0.38.200.83.116.137.110.766.675.1.0.82"
+           label_color="FF7B5869"
+           color="ffD22D33"
+           color2="fff3f3f3"
+           alternative_color="fff3f3f3"
+           alternative_color2="ffD22D33"
+           culture="Culture.spanish"
+           default_party_template="PartyTemplate.kingdom_hero_party_mercenary_empire_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_clan_type_mercenary="true"
+           name="{=E11ST_MICHAEL_name}Order of Saint Michael of the Wing"
+           short_name="{=E11ST_MICHAEL_shortname}Order of Saint Michael"
+           tier="4"
+           text="{=E11ST_MICHAEL_text}The order was founded by King Afonso I to honour a group of knights of the Order of Saint James of the Sword from the Kingdom of León, who assisted him in retaking Santarém from the Moors on the Feast of Saint Michael, May 8, 1147. Originally, the order was formed from members of the Military Order of Saint James.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_legion_of_the_betrayed_leader_0" />
+      <template id="NPCCharacter.spc_legion_of_the_betrayed_leader_1" />
+      <template id="NPCCharacter.spc_legion_of_the_betrayed_leader_2" />
+      <template id="NPCCharacter.spc_legion_of_the_betrayed_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+  
+  <Faction id="skolderbrotva"
+           initial_posX="865.0"
+           initial_posY="1102.0"
+           banner_key="11.119.19.1836.1836.779.782.1.0.-30.510.128.116.570.422.764.953.0.0.0.510.128.116.412.422.691.764.0.0.-91.510.128.116.412.422.846.764.0.0.-91.510.128.116.230.422.986.835.0.0.-91.510.128.116.230.422.543.835.0.0.-91"
+           label_color="FF72583B"
+           color="ffffffff"
+           color2="ff0B0C11"
+           alternative_color="ff0B0C11"
+           alternative_color2="ffffffff"
+           culture="Culture.khuzait"
+           default_party_template="PartyTemplate.kingdom_hero_party_karakhuzaits_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_clan_type_mercenary="true"
+		   is_outlaw="false"
+           name="{=E11RAVENNA_name}Kipchaks"
+		   short_name="{=E11RAVENNA_shortname}Kipchaks"
+           tier="4"
+           text="{=E11RAVENNA_text}The Kipchaks or Qipchaks, also known as Kipchak Turks or Polovtsians, were a Turkic nomadic people and confederation that existed in the Middle Ages, inhabiting parts of the Eurasian Steppe. First mentioned in the 8th century as part of the Second Turkic Khaganate, they most likely inhabited the Altai region from where they expanded over the following centuries, first as part of the Kimek Khanate and later as part of a confederation with the Cumans. There were groups of Kipchaks in the Pontic–Caspian steppe, China, Syr Darya and Siberia. The Cuman–Kipchak confederation was conquered by the Mongols in the early 13th century.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_skolderbrotva_leader_0" />
+      <template id="NPCCharacter.spc_skolderbrotva_leader_1" />
+      <template id="NPCCharacter.spc_skolderbrotva_leader_2" />
+      <template id="NPCCharacter.spc_skolderbrotva_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+
+  <Faction id="company_of_the_boar"
+           initial_posX="1024.0"
+           initial_posY="709.0"
+           banner_key="34.116.116.1395.1096.768.764.1.0.0.510.150.128.276.61.630.769.1.0.90.504.150.128.52.23.632.632.1.0.121.510.150.128.251.61.685.722.1.0.90.504.150.128.52.23.685.594.1.0.121.510.150.128.156.61.770.652.1.0.90.504.150.128.52.23.771.573.1.0.121.504.150.128.52.16.769.727.0.0.90.510.150.128.165.61.850.672.1.0.90.504.150.128.52.23.851.587.1.0.121.510.150.128.347.61.883.763.1.0.90.504.150.128.52.23.884.602.1.0.121.510.150.128.224.61.917.740.1.0.90.504.150.128.52.23.919.633.1.0.121.510.150.128.197.61.948.771.1.0.90.504.150.128.52.23.949.673.1.0.121.427.150.128.99.30.920.891.1.0.39.427.150.128.58.59.861.934.0.0.11.427.150.128.33.70.822.913.0.0.179.427.150.128.50.97.788.937.0.0.-1.427.150.128.50.16.791.901.1.0.259.427.150.128.95.38.672.899.1.0.21.510.150.128.51.44.709.853.1.0.269.427.150.128.120.38.719.879.1.0.294.427.150.128.108.32.772.886.1.0.209.510.150.128.97.53.770.865.1.0.0.427.150.128.85.25.750.844.1.0.208.427.150.128.22.28.776.824.1.0.208.427.150.128.145.52.622.822.1.0.-28.427.150.128.46.35.570.755.1.0.-102.427.150.128.86.55.628.794.1.0.2.427.150.128.40.30.657.769.1.0.121.427.150.128.64.27.669.767.1.0.-2.427.150.128.30.50.708.778.1.0.-2.427.150.128.25.50.734.776.1.0.7.427.150.128.69.43.746.809.1.0.10.427.150.128.86.35.805.782.1.0.193.510.150.128.180.63.805.795.1.0.135.504.150.128.42.22.741.730.1.0.163.428.150.128.48.43.849.865.1.0.0.510.150.128.188.63.895.795.1.0.-135.504.150.128.42.22.963.729.1.0.76.427.150.128.61.19.969.786.1.0.91.427.150.128.24.8.968.769.1.0.128.510.150.128.158.63.887.743.1.0.128.427.150.128.74.22.933.830.1.0.85.504.150.128.39.15.915.853.1.0.270.428.150.128.17.19.908.880.1.0.-78.427.150.128.41.11.911.885.1.0.21.427.150.128.41.11.806.723.1.0.21.504.150.128.41.23.844.688.1.0.165.504.150.128.10.30.848.761.0.0.-189.427.150.128.40.61.594.707.1.0.3.427.150.128.31.94.626.710.1.0.3.427.150.128.31.94.654.707.1.0.3.504.150.128.28.12.668.681.1.0.114.427.150.128.40.61.738.659.1.0.3.427.150.128.31.94.771.658.1.0.3.427.150.128.31.94.799.657.1.0.3.504.150.128.28.12.812.632.1.0.114.427.150.128.16.23.656.639.1.0.3.427.128.128.16.23.667.640.1.0.3.427.128.128.16.23.798.605.1.0.3.427.128.128.16.23.812.605.1.0.3.427.128.128.48.17.595.659.1.0.-113.427.128.128.37.14.600.752.1.0.-113.427.128.128.48.18.604.865.1.0.-113.427.128.128.73.27.714.720.1.0.-113.427.128.128.42.16.752.787.1.0.-113.427.128.128.42.16.811.742.1.0.-113.427.128.128.42.16.801.837.1.0.-113.427.128.128.42.16.855.792.1.0.-113.427.128.128.33.12.863.650.1.0.-113.427.128.128.33.12.897.686.1.0.-113.427.128.128.25.30.678.879.1.0.170.427.128.128.25.30.654.880.1.0.170.427.128.128.25.30.683.929.1.0.170.427.128.128.25.30.705.929.1.0.170.427.128.128.102.25.704.947.1.0.-6.428.128.128.19.19.747.954.1.0.17.427.128.128.39.24.651.605.1.0.17.512.128.128.53.17.653.598.1.0.23.427.128.128.39.24.729.569.1.0.17.512.128.128.53.17.732.562.1.0.23.427.128.128.65.26.722.618.1.0.23.428.128.128.24.17.747.599.1.0.168.427.128.128.44.15.798.571.1.0.113.427.128.128.41.-13.795.566.1.0.307"
+           label_color="FFB38841"
+           color="ff34671e"
+           color2="ff0B0C11"
+           alternative_color="ff0B0C11"
+           alternative_color2="ff34671e"
+           culture="Culture.ayyubid"
+           default_party_template="PartyTemplate.kingdom_hero_party_mercenary_vlandia_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_clan_type_mercenary="true"
+           name="{=E11LAZARUS_name}Banu Tayy"
+           short_name="{=E11LAZARUS_shortname}Tayy"
+           tier="4"
+           text="{=E11LAZARUS_text}The Tayy are a large and ancient Arab tribe, among whose descendants today are the tribes of Bani Sakher and Shammar. In the second century CE, they migrated to the northern Arabian ranges of the Shammar and Salma Mountains, which then collectively became known as the Jabal Tayy, and later Jabal Shammar. They vacillated between the Fatimids and the Byzantines and then between the Seljuks and Crusaders until the late 12th and early 13th centuries, when the Tayy's various subbranches, chief among them the Al Fadl, were left as the last politically influential Arab tribe in the region extending from Najd northward to Upper Mesopotamia.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_company_of_the_boar_leader_0" />
+      <template id="NPCCharacter.spc_company_of_the_boar_leader_1" />
+      <template id="NPCCharacter.spc_company_of_the_boar_leader_2" />
+      <template id="NPCCharacter.spc_company_of_the_boar_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+ 
+  <Faction id="beni_zilal"
+           initial_posX="1251.0"
+           initial_posY="917.0"
+           banner_key="11.129.19.1836.1836.779.782.1.0.-30.139.116.116.578.581.763.758.0.1.-1"
+           label_color="FFB38841"
+           color="ff34671e"
+           color2="ff0B0C11"
+           alternative_color="ff0B0C11"
+           alternative_color2="ff34671e"
+           culture="Culture.persian"
+           default_party_template="PartyTemplate.kingdom_hero_party_outlaw_aserai_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_clan_type_mercenary="false"		   
+           is_outlaw="true"
+           is_mafia="true"
+           name="{=E11ASSASINS_name}Order of Assassins"
+           tier="4"
+           text="{=E11ASSASINS_text}The Order of Assassins or simply the Assassins were a Nizari Isma'ilist order and sect of Shia Islam that existed between 1090 and 1275 CE, founded by Hasan-i Sabbah. During that time they lived in the mountains of Persia and in Syria, and held a strict subterfuge policy throughout the Middle East through the covert murder of Muslim and Christian leaders who were considered enemies of the Nizārī Ismaili State. The modern term assassination is believed to stem from the tactics used by the Assassins.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_beni_zilal_leader_0" />
+      <template id="NPCCharacter.spc_beni_zilal_leader_1" />
+      <template id="NPCCharacter.spc_beni_zilal_leader_2" />
+      <template id="NPCCharacter.spc_beni_zilal_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+  
+  <Faction id="wolfskins"
+           initial_posX="264.0"
+           initial_posY="1048.0"
+           banner_key="11.35.19.1836.1836.768.788.1.0.-30.505.20.116.2100.2100.764.764.0.0.0.216.149.116.78.571.-158.1607.0.0.-69.503.149.116.142.101.730.769.0.0.-57.505.149.116.177.58.772.817.0.0.-71.427.149.116.109.68.765.689.0.0.-91.427.149.116.51.68.788.923.0.0.-162.427.149.116.74.68.738.932.0.0.-81.427.149.116.31.55.770.960.0.0.-217.427.149.116.96.79.716.1038.0.0.-200.427.149.116.96.79.731.1045.0.0.-193.427.149.116.96.79.745.1042.0.0.-174.426.149.116.48.41.785.960.0.0.-90.504.149.116.67.161.734.1011.0.0.-52.534.149.116.64.41.-130.1474.0.0.-42.427.149.116.94.66.888.982.0.0.-7.427.149.116.84.76.939.818.0.0.170.427.149.116.68.59.909.831.0.0.272.427.149.116.68.47.944.912.0.0.92.427.149.116.68.49.907.948.0.0.3.427.149.116.74.76.900.919.0.0.-146.427.149.116.117.79.921.945.0.0.-277.427.149.116.151.98.844.946.0.0.-64.510.149.116.77.61.931.872.0.0.-44.427.149.116.118.92.875.973.0.0.-18.427.149.116.118.92.848.944.0.0.-57.427.149.116.102.56.853.921.0.0.-89.505.149.116.102.32.830.918.0.0.-89.517.149.116.102.104.1486.1430.0.0.-89.505.149.116.102.85.718.712.0.0.-72.505.149.116.102.65.713.687.0.0.-117.505.149.116.102.37.805.888.0.0.-65.427.149.116.102.71.740.852.0.0.102.427.149.116.36.42.751.975.0.0.108.427.149.116.65.42.770.925.0.0.-74.505.149.116.109.42.756.915.0.0.-115.506.149.116.127.42.739.911.0.0.-296.506.149.116.97.42.759.952.0.0.-229.506.149.116.155.17.762.983.0.0.-311.506.149.116.370.80.798.820.0.0.-251.426.149.116.91.143.796.556.0.0.-143.427.149.116.188.167.711.716.0.0.-89.506.149.116.123.170.771.646.0.0.-50.427.149.116.134.98.719.660.0.0.-149.510.149.116.84.73.759.617.0.0.20.427.149.116.51.68.784.913.0.0.-162.427.149.116.119.70.774.690.0.0.-122.427.149.116.129.79.783.593.0.0.59.427.149.116.108.71.769.594.0.0.-307.427.149.116.83.55.768.565.0.0.159.222.149.116.51.68.33.1355.0.0.-162.427.149.116.59.68.687.865.0.0.-115.427.149.116.51.68.687.893.0.0.-115.427.149.116.66.68.720.853.0.0.83.505.149.116.19.107.647.935.0.0.259.506.149.116.32.51.680.920.0.0.206.426.149.116.43.68.693.901.0.0.-23.503.149.116.46.82.703.848.0.0.-53.503.149.116.51.82.706.867.0.0.-81.503.149.116.20.68.683.901.0.0.0.503.149.116.20.68.703.880.0.0.-59.427.149.116.66.48.629.941.0.0.184.427.149.116.66.54.612.944.0.0.172.427.149.116.66.44.603.933.0.0.166.427.149.116.66.58.673.953.0.0.194.341.149.116.102.104.1486.1430.0.0.-89.506.149.116.40.50.535.797.0.0.149.506.149.116.27.46.558.806.0.0.152.505.149.116.45.372.708.733.0.0.111.427.149.116.227.34.927.635.0.0.202.427.149.116.227.34.929.644.0.0.210.427.149.116.102.51.893.672.0.0.-25.510.149.116.137.84.842.709.0.0.-115.510.149.116.229.84.727.775.0.0.-173.510.149.116.161.84.698.780.0.0.-154.510.149.116.82.84.606.798.0.0.-197.506.149.116.91.206.763.734.0.0.-250.506.149.116.67.138.776.759.0.0.-256.506.149.116.88.89.635.793.0.0.-269.506.149.116.88.89.678.763.0.0.-269.424.149.116.88.168.822.734.0.0.-80.427.149.116.112.42.866.714.0.0.-150.512.149.116.31.90.830.757.0.0.-89.506.149.116.31.90.837.743.0.0.-72.506.149.116.40.90.846.697.0.0.-72.506.149.116.34.115.891.649.0.0.-66.427.149.116.52.57.888.675.0.0.-78.427.149.116.91.33.911.659.0.0.-137.504.149.116.34.36.972.623.0.0.-153.510.149.116.49.50.969.619.0.0.-150.506.149.116.51.90.858.676.0.0.-72.427.149.116.34.37.533.815.0.0.236.427.149.116.34.37.552.813.0.1.64.506.149.116.51.49.563.783.0.0.-72.506.149.116.67.235.781.695.0.0.-63.506.149.116.33.235.899.635.0.0.-70.341.149.116.67.235.-141.1515.0.0.-63.506.149.116.18.57.882.748.0.0.-91.506.149.116.24.47.887.744.0.0.-91.512.149.116.121.14.869.770.0.0.-9.427.149.116.24.-43.889.761.0.0.73.506.149.116.127.-18.933.752.0.0.190.506.149.116.30.65.922.753.0.0.-91.510.149.116.49.57.882.759.0.0.22.512.149.116.30.55.833.784.0.0.-111.512.149.116.30.55.852.793.0.0.-91.506.149.116.30.55.844.786.0.0.-107.506.149.116.37.32.573.689.0.0.-49.506.149.116.37.32.585.692.0.0.6.506.149.116.72.80.614.692.0.0.-101.506.149.116.60.80.622.710.0.0.-144.512.149.116.60.60.633.702.0.0.-145.427.149.116.46.47.569.697.0.0.-156.427.149.116.29.29.574.702.0.0.-281.461.28.116.66.58.39.1370.0.0.194.506.20.116.178.20.650.951.0.0.177.506.20.116.178.30.650.968.0.0.177.506.20.116.79.28.703.916.0.0.271.506.20.116.77.110.756.1032.0.0.325.506.20.116.94.127.773.1061.0.0.320.506.20.116.66.60.735.1070.0.0.237.506.20.116.66.108.942.648.0.0.297.506.20.116.66.77.1009.618.0.0.288.427.20.32.213.54.999.602.0.0.179.506.20.116.50.45.912.710.0.0.280.506.20.116.66.95.936.732.0.0.268.510.20.116.66.97.862.776.0.0.348.510.20.116.66.45.623.739.0.0.19.504.20.116.75.14.686.787.0.0.12.461.28.116.66.58.39.1370.0.0.194.344.149.116.66.58.39.1370.0.0.194.506.149.116.20.29.632.570.0.0.-57.506.149.116.32.48.668.602.0.0.-57.427.149.116.64.33.673.603.0.0.-140.426.149.116.41.80.684.601.0.0.-77.426.149.116.41.47.740.580.0.0.25.506.149.116.53.80.701.544.0.0.-77.512.149.116.75.90.732.530.0.0.-33.506.149.116.25.47.630.578.0.0.-78.506.149.116.33.85.673.557.0.0.-72.506.149.116.16.30.629.574.0.0.-66.427.149.116.88.40.764.562.0.0.-168.427.149.116.68.48.774.571.0.0.-242.427.149.116.59.57.701.571.0.0.132.427.149.116.98.106.767.561.0.0.-176.506.149.116.30.72.701.589.0.0.105.506.149.116.43.57.723.570.0.0.208.504.149.116.42.25.682.558.0.0.-20.504.149.116.42.25.670.565.0.0.-20.504.149.116.42.25.655.568.0.0.-20.504.149.116.42.25.641.573.0.0.-20.504.149.116.29.17.697.583.0.0.-201.504.149.116.29.17.686.590.0.0.-201.504.149.116.29.17.670.594.0.0.-201.426.149.116.30.39.635.579.0.0.-6.426.149.116.30.24.663.619.0.0.43.506.149.116.126.17.716.530.0.0.32.461.28.116.66.58.39.1370.0.0.194.344.149.116.66.58.39.1370.0.0.194.512.20.116.72.-19.733.519.0.0.37.504.20.116.22.-9.632.570.0.0.208.504.20.116.46.-6.663.564.0.0.19.427.20.116.22.-12.708.546.0.0.-21.504.20.116.46.6.746.552.0.0.11.504.20.116.35.6.748.531.0.0.-131.504.20.116.34.6.721.572.0.0.-44.504.20.116.34.6.699.593.0.0.-6.504.20.116.21.6.666.606.0.0.-141.504.145.116.15.15.676.545.0.0.199.427.145.116.70.17.622.606.0.0.23.427.145.116.70.17.628.608.0.0.35.427.145.116.55.58.576.643.0.0.246.427.145.116.41.44.553.650.0.0.63.427.145.116.59.26.566.629.0.0.193.513.145.116.27.66.587.609.0.0.79.426.145.116.30.28.589.645.0.0.341.506.145.116.32.92.594.615.0.0.281.427.145.116.59.26.574.623.0.0.193.461.28.116.66.58.39.1370.0.0.194.510.20.116.82.46.733.781.0.0.6.510.20.116.95.46.809.770.0.0.11.510.20.116.95.29.769.684.0.0.27.510.20.116.56.29.712.714.0.0.28.510.20.116.56.27.666.732.0.0.14.510.20.116.27.27.686.784.0.0.-2.427.20.116.46.12.746.796.0.0.-226.427.20.116.27.12.704.798.0.0.7.427.20.116.27.17.721.811.0.0.9.427.20.116.27.14.740.823.0.0.11.427.20.116.60.15.620.788.0.0.-10.510.20.116.37.27.661.788.0.0.8.427.20.116.27.12.667.681.0.0.2.427.20.116.33.12.684.662.0.0.-15.427.20.116.27.12.696.636.0.0.-32.506.20.116.60.96.860.881.0.0.3.427.20.116.47.22.574.697.0.0.330.427.20.116.27.21.532.805.0.0.314.427.20.116.31.22.559.813.0.0.0.427.20.116.14.21.605.941.0.0.-209.427.20.116.14.20.592.937.0.0.-209.427.20.116.14.20.588.924.0.0.-251.427.20.116.23.20.686.1025.0.0.-57.427.20.116.23.20.697.1038.0.0.-57.427.20.116.23.20.715.1045.0.0.-57.427.20.116.46.19.605.943.0.0.-115.427.20.116.46.19.589.938.0.0.-115.510.20.116.46.19.697.1028.0.0.-141.510.20.116.46.19.710.1042.0.0.-130.427.20.116.46.19.699.938.0.0.-115.427.20.116.46.19.785.957.0.0.-265.427.20.116.27.16.731.692.0.0.-115.427.20.116.27.11.752.686.0.0.-179.427.20.116.27.11.756.680.0.0.10.427.20.116.75.37.893.958.0.0.-17.510.20.116.66.54.797.664.0.0.-148.463.28.116.66.58.39.1370.0.0.194.427.149.116.51.38.838.951.0.0.211.427.149.116.51.38.834.914.0.0.187.427.149.116.51.38.835.881.0.0.183.427.149.116.51.38.828.841.0.0.183.427.149.116.51.38.821.811.0.0.183.427.149.116.51.38.817.624.0.0.131.427.149.116.51.38.824.587.0.0.131.427.149.116.51.38.814.561.0.0.192.427.149.116.51.38.795.530.0.0.192.427.149.116.51.38.768.520.0.0.226.427.149.116.28.21.910.906.0.0.226.427.149.116.28.21.885.928.0.0.293.427.149.116.28.21.916.945.0.0.45.427.149.116.28.21.892.844.0.0.-35.427.149.116.28.21.900.811.0.0.-75.427.149.116.28.21.925.793.0.0.-114.427.149.116.28.21.950.818.0.0.-232"
+           label_color="FF848B65"
+           color="ff830808"
+           color2="fff3f3f3"
+           alternative_color="fff3f3f3"
+           alternative_color2="ff830808"
+           culture="Culture.english"
+           default_party_template="PartyTemplate.kingdom_hero_party_outlaw_battania_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_mafia="true"
+           name="{=E11POWYS_name}Routiers"
+           tier="4"
+           text="{=E11POWYS_text}Routiers were usually referred to as Englishmen in France, but they were actually composed for the most part by Gascons, after the name of the region of what is now South-West France in which they resided. But the Gascons were considered then as a distinct people from the French. The full demographic that filled the ranks of the routiers included Spaniards, Germans, English, and Frenchmen. Although there had been major raiding campaigns led by English noblemen such as the Prince of Wales, many individual routes were led by Gascon officers.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_wolfskins_leader_0" />
+      <template id="NPCCharacter.spc_wolfskins_leader_1" />
+      <template id="NPCCharacter.spc_wolfskins_leader_2" />
+      <template id="NPCCharacter.spc_wolfskins_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+  
+  <Faction id="brotherhood_of_woods"
+           initial_posX="937.0"
+           initial_posY="627.0"
+           banner_key="11.116.19.3418.3418.779.782.1.0.-30.427.127.116.456.453.763.730.1.1.-1"
+           label_color="FF5A7A4F"
+           color="ffD22D33"
+           color2="ffffffff"
+           alternative_color="ffffffff"
+           alternative_color2="ffD22D33"
+           culture="Culture.aserai"
+           default_party_template="PartyTemplate.kingdom_hero_party_outlaw_vlandia_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_mafia="true"
+           name="{=E11HOSPITAL_name}Sudanese Tribesman"
+           short_name="{=E11HOSPITAL_shortname}Sudanese Tribesman"
+           tier="4"
+           text="{=E11HOSPITAL_text}As warriors, the ancient Nubians were famous for their skill and precision with the bow and arrow. In the Middle Ages, the Nubians converted to Christianity and established three kingdoms: Nobatia in the north, Makuria in the center, and Alodia in the south. They then converted to Islam during the Islamization of the Sudan region.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
+      <template id="NPCCharacter.spc_brotherhood_of_woods_leader_1" />
+      <template id="NPCCharacter.spc_brotherhood_of_woods_leader_2" />
+      <template id="NPCCharacter.spc_brotherhood_of_woods_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+
+  <Faction id="hidden_hand"
+           initial_posX="423.0"
+           initial_posY="986.0"
+           banner_key="11.128.19.1836.1836.779.782.1.0.-30.510.83.116.678.385.765.764.0.0.0.510.83.116.835.385.771.763.0.0.-90"
+           label_color="FF66CCFF"
+           color="ffffffff"
+           color2="ffD22D33"
+           alternative_color="ffD22D33"
+           alternative_color2="ffffffff"
+           culture="Culture.italian"
+           default_party_template="PartyTemplate.kingdom_hero_party_outlaw_empire_w_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_mafia="true"
+           name="{=E11GENOESE_name}Genoese"
+           short_name="{=E11GENOESE_shortname}Genoese"
+           tier="3"
+           text="{=E11GENOESE_text}The Genoese crossbowmen were a famous military corps of the Middle Ages, which acted both in defense of the Republic of Genoa and as a mercenary force for other Italian or European powers. Armed with crossbows, they fought both on land and in naval battles; notable cases of the latter are the battles of Meloria and Curzola.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_hidden_hand_leader_0" />
+      <template id="NPCCharacter.spc_hidden_hand_leader_1" />
+      <template id="NPCCharacter.spc_hidden_hand_leader_2" />
+      <template id="NPCCharacter.spc_hidden_hand_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+  
+  <Faction id="lakepike"
+           initial_posX="800.0"
+           initial_posY="960.0"
+           banner_key="11.128.19.1836.1836.779.782.1.0.-30.418.145.116.489.493.765.759.1.0.-44.310.116.116.192.193.586.541.1.0.36.310.116.116.192.193.939.541.1.1.323.310.116.116.192.193.943.968.1.0.-144.310.116.116.192.193.588.974.1.1.143"
+           label_color="FF7CAFC7"
+           color="ff830808"
+           color2="ff0B0C11"
+           alternative_color="ff0B0C11"
+           alternative_color2="ff830808"
+           culture="Culture.sturgia"
+           default_party_template="PartyTemplate.kingdom_hero_party_outlaw_sturgia_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_mafia="true"
+           name="{=E11VARAG_name}Varangians"
+           short_name="{=E11VARAG_shortname}Varangians"
+           tier="4"
+           text="{=E11VARAG_text}The Varangians were Viking conquerors, traders and settlers, mostly from present-day Sweden. The Varangians settled in the territories of modern-day Belarus, Russia and Ukraine, and in the 9th century, they founded the medieval state of Kievan Rus. They also formed the Byzantine Varangian Guard, which later also included Anglo-Saxons.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_lakepike_leader_0" />
+      <template id="NPCCharacter.spc_lakepike_leader_1" />
+      <template id="NPCCharacter.spc_lakepike_leader_2" />
+      <template id="NPCCharacter.spc_lakepike_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+
+  <Faction id="embers_of_flame"
+           initial_posX="451.0"
+           initial_posY="1224.0"
+           banner_key="11.40.84.1836.1836.779.782.1.0.-30.503.148.116.572.555.760.755.1.0.-1.419.7.116.635.616.760.755.1.0.-1.503.40.116.455.442.760.755.1.0.-1.419.7.116.635.616.760.755.1.0.-1.121.7.116.478.464.725.751.1.0.-1"
+           label_color="FF7C2B1A"
+           color="ff830808"
+           color2="ff0B0C11"
+           alternative_color="ff0B0C11"
+           alternative_color2="ff830808"
+           culture="Culture.byzantine"
+           default_party_template="PartyTemplate.kingdom_hero_party_outlaw_jomsvikings_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_sect="true"
+           name="{=E11GEORG_name}Jomsvikings"
+           short_name="{=E11GEORG_shortname}Jomsvikings"
+           tier="3"
+           text="{=E11GEORG_text}The Jomsvikings were purportedly a legendary order of Viking mercenaries or conquerors of the 10th and 11th centuries. Though reputed to be staunchly dedicated to the worship of the Old Norse gods, they would allegedly fight for any lord who could pay their substantial fees, even if they may be Christian. The institution of the Jomsvikings would itself foreshadow those of the later religious and chivalric orders of the Middle Ages.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_embers_of_flame_leader_0" />
+      <template id="NPCCharacter.spc_embers_of_flame_leader_1" />
+      <template id="NPCCharacter.spc_embers_of_flame_leader_2" />
+      <template id="NPCCharacter.spc_embers_of_flame_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+
+  <Faction id="jawwal"
+           initial_posX="1022.0"
+           initial_posY="950.0"
+           banner_key="11.128.19.1836.1836.779.782.1.0.-30.516.10.116.437.483.766.754.1.0.0"
+           label_color="FFAC5F2E"
+           color="ff429081"
+           color2="ffffffff"
+           alternative_color="ffffffff"
+           alternative_color2="ff429081"
+           culture="Culture.khuzait"
+           default_party_template="PartyTemplate.kingdom_hero_party_jawwal_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_nomad="true"
+           name="{=E11DANISHMENDS_name}Danishmends"
+           tier="4"
+           text="{=E11DANISHMENDS_text}The Danishmendids or Danishmends was a Turkish beylik that ruled in north-central and eastern Anatolia from 1071/1075 to 1178. The dynasty centered originally around Sivas, Tokat, and Niksar in central-northeastern Anatolia, they extended as far west as Ankara and Kastamonu for a time, and as far south as Malatya, which they captured in 1103. In early 12th century, Danishmends were rivals of the Seljuk Sultanate of Rum, which controlled much of the territory surrounding the Danishmend lands, and they fought extensively against the Crusaders.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_jawwal_leader_0" />
+      <template id="NPCCharacter.spc_jawwal_leader_1" />
+      <template id="NPCCharacter.spc_jawwal_leader_2" />
+      <template id="NPCCharacter.spc_jawwal_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+  
+  <Faction id="karakhuzaits"
+           initial_posX="792.0"
+           initial_posY="1035.0"
+           banner_key="11.128.19.1836.1836.779.782.1.0.-30.444.116.116.370.558.762.758.1.0.-90"
+           label_color="FF72583B"
+           color="ffffffff"
+           color2="ff0B0C11"
+           alternative_color="ff0B0C11"
+           alternative_color2="ffffffff"
+           culture="Culture.khuzait"
+           default_party_template="PartyTemplate.kingdom_hero_party_karakhuzaits_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_nomad="true"
+           name="{=E11PECHENEGS_name}Pecheneg Mercenaries"
+           tier="4"
+           text="{=E11PECHENEGS_text}The Pechenegs were a semi-nomadic Turkic ethnic people from Central Asia who spoke the Pecheneg language. Pecheneg mercenaries served under the Byzantines at the Battle of Manzikert. After centuries of fighting involving all their neighbours—the Byzantine Empire, Bulgaria, Kievan Rus, Khazaria, and the Magyars—the Pechenegs were annihilated as an independent force in 1091 at the Battle of Levounion by a combined Byzantine and Cuman army under Byzantine Emperor Alexios I Komnenos. Alexios I recruited the defeated Pechenegs, whom he settled in the district of Moglena into a tagma of the Moglena Pechenegs.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_karakhuzaits_leader_0" />
+      <template id="NPCCharacter.spc_karakhuzaits_leader_1" />
+      <template id="NPCCharacter.spc_karakhuzaits_leader_2" />
+      <template id="NPCCharacter.spc_karakhuzaits_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+  
+  <Faction id="forest_people"
+           initial_posX="461.0"
+           initial_posY="1100.0"
+           banner_key="11.116.19.1836.1836.779.782.1.0.-30.140.121.142.584.594.763.763.0.0.-1"
+           label_color="FF61725E"
+           color="ff0B0C11"
+           color2="fff4d32e"
+           alternative_color="fff4d32e"
+           alternative_color2="ff0B0C11"
+           culture="Culture.empire"
+           default_party_template="PartyTemplate.kingdom_hero_party_forest_people_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_nomad="true"
+           name="{=E11GWYNEDD_name}Brabancons"
+           tier="4"
+           text="{=E11GWYNEDD_text}The social origins of the Brabançons are uncertain. Some were the younger sons of the knightly class who had received formal military training. Others were drawn from the lower classes and had little or no such training. There were some women in their ranks. They mostly fought as infantry, possessing few horses. They were feared because of their ruthlessness, but probably had less of a tactical impact than the routiers of the later Middle Ages">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_forest_people_leader_0" />
+      <template id="NPCCharacter.spc_forest_people_leader_1" />
+      <template id="NPCCharacter.spc_forest_people_leader_2" />
+      <template id="NPCCharacter.spc_forest_people_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>
+  
+  <Faction id="eleftheroi"
+           initial_posX="486.0"
+           initial_posY="982.0"
+           banner_key="11.128.19.1836.1836.779.782.1.0.-30.445.145.116.754.564.773.764.1.0.0.505.128.116.294.220.767.972.0.0.0.513.145.116.241.837.769.731.1.0.-181.505.128.116.294.220.767.441.0.0.0.213.131.116.116.136.725.483.1.0.0.213.131.116.116.136.815.481.1.0.0.505.128.116.84.39.769.543.0.0.0.215.131.116.179.211.584.880.1.0.0.215.131.116.179.211.941.880.1.0.0"
+           label_color="FFA6825C"
+           color="ffffffff"
+           color2="ff830808"
+           alternative_color="ff830808"
+           alternative_color2="ffffffff"
+           culture="Culture.italian"
+           default_party_template="PartyTemplate.kingdom_hero_party_eleftheroi_template"
+           settlement_banner_mesh="encounter_flag_f"
+           is_minor_faction="true"
+           is_outlaw="false"
+           is_nomad="true"
+           name="{=E11ST_JAMES_name}Order of Saint James of Altopascio"
+		   short_name="{=E11ST_JAMES_shortname}Order of Saint James"
+           tier="3"
+           text="{=E11ST_JAMES_text}The Order was founded by Matilda of Canossa between 1070 and 1080 at Altopascio, a town on the Via Francigena in what is now Tuscany. Originally the Order was composed of a few canons charged with caring for pilgrims on their way to Rome or the Holy Land, via Italy, but later it extended its concern to the Way of Saint James. Their headquarters were in the church of the same name, San Giacomo dell' Alto Passo.">
+    <minor_faction_character_templates>
+      <template id="NPCCharacter.spc_eleftheroi_leader_0" />
+      <template id="NPCCharacter.spc_eleftheroi_leader_1" />
+      <template id="NPCCharacter.spc_eleftheroi_leader_2" />
+      <template id="NPCCharacter.spc_eleftheroi_leader_3" />
+    </minor_faction_character_templates>
+  </Faction>		   
+	   
+<!--Crusades-->
+
+     <Faction id="crusaders"
+              banner_key="27.142.35.1428.1428.771.758.1.0.-90.319.128.146.243.171.603.1017.0.1.-181"
+              label_color="FF870080"
+              color="FF4F2212"
+              color2="1E1E1E15"
+              alternative_color="FF4F2212"
+              alternative_color2="1E1E1E15"
+              culture="Culture.vlandia"
+              is_noble="true"
+              default_party_template="PartyTemplate.cs_crusader_boss_template"
+              settlement_banner_mesh="encounter_flag_f"
+              is_minor_faction="true"
+              is_outlaw="false"
+              is_mafia="false"
+              name="{=crusaders11.name}Crusader Army"
+              tier="6"
+              text="{=crusaders11.text}A European crusdaer army has assembled, and makes its way to Palestine. By God's will they will retake the holy land from the heathens. The crusader army will assemble near Jerusalem or Antioch, some point after 100 days in game. Destroy this army to earn special rewards including armour, weapons, and gold!">  
+	<minor_faction_character_templates>
+      <template id="NPCCharacter.crusade_lord_1" />
+  
+    </minor_faction_character_templates>
+  </Faction>
+
+     <Faction id="jihad"
+              banner_key="11.116.116.2012.3574.780.728.1.0.0.427.127.150.306.32.1028.757.0.0.89.510.127.150.197.69.998.742.0.0.89.504.127.150.94.17.994.832.0.1.266.504.127.150.94.17.998.653.0.1.85.427.127.150.306.32.963.757.0.0.89.510.127.150.152.69.993.750.0.0.121.504.127.150.94.17.954.692.0.1.126.427.127.150.66.86.934.878.0.1.-7.427.127.150.28.86.885.876.0.1.-16.510.127.150.152.69.897.728.0.0.93.504.127.150.94.17.902.811.0.1.-92.504.127.150.94.17.894.654.0.1.-89.510.127.150.99.69.896.686.0.0.57.504.127.150.94.17.918.650.0.1.-122.503.128.150.32.38.868.743.0.1.147.510.127.150.99.69.856.690.0.0.117.510.127.150.99.69.884.699.0.0.56.503.116.150.24.25.868.742.0.1.147.510.127.150.99.69.837.656.0.0.89.504.127.150.94.17.831.647.0.1.-51.504.127.150.94.17.840.621.0.1.-87.529.127.150.94.49.806.743.0.1.-56.504.127.150.71.17.836.697.0.1.92.504.127.150.71.17.808.755.0.1.113.427.127.150.71.43.806.766.0.1.223.427.127.150.71.43.815.796.0.1.344.427.127.150.71.43.803.828.0.1.231.427.127.150.185.43.779.797.0.1.285.427.127.150.87.43.786.656.0.1.91.427.127.150.73.35.744.667.0.1.76.427.127.150.43.46.772.683.0.1.-10.427.127.150.43.46.727.684.0.1.-10.427.127.150.59.28.684.671.0.1.-86.510.127.150.46.63.700.675.0.0.62.427.127.150.121.43.736.843.0.1.44.427.127.150.54.43.691.862.0.1.-57.427.127.150.138.31.709.839.0.1.39.510.127.150.46.63.743.781.0.0.121.504.127.150.30.33.732.758.0.1.52.427.127.150.26.44.689.797.0.1.39.427.127.150.28.29.659.802.0.1.15.427.127.150.100.29.604.811.0.1.15.427.127.150.100.29.547.862.0.1.43.506.127.150.61.21.561.817.0.1.-15.427.127.150.166.29.656.692.0.1.88.427.127.150.77.67.620.760.0.1.-4.427.127.150.125.37.624.656.0.1.102.427.127.150.40.39.612.703.0.1.-25.427.127.150.56.47.570.702.0.1.-4.427.127.150.77.47.556.688.0.1.-65.427.127.150.64.35.501.692.0.1.-71.510.127.150.51.63.534.687.0.0.71.510.127.150.51.63.597.677.0.0.97.504.127.150.72.21.593.660.0.1.89.427.127.150.40.57.616.708.0.1.-5.427.127.150.48.42.722.687.0.1.-29.427.127.150.23.42.690.676.0.1.-8.427.127.150.51.81.514.695.0.1.-8.510.127.150.85.81.568.691.0.1.-90.504.127.150.72.21.571.642.0.1.-93.504.127.150.72.21.566.730.0.1.-93.511.127.150.22.34.509.639.0.1.192.511.127.150.22.34.703.640.0.1.192.428.127.150.22.34.750.606.0.1.2.428.127.150.22.34.733.607.0.1.-4.504.127.150.23.14.813.681.0.1.-93.504.127.150.27.15.866.643.0.1.-62.504.127.150.104.14.508.816.0.1.-144.504.127.150.51.12.529.844.0.1.-104.504.127.150.30.11.492.867.0.1.-50.504.127.150.106.-16.597.872.0.1.36.428.127.150.22.19.627.837.0.1.14.427.127.150.24.32.832.877.1.1.123.427.127.150.24.49.840.892.0.0.-41.512.127.150.24.18.938.843.1.1.-14.427.127.150.42.16.935.754.1.1.103.427.127.150.61.63.1009.885.0.1.51.427.116.150.64.42.1008.868.0.1.73.510.116.150.47.102.1009.853.0.1.70.510.116.150.37.37.559.709.0.1.83.510.116.150.37.37.579.715.0.1.91.510.116.150.37.37.690.704.0.1.51.510.116.150.37.37.1026.806.0.1.89.510.116.150.37.44.789.758.0.1.54.510.116.150.24.44.801.772.0.1.54.510.116.150.24.44.825.890.0.1.54.510.116.150.24.44.848.874.0.1.103"
+              label_color="ff0B0C11"
+              color="ff0B0C11"
+              color2="fff3f3f3"
+              alternative_color="fff3f3f3"
+              alternative_color2="ff0B0C11"
+              culture="Culture.ayyubid"
+              is_noble="true"
+              default_party_template="PartyTemplate.cs_jihad_boss_template"
+              settlement_banner_mesh="encounter_flag_f"
+              is_minor_faction="true"
+              is_outlaw="false"
+              is_mafia="false"
+              name="{=jihad11.name}Mujahideen Army"
+              tier="6"
+              text="{=jihad11.text}A Mujahideen army has assembled, and makes its way to the holy land. They will retake their holy sites from the Crusaders at any cost. The Mujahideen army will assemble near Jerusalem or Antioch, some point after 120 days in game. Destroy this army to earn special rewards including armour, weapons, and gold!">  
+	<minor_faction_character_templates>
+      <template id="NPCCharacter.jihad_lord" />
+
+    </minor_faction_character_templates>
+  </Faction> 
+
+     <Faction id="nomad"
+              banner_key="11.131.116.2012.3574.780.728.1.0.0.505.83.150.354.327.760.762.0.0.0"
+              label_color="fff1c232"
+              color="fff1c232"
+              color2="ffD22D33"
+              alternative_color="ffD22D33"
+              alternative_color2="fff1c232"
+              culture="Culture.khuzait"
+              is_noble="true"
+              default_party_template="PartyTemplate.cs_nomad_boss_template"
+              settlement_banner_mesh="encounter_flag_f"
+              is_minor_faction="true"
+              is_outlaw="false"
+              is_mafia="false"
+              name="{=nomad11.name}Great Nomad Horde"
+              tier="6"
+              text="{=nomad11.text}A nomadic horde from the east has arrived in Mesopotamia. This army is reported to be over 7000 men strong, and they destroy everything in their path! The Nomad Horde will appear in the western Anatolia - Georgian region some point after 200 days in game. Defeat this army to earn special rewards including armour, weapons, and gold! This will be your greatest test as a leader.">  
+	<minor_faction_character_templates>
+      <template id="NPCCharacter.nomad_lord" />
+
+    </minor_faction_character_templates>
+  </Faction>
+
+  <Faction id="ushkuyniks"
+    initial_posX="109.883"
+    initial_posY="508.369"
+    banner_key="11.143.19.1836.1836.764.764.1.0.-30.312.83.116.536.389.669.764.0.0.90.506.40.116.31.75.841.762.0.0.90.506.40.116.31.75.862.776.0.0.90.506.40.116.31.75.868.787.0.0.90.506.40.116.31.46.864.799.0.0.90.506.40.116.107.64.873.782.0.0.90.506.40.116.113.191.940.778.0.0.90.506.74.116.169.111.991.742.0.0.90.506.74.116.169.111.1001.809.0.0.90.506.74.116.169.111.1043.861.0.0.90.506.74.116.169.111.1019.674.0.0.90.506.74.116.169.111.1075.624.0.0.90.506.74.116.169.111.1145.612.0.0.90.506.74.116.169.111.1111.903.0.0.90.506.74.116.169.111.1189.915.0.0.90.506.74.116.169.111.1256.881.0.0.90.506.74.116.169.111.1310.823.0.0.90.506.74.116.169.111.1215.628.0.0.90.506.74.116.169.111.1274.666.0.0.90.506.74.116.169.111.1310.726.0.0.90.506.74.116.169.111.1330.771.0.0.90.506.74.116.624.409.1161.762.0.0.90"
+    culture="Culture.aestian"
+    default_party_template="PartyTemplate.ushkuyniks_party_template"
+    settlement_banner_mesh="encounter_flag_f"
+    is_minor_faction="true"
+    is_clan_type_mercenary="true"
+    name="{=ushkuyniks.name}Ushkuyniks"
+    tier="4"
+    text="zzz"
+    >
+		<minor_faction_character_templates>
+			<template id="NPCCharacter.ushkuynik_leader_0" />
+		</minor_faction_character_templates>
+	</Faction>
+
+	   
+</Factions>

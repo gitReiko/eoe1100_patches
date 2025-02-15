@@ -65,7 +65,23 @@
       </IncludedGameTypes>
     </XmlNode>
 
-  </Xmls>		
+    <XmlNode>                
+      <XmlName id="NPCCharacters" path="spspecialcharacters"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>	
+
+  </Xmls>
+
+  <XmlNode>
+    <XmlName id="partyTemplates" path="partyTemplates"/>
+    <IncludedGameTypes>
+      <GameType value = "Campaign"/>
+      <GameType value = "CustomGame"/>
+    </IncludedGameTypes>
+  </XmlNode>	
 
 
 </Module>

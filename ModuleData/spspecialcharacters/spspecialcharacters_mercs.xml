@@ -1,0 +1,1231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+<!--armenians-->
+
+  <NPCCharacter id="spc_ghilman_leader_0" name="{=E11ARMENIAN_NPC}of the Taifa of Majorca" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+    <!--<Hero id="spc_ghilman_leader_0" faction="Faction.ghilman" clan="Clan.ghilman"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_ghilman_leader_3" />
+      <EquipmentSet id="spc_ghilman_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_ghilman_leader_1" name="{=E11ARMENIAN_NPC}of the Taifa of Majorca" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+    <!--<Hero id="spc_ghilman_leader_1" faction="Faction.ghilman" clan="Clan.ghilman"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_ghilman_leader_1" />
+      <EquipmentSet id="spc_ghilman_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_ghilman_leader_2" name="{=E11ARMENIAN_NPC}of the Taifa of Majorca" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+    <!--<Hero id="spc_ghilman_leader_2" faction="Faction.ghilman" clan="Clan.ghilman"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_ghilman_leader_2" />
+      <EquipmentSet id="spc_ghilman_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_ghilman_leader_3" name="{=E11ARMENIAN_NPC}of the Taifa of Majorca" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+    <!--<Hero id="spc_ghilman_leader_3" faction="Faction.ghilman" clan="Clan.ghilman"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_ghilman_leader_0" />
+      <EquipmentSet id="spc_ghilman_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+<!--Sudanese-->
+ 
+ <NPCCharacter id="spc_brotherhood_of_woods_leader_0" name="{=E11HOSPITAL_NPC}of the Sudanese" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.aserai" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sudan" />
+    </face>
+    <!--<Hero id="spc_brotherhood_of_woods_leader_0" faction="Faction.brotherhood_of_woods" clan="Clan.brotherhood_of_woods"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_brotherhood_of_woods_leader_0" />
+      <EquipmentSet id="spc_brotherhood_of_woods_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_brotherhood_of_woods_leader_1" name="{=E11HOSPITAL_NPC}of the Sudanese" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.aserai" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sudan" />
+    </face>
+    <!--<Hero id="spc_brotherhood_of_woods_leader_1" faction="Faction.brotherhood_of_woods" clan="Clan.brotherhood_of_woods"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_brotherhood_of_woods_leader_1" />
+      <EquipmentSet id="spc_brotherhood_of_woods_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_brotherhood_of_woods_leader_2" name="{=E11HOSPITAL_NPC}of the Sudanese" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.aserai" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sudan" />
+    </face>
+    <!--<Hero id="spc_brotherhood_of_woods_leader_2" faction="Faction.brotherhood_of_woods" clan="Clan.brotherhood_of_woods"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_brotherhood_of_woods_leader_2" />
+      <EquipmentSet id="spc_brotherhood_of_woods_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_brotherhood_of_woods_leader_3"
+                name="{=E11HOSPITAL_NPC1}Basileios"
+                voice="softspoken"
+                age="35"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sudan" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_brotherhood_of_woods_leader_3" />
+      <EquipmentSet id="spc_brotherhood_of_woods_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+<!--Lazarist-->
+
+<NPCCharacter id="spc_company_of_the_boar_leader_0" name="{=E11LAZARUS_NPC}of the Banu Tayy" voice="curt" is_template="true" default_group="Cavalry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+    <!--<Hero id="spc_company_of_the_boar_leader_0" faction="Faction.company_of_the_boar" clan="Clan.company_of_the_boar"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_company_of_the_boar_leader_0" />
+      <EquipmentSet id="spc_company_of_the_boar_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- jovial maniac -->
+  <NPCCharacter id="spc_company_of_the_boar_leader_1" name="{=E11LAZARUS_NPC}of the Banu Tayy" voice="earnest" is_template="true" default_group="Cavalry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+    <!--<Hero id="spc_company_of_the_boar_leader_1" faction="Faction.company_of_the_boar" clan="Clan.company_of_the_boar"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_company_of_the_boar_leader_1" />
+      <EquipmentSet id="spc_company_of_the_boar_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- gentleman ranker type -->
+  <NPCCharacter id="spc_company_of_the_boar_leader_2" name="{=E11LAZARUS_NPC}of the Banu Tayy" voice="ironic" is_template="true" default_group="Cavalry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+    <!--<Hero id="spc_company_of_the_boar_leader_2" faction="Faction.company_of_the_boar" clan="Clan.company_of_the_boar"/>-->
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_company_of_the_boar_leader_2" />
+      <EquipmentSet id="spc_company_of_the_boar_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_company_of_the_boar_leader_3" name="{=E11LAZARUS_NPC}of the Banu Tayy" voice="ironic" is_template="true" default_group="Cavalry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+ 
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_company_of_the_boar_leader_3" />
+      <EquipmentSet id="spc_company_of_the_boar_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>  
+  
+<!--Saint James-->
+
+ <NPCCharacter id="spc_eleftheroi_leader_0" name="{=E11JAMES_NPC}of the Order of Saint James" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.italian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_italian" />
+    </face>
+    <!--<Hero id="spc_eleftheroi_leader_0" faction="Faction.eleftheroi" clan="Clan.eleftheroi"/>-->
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="HorseArcherFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_eleftheroi_leader_0" />
+      <EquipmentSet id="spc_eleftheroi_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_eleftheroi_leader_1" name="{=E11JAMES_NPC}of the Order of Saint James" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.italian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_italian" />
+    </face>
+    <!--<Hero id="spc_eleftheroi_leader_1" faction="Faction.eleftheroi" clan="Clan.eleftheroi"/>-->
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="HorseArcherFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_eleftheroi_leader_1" />
+      <EquipmentSet id="spc_eleftheroi_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_eleftheroi_leader_2" name="{=E11JAMES_NPC}of the Order of Saint James" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.italian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_italian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="HorseArcherFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_eleftheroi_leader_2" />
+      <EquipmentSet id="spc_eleftheroi_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_eleftheroi_leader_3" name="{=E11JAMES_NPC}of the Order of Saint James" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.italian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_italian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_eleftheroi_leader_3" />
+      <EquipmentSet id="spc_eleftheroi_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>  
+  
+<!--Saint Michael-->
+
+<NPCCharacter id="spc_legion_of_the_betrayed_leader_0" name="{=E11MICHAEL_NPC}of the Order of Saint Michael" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.spanish" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_spanish" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="+1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="KnightFightingSkills" value="3" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_legion_of_the_betrayed_leader_0" />
+      <EquipmentSet id="spc_legion_of_the_betrayed_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_legion_of_the_betrayed_leader_1" name="{=E11MICHAEL_NPC}of the Order of Saint Michael" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.spanish" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_spanish" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="+1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="+1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_legion_of_the_betrayed_leader_1" />
+      <EquipmentSet id="spc_legion_of_the_betrayed_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_legion_of_the_betrayed_leader_2" name="{=E11MICHAEL_NPC}of the Order of Saint Michael" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.spanish" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_spanish" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_legion_of_the_betrayed_leader_2" />
+      <EquipmentSet id="spc_legion_of_the_betrayed_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_legion_of_the_betrayed_leader_3" name="{=E11MICHAEL_NPC}of the Order of Saint Michael" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.spanish" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_spanish" />
+    </face>
+
+    <Traits>
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_legion_of_the_betrayed_leader_3" />
+      <EquipmentSet id="spc_legion_of_the_betrayed_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>  
+  
+<!--Varangians-->
+
+<NPCCharacter id="spc_lakepike_leader_0" name="{=E11VARAG_NPC}of the Varangians" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_lakepike_leader_0" />
+      <EquipmentSet id="spc_lakepike_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_lakepike_leader_1" name="{=E11VARAG_NPC}of the Varangians" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="PeltastFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_lakepike_leader_1" />
+      <EquipmentSet id="spc_lakepike_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_lakepike_leader_2" name="{=E11VARAG_NPC}of the Varangians" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="PeltastFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_lakepike_leader_2" />
+      <EquipmentSet id="spc_lakepike_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_lakepike_leader_3" name="{=E11VARAG_NPC}of the Varangians" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="PeltastFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_lakepike_leader_3" />
+      <EquipmentSet id="spc_lakepike_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>  
+  
+<!--Danishmends-->
+
+ <NPCCharacter id="spc_jawwal_leader_0" name="{=E11DANISHMENDS_NPC}of the Danishmends" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_persian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_jawwal_leader_0" />
+      <EquipmentSet id="spc_jawwal_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_jawwal_leader_1" name="{=E11DANISHMENDS_NPC}of the Danishmends" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_persian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_jawwal_leader_1" />
+      <EquipmentSet id="spc_jawwal_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_jawwal_leader_2" name="{=E11DANISHMENDS_NPC}of the Danishmends" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_persian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_jawwal_leader_2" />
+      <EquipmentSet id="spc_jawwal_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_jawwal_leader_3"
+                name="{=E11DANISHMENDS_NPC1}Gazi Gümüshtigin"
+                voice="softspoken"
+                age="45"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="HorseArcher">
+    <face>
+      <face_key_template value="BodyProperty.spc_jawwal_leader_3_bp" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_jawwal_leader_3" />
+      <EquipmentSet id="spc_jawwal_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>  
+  
+<!--Pecheneg-->
+
+<NPCCharacter id="spc_karakhuzaits_leader_0" name="{=E11PECHENEGS_NPC}of the Pechenegs" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_karakhuzaits_leader_0" civilian="true" />
+      <EquipmentSet id="spc_karakhuzaits_leader_0" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_karakhuzaits_leader_1" name="{=E11PECHENEGS_NPC}of the Pechenegs" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_karakhuzaits_leader_1" civilian="true" />
+      <EquipmentSet id="spc_karakhuzaits_leader_1" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_karakhuzaits_leader_2" name="{=E11PECHENEGS_NPC}of the Pechenegs" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_karakhuzaits_leader_2" civilian="true" />
+      <EquipmentSet id="spc_karakhuzaits_leader_2" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_karakhuzaits_leader_3" name="{=E11PECHENEGS_NPC}of the Pechenegs" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_karakhuzaits_leader_3" civilian="true" />
+      <EquipmentSet id="spc_karakhuzaits_leader_3" />
+    </Equipments>
+  </NPCCharacter>  
+  
+<!--Georgians-->
+
+<NPCCharacter id="spc_embers_of_flame_leader_0" name="{=E11GEORG_NPC}of the Jomsvikings" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="KnightFightingSkills" value="3" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_embers_of_flame_leader_0" />
+      <EquipmentSet id="spc_embers_of_flame_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_embers_of_flame_leader_1" name="{=E11GEORG_NPC}of the Jomsvikings" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_embers_of_flame_leader_1" />
+      <EquipmentSet id="spc_embers_of_flame_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_embers_of_flame_leader_2" name="{=E11GEORG_NPC}of the Jomsvikings" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_embers_of_flame_leader_2" />
+      <EquipmentSet id="spc_embers_of_flame_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_embers_of_flame_leader_3"
+                name="{=E11GEORG_NPC}of the Jomsvikings"
+                voice="softspoken"
+                is_template="true"
+                is_hero="false"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                default_group="Infantry">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_embers_of_flame_leader_3" />
+      <EquipmentSet id="spc_embers_of_flame_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>  
+  
+<!--Genoese-->
+
+ <NPCCharacter id="spc_hidden_hand_leader_0" name="{=E11GENOESE_NPC}of the Genoese" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.italian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_italian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="KnightFightingSkills" value="3" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_hidden_hand_leader_0" />
+      <EquipmentSet id="spc_hidden_hand_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_hidden_hand_leader_1" name="{=E11GENOESE_NPC}of the Genoese" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.italian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_italian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_hidden_hand_leader_1" />
+      <EquipmentSet id="spc_hidden_hand_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_hidden_hand_leader_2" name="{=E11GENOESE_NPC}of the Genoese" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.italian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_italian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_hidden_hand_leader_2" />
+      <EquipmentSet id="spc_hidden_hand_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_hidden_hand_leader_3" name="{=E11GENOESE_NPC}of the Genoese" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.italian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_italian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_hidden_hand_leader_3" />
+      <EquipmentSet id="spc_hidden_hand_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter> 
+
+<!--Assassins-->
+
+ <NPCCharacter id="spc_beni_zilal_leader_0" name="{=E11ASSASINS_NPC}of the Order of Assassins" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.persian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_persian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_beni_zilal_leader_0" />
+      <EquipmentSet id="spc_beni_zilal_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_beni_zilal_leader_1" name="{=E11ASSASINS_NPC}of the Order of Assassins" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.persian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_persian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_beni_zilal_leader_1" />
+      <EquipmentSet id="spc_beni_zilal_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_beni_zilal_leader_2" name="{=E11ASSASINS_NPC}of the Order of Assassins" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.persian" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_persian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_beni_zilal_leader_2" />
+      <EquipmentSet id="spc_beni_zilal_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_beni_zilal_leader_3"
+                name="{=E11ASSASINS_NPC1}Hasan-i Sabbah"
+                voice="softspoken"
+                age="50"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.persian"
+                occupation="Lord"
+                default_group="Infantry">
+    <face>
+      <face_key_template value="BodyProperty.spc_beni_zilal_leader_3_bp" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_beni_zilal_leader_3" />
+      <EquipmentSet id="spc_beni_zilal_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--Kipchaks-->
+
+<NPCCharacter id="spc_skolderbrotva_leader_0" name="{=E11RAVENNA_NPC}of the Kipchaks" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_skolderbrotva_leader_0" />
+      <EquipmentSet id="spc_skolderbrotva_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_skolderbrotva_leader_1" name="{=E11RAVENNA_NPC}of the Kipchaks" voice="softspoken" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_skolderbrotva_leader_1" />
+      <EquipmentSet id="spc_skolderbrotva_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_skolderbrotva_leader_2" name="{=E11RAVENNA_NPC}of the Kipchaks" voice="softspoken" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_skolderbrotva_leader_2" />
+      <EquipmentSet id="spc_skolderbrotva_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="spc_skolderbrotva_leader_3" name="{=E11RAVENNA_NPC}Köten of the Kipchaks" voice="softspoken" is_template="true" default_group="HorseArcher" is_hero="true" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_skolderbrotva_leader_3" />
+      <EquipmentSet id="spc_skolderbrotva_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+<!--Brabancons-->
+
+<NPCCharacter id="spc_forest_people_leader_0" name="{=E11GWYNEDD_NPC}of the Brabancons" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="ArcherFIghtingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_forest_people_leader_0" />
+      <EquipmentSet id="spc_forest_people_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_forest_people_leader_1" name="{=E11GWYNEDD_NPC}of the Brabancons" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="ArcherFIghtingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_forest_people_leader_1" />
+      <EquipmentSet id="spc_forest_people_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_forest_people_leader_2" name="{=E11GWYNEDD_NPC}of the Brabancons" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="ArcherFIghtingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_forest_people_leader_2" />
+      <EquipmentSet id="spc_forest_people_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_forest_people_leader_3" name="{=E11GWYNEDD_NPC}of the Brabancons" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="ArcherFIghtingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_forest_people_leader_3" />
+      <EquipmentSet id="spc_forest_people_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>  
+  
+<!--Routiers-->
+
+<NPCCharacter id="spc_wolfskins_leader_0" name="{=E11POWYS_NPC}of the Routiers" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="8" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_wolfskins_leader_0" />
+      <EquipmentSet id="spc_wolfskins_leader_0" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_wolfskins_leader_1" name="{=E11POWYS_NPC}of the Routiers" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_wolfskins_leader_1" />
+      <EquipmentSet id="spc_wolfskins_leader_1" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_wolfskins_leader_2" name="{=E11POWYS_NPC}of the Routiers" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_wolfskins_leader_2" />
+      <EquipmentSet id="spc_wolfskins_leader_2" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spc_wolfskins_leader_3" name="{=E11POWYS_NPC}of the Routiers" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="spc_wolfskins_leader_3" />
+      <EquipmentSet id="spc_wolfskins_leader_3" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+<!--Crusaders-->
+
+  <NPCCharacter id="crusade_lord_0"
+                name="{=crusade_NPC}Peter the Hermit"
+                voice="softspoken"
+                age="50"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22" weight="0.5" build="0.5"  key="000AAC0B8000240CB9A3669927A6C679537D86629511323BDCB177278A84F667007776030748B49500000000000000000000000000000000000000003EFC5002"  />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="crusade_lord" />
+      <EquipmentSet id="crusade_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>   
+  
+  <NPCCharacter id="crusade_lord_1" name="{=crusade_lord_text}of the Crusader Army" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="BalancedFightingSkills" value="6" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="crusade_lord" />
+      <EquipmentSet id="crusade_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter> 
+
+<!--Jihadist-->  
+ 
+  <NPCCharacter id="jihad_lord" name="{=jihad_NPC}of the Jihadists" voice="ironic" is_template="true" default_group="Cavalry" is_hero="false" culture="Culture.ayyubid" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="jihad_lord" />
+      <EquipmentSet id="jihad_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>  
+
+  <NPCCharacter id="nomad_lord" name="{=jihad_NPC}of the Steppe Nomads" voice="ironic" is_template="true" default_group="Cavalry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_ayyubid" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="nomad_lord" />
+      <EquipmentSet id="nomad_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="ushkuynik_leader_0" name="{=!}Aedric Prion" is_female="false" age="35" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.villager_aestian"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Honor" value="1" />
+			<Trait id="Valor" value="1" />
+			<Trait id="Mercy" value="-1" />
+			<Trait id="Calculating" value="-1" />
+      <Trait id="SergeantCommandSkills" value="5" />
+      <Trait id="ArcherFIghtingSkills" value="6" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.steppe_war_bow" />
+        <equipment slot="Item1" id="Item.blunt_arrows"/>
+        <equipment slot="Item2" id="Item.empire_sword_6_t5"/>
+        <equipment slot="Item3" id="Item.northern_round_shield"/>
+        <equipment slot="Head" id="Item.nasal_helmet_with_mail" />
+        <equipment slot="Body" id="Item.vlandia_chainmail" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.steppe_war_bow" />
+        <equipment slot="Item1" id="Item.blunt_arrows"/>
+        <equipment slot="Item2" id="Item.empire_sword_6_t5"/>
+        <equipment slot="Item3" id="Item.northern_round_shield"/>
+        <equipment slot="Head" id="Item.nasal_helmet_with_mail" />
+        <equipment slot="Body" id="Item.vlandia_chainmail" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+ 
+</NPCCharacters>
