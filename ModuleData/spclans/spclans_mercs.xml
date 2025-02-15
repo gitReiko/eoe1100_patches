@@ -455,13 +455,15 @@
     default_party_template="PartyTemplate.ushkuyniks_party_template"
     settlement_banner_mesh="encounter_flag_f"
     is_minor_faction="true"
-    is_clan_type_mercenary="true"
     name="{=ushkuyniks.name}Ushkuyniks"
     tier="4"
-    text="zzz"
+    text="{=ushkuyniks.text}The Ushkuyniks are Novgorod river pirates, traders and mercenaries. Their name comes from boats Ushkuy. Ushkuyniks appear in the 11th century and were active until the 15th century. In 1032 the Ushkuyniks made a campaign to Yugra. In 1374 Ushkuyniki made another raid on the Golden Horde and captured its capital Sarai. Ushkuyniks were actively used as mercenaries by the Novgorod and Moscow nobility. In the 14th century they were able to create their own state Vyatka Republic, which existed until 1489, when Moscow Tsar Ivan III the Great finally subjugated it."
     >
 		<minor_faction_character_templates>
 			<template id="NPCCharacter.ushkuynik_leader_0" />
+      <template id="NPCCharacter.ushkuynik_leader_1" />
+      <template id="NPCCharacter.ushkuynik_leader_2" />
+      <template id="NPCCharacter.ushkuynik_leader_3" />
 		</minor_faction_character_templates>
 	</Faction>
 
