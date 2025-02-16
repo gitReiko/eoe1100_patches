@@ -467,5 +467,30 @@
 		</minor_faction_character_templates>
 	</Faction>
 
+  <Faction id="kylfingar"
+    initial_posX="894.2345"
+    initial_posY="1334.891"
+    banner_key="11.31.19.1836.1836.764.764.1.0.-30.121.73.116.515.515.769.917.0.0.10.504.48.116.102.261.765.662.0.0.0.504.48.116.102.261.765.597.0.1.180.504.48.116.102.261.798.630.0.0.89.504.48.116.102.261.732.629.0.1.269"
+    label_color="ff0090a7"
+    color="ff00a0ba"
+    color2="ffe44535"
+    alternative_color="ffe44535"
+    alternative_color2="ff00a0ba"
+    culture="Culture.aestian"
+    default_party_template="PartyTemplate.ushkuyniks_party_template"
+    settlement_banner_mesh="encounter_flag_f"
+    is_minor_faction="true"
+    name="{=kylfingar.name}Kylfingar"
+    tier="4"
+    text="{=kylfingar.text}Kulfings operated on the vast territory of Byzantium, Rus and Lapland. According to the sagas, the Kylfings opposed the consolidation of Norway under Harald Fairhair and participated in the pivotal late ninth century Battle of Hafrsfjord. Scholars differ on whether the Kylfings were ethnically Finnic or Norse. The Kulfings are sometimes identified with the Finnish Votians ethnicity. In documents of Rus and Byzantium Kulfings are clearly separated from Varangians. But as well as Varangians they were engaged in trade, mercenary and raids."
+    >
+		<minor_faction_character_templates>
+			<template id="NPCCharacter.ushkuynik_leader_0" />
+      <template id="NPCCharacter.ushkuynik_leader_1" />
+      <template id="NPCCharacter.ushkuynik_leader_2" />
+      <template id="NPCCharacter.ushkuynik_leader_3" />
+		</minor_faction_character_templates>
+	</Faction>
+
 	   
 </Factions>
