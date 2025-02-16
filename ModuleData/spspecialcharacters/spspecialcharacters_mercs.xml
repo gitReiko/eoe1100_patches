@@ -1451,6 +1451,36 @@
         <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
         <equipment slot="Leg" id="Item.sturgia_boots_b" />
 			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_leather" />
+        <equipment slot="Cape" id="Item.rough_bearskin"/>
+        <equipment slot="Body" id="Item.battania_woodland_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.lendman_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.rough_bearskin"/>
+        <equipment slot="Body" id="Item.vlandia_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.lendman_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.battania_woodland_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.dawnbreaker_sword_t3"/>
         <equipment slot="Head" id="Item.northern_fur_cap"/>
@@ -1483,6 +1513,36 @@
         <equipment slot="Head" id="Item.goggled_helmet_over_mail" />
         <equipment slot="Cape" id="Item.bearskin"/>
         <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_leather" />
+        <equipment slot="Cape" id="Item.rough_bearskin"/>
+        <equipment slot="Body" id="Item.battania_woodland_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.lendman_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.rough_bearskin"/>
+        <equipment slot="Body" id="Item.vlandia_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.lendman_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.battania_woodland_chainmail" />
         <equipment slot="Leg" id="Item.sturgia_boots_b" />
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
@@ -1519,6 +1579,36 @@
         <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
         <equipment slot="Leg" id="Item.sturgia_boots_b" />
 			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_leather" />
+        <equipment slot="Cape" id="Item.rough_bearskin"/>
+        <equipment slot="Body" id="Item.battania_woodland_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.lendman_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.rough_bearskin"/>
+        <equipment slot="Body" id="Item.vlandia_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.lendman_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.battania_woodland_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.dawnbreaker_sword_t3"/>
         <equipment slot="Head" id="Item.northern_fur_cap"/>
@@ -1550,6 +1640,36 @@
         <equipment slot="Head" id="Item.goggled_helmet_over_mail" />
         <equipment slot="Cape" id="Item.bearskin"/>
         <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_leather" />
+        <equipment slot="Cape" id="Item.rough_bearskin"/>
+        <equipment slot="Body" id="Item.battania_woodland_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.lendman_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.rough_bearskin"/>
+        <equipment slot="Body" id="Item.vlandia_chainmail" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.lendman_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.battania_woodland_chainmail" />
         <equipment slot="Leg" id="Item.sturgia_boots_b" />
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
