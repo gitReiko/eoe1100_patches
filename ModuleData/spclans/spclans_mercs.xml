@@ -457,7 +457,7 @@
     is_minor_faction="true"
     name="{=ushkuyniks.name}Ushkuyniks"
     tier="4"
-    text="{=ushkuyniks.text}The Ushkuyniks are Novgorod river pirates, traders and mercenaries. Their name comes from boats Ushkuy. Ushkuyniks appear in the 11th century and were active until the 15th century. In 1032 the Ushkuyniks made a campaign to Yugra. In 1374 Ushkuyniki made another raid on the Golden Horde and captured its capital Sarai. Ushkuyniks were actively used as mercenaries by the Novgorod and Moscow nobility. In the 14th century they were able to create their own state Vyatka Republic, which existed until 1489, when Moscow Tsar Ivan III the Great finally subjugated it."
+    text="{=ushkuyniks.text}The Ushkuyniks are Novgorod river pirates, traders and mercenaries. Their name comes from boats Ushkuy. Ushkuyniks appear in the 11th century and were active until the 15th century. In 1032 the Ushkuyniks made a campaign to Yugra. In 1374 Ushkuyniki made another raid on the Golden Horde and captured its capital Sarai. Ushkuyniks were actively used as mercenaries by the Novgorod and Moscow nobility. In the 14th century they were able to create their own state Vyatka Republic, which existed until 1489, when Moscow Tsar Ivan III the Great finally subjugated it. Banner based on seal of Vyatka Republic and banner of Vyatka Dragoon Polk."
     >
 		<minor_faction_character_templates>
 			<template id="NPCCharacter.ushkuynik_leader_0" />
@@ -477,18 +477,18 @@
     alternative_color="ffe44535"
     alternative_color2="ff00a0ba"
     culture="Culture.aestian"
-    default_party_template="PartyTemplate.ushkuyniks_party_template"
+    default_party_template="PartyTemplate.kylfingar_party_template"
     settlement_banner_mesh="encounter_flag_f"
     is_minor_faction="true"
     name="{=kylfingar.name}Kylfingar"
     tier="4"
-    text="{=kylfingar.text}Kulfings operated on the vast territory of Byzantium, Rus and Lapland. According to the sagas, the Kylfings opposed the consolidation of Norway under Harald Fairhair and participated in the pivotal late ninth century Battle of Hafrsfjord. Scholars differ on whether the Kylfings were ethnically Finnic or Norse. The Kulfings are sometimes identified with the Finnish Votians ethnicity. In documents of Rus and Byzantium Kulfings are clearly separated from Varangians. But as well as Varangians they were engaged in trade, mercenary and raids."
+    text="{=kylfingar.text}Kulfings operated on the vast territory of Byzantium, Rus and Lapland. According to the sagas, the Kylfings opposed the consolidation of Norway under Harald Fairhair and participated in the pivotal late ninth century Battle of Hafrsfjord. Scholars differ on whether the Kylfings were ethnically Finnic or Norse. The Kulfings are sometimes identified with the Finnish Votians ethnicity. In documents of Rus and Byzantium Kulfings are clearly separated from Varangians. But as well as Varangians they were engaged in trade, mercenary and raids. Banner based on Kulfings runestone. Colors from Votians flag."
     >
 		<minor_faction_character_templates>
-			<template id="NPCCharacter.ushkuynik_leader_0" />
-      <template id="NPCCharacter.ushkuynik_leader_1" />
-      <template id="NPCCharacter.ushkuynik_leader_2" />
-      <template id="NPCCharacter.ushkuynik_leader_3" />
+			<template id="NPCCharacter.kylfingar_leader_0" />
+      <template id="NPCCharacter.kylfingar_leader_1" />
+      <template id="NPCCharacter.kylfingar_leader_2" />
+      <template id="NPCCharacter.kylfingar_leader_3" />
 		</minor_faction_character_templates>
 	</Faction>
 

@@ -3521,5 +3521,134 @@
               </EquipmentRoster>
        </Equipments>
 	</NPCCharacter>
+
+       <NPCCharacter id="kylfingar_tier_1"
+       default_group="Infantry"
+       level="21"
+       occupation="Soldier"
+       is_basic_troop="true"
+       culture="Culture.aestian"
+       name="{=kylfingar_tier_1.name}Kylfingar Warrior">
+       <face>
+              <face_key_template value="BodyProperty.villager_aestian"/>
+       </face>
+       <upgrade_targets>
+              <upgrade_target id="NPCCharacter.kylfingar_tier_2" />
+       </upgrade_targets>
+       <skills >
+      		<skill id="Athletics" value="125"/>
+              <skill id="Riding" value="0"/>
+              <skill id="OneHanded" value="100"/>
+              <skill id="TwoHanded" value="50"/>
+              <skill id="Polearm" value="100"/>
+              <skill id="Bow" value="50"/>
+              <skill id="Crossbow" value="0"/>
+              <skill id="Throwing" value="125"/>
+       </skills>
+       <Equipments>
+              <EquipmentRoster>
+                <equipment slot="Item0" id="Item.battania_axe_1_t2" />
+                <equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
+                <equipment slot="Item2" id="Item.northern_round_shield"/>
+                <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+                <equipment slot="Head" id="Item.northern_fur_cap" />
+                <equipment slot="Cape" id="Item.bearskin"/>
+                <equipment slot="Body" id="Item.nordic_sloven" />
+                <equipment slot="Leg" id="Item.sturgia_boots_b" />
+              </EquipmentRoster>
+              <EquipmentRoster civilian="true">
+                     <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+                     <equipment slot="Head" id="Item.northern_fur_cap"/>
+                     <equipment slot="Cape" id="Item.bearskin"/>
+                     <equipment slot="Body" id="Item.nordic_sloven"/>
+                     <equipment slot="Leg" id="Item.sturgia_boots_b"/>
+              </EquipmentRoster>
+       </Equipments>
+	</NPCCharacter>
+
+       <NPCCharacter id="kylfingar_tier_2"
+       default_group="Infantry"
+       level="26"
+       occupation="Soldier"
+       is_basic_troop="true"
+       culture="Culture.aestian"
+       name="{=kylfingar_tier_2.name}Kylfingar Companion">
+       <face>
+              <face_key_template value="BodyProperty.villager_aestian"/>
+       </face>
+       <upgrade_targets>
+              <upgrade_target id="NPCCharacter.kylfingar_tier_3" />
+       </upgrade_targets>
+       <skills >
+      		<skill id="Athletics" value="150"/>
+              <skill id="Riding" value="0"/>
+              <skill id="OneHanded" value="175"/>
+              <skill id="TwoHanded" value="125"/>
+              <skill id="Polearm" value="175"/>
+              <skill id="Bow" value="50"/>
+              <skill id="Crossbow" value="0"/>
+              <skill id="Throwing" value="175"/>
+       </skills>
+       <Equipments>
+              <EquipmentRoster>
+                <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+                <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+                <equipment slot="Item2" id="Item.northern_round_shield"/>
+                <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+                <equipment slot="Head" id="Item.spangenhelm_with_leather" />
+                <equipment slot="Cape" id="Item.bearskin"/>
+                <equipment slot="Body" id="Item.nordic_hauberk" />
+                <equipment slot="Leg" id="Item.sturgia_boots_b" />
+              </EquipmentRoster>
+              <EquipmentRoster civilian="true">
+                     <equipment slot="Item0" id="Item.dawnbreaker_sword_t3"/>
+                     <equipment slot="Head" id="Item.northern_fur_cap"/>
+                     <equipment slot="Cape" id="Item.bearskin"/>
+                     <equipment slot="Body" id="Item.nordic_sloven"/>
+                     <equipment slot="Leg" id="Item.sturgia_boots_b"/>
+              </EquipmentRoster>
+       </Equipments>
+	</NPCCharacter>
+
+       <NPCCharacter id="kylfingar_tier_3"
+       default_group="Infantry"
+       level="31"
+       occupation="Soldier"
+       is_basic_troop="true"
+       culture="Culture.aestian"
+       name="{=kylfingar_tier_3.name}Kylfingar Huskarlar">
+       <face>
+              <face_key_template value="BodyProperty.villager_aestian"/>
+       </face>
+       <skills >
+      		<skill id="Athletics" value="250"/>
+              <skill id="Riding" value="75"/>
+              <skill id="OneHanded" value="225"/>
+              <skill id="TwoHanded" value="125"/>
+              <skill id="Polearm" value="225"/>
+              <skill id="Bow" value="50"/>
+              <skill id="Crossbow" value="0"/>
+              <skill id="Throwing" value="200"/>
+       </skills>
+       <Equipments>
+              <EquipmentRoster>
+                <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+                <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+                <equipment slot="Item2" id="Item.viking_round_shield"/>
+                <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+                <equipment slot="Head" id="Item.goggled_helmet_over_mail" />
+                <equipment slot="Cape" id="Item.bearskin"/>
+                <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
+                <equipment slot="Leg" id="Item.sturgia_boots_b" />
+              </EquipmentRoster>
+              <EquipmentRoster civilian="true">
+                     <equipment slot="Item0" id="Item.dawnbreaker_sword_t3"/>
+                     <equipment slot="Head" id="Item.northern_fur_cap"/>
+                     <equipment slot="Cape" id="Item.bearskin"/>
+                     <equipment slot="Body" id="Item.nordic_sloven"/>
+                     <equipment slot="Leg" id="Item.sturgia_boots_b"/>
+              </EquipmentRoster>
+       </Equipments>
+	</NPCCharacter>
   
 </NPCCharacters>

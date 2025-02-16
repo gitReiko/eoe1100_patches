@@ -1425,5 +1425,141 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
+  <NPCCharacter id="kylfingar_leader_0" name="{=kylfingar_leader}of the Kylfingar" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.villager_aestian"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Honor" value="1" />
+			<Trait id="Valor" value="0" />
+			<Trait id="Mercy" value="0" />
+			<Trait id="Calculating" value="2" />
+      <Trait id="Commander" value="8" />
+      <Trait id="SergeantCommandSkills" value="6" />
+      <Trait id="PeltastFightingSkills" value="5" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3"/>
+        <equipment slot="Head" id="Item.northern_fur_cap"/>
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.nordic_sloven"/>
+        <equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="kylfingar_leader_1" name="{=kylfingar_leader}of the Kylfingar" is_female="false" age="36" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.villager_aestian"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Honor" value="-1" />
+			<Trait id="Valor" value="-1" />
+			<Trait id="Mercy" value="1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="PeltastFightingSkills" value="7" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3"/>
+        <equipment slot="Head" id="Item.northern_fur_cap"/>
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.nordic_sloven"/>
+        <equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="kylfingar_leader_2" name="{=kylfingar_leader}of the Kylfingar" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.villager_aestian"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Honor" value="2" />
+			<Trait id="Valor" value="1" />
+			<Trait id="Generosity" value="1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="SergeantCommandSkills" value="7" />
+      <Trait id="PeltastFightingSkills" value="4" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3"/>
+        <equipment slot="Head" id="Item.northern_fur_cap"/>
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.nordic_sloven"/>
+        <equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="kylfingar_leader_3" name="{=kylfingar_leader}of the Kylfingar" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.villager_aestian"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Valor" value="1" />
+			<Trait id="Generosity" value="-1" />
+      <Trait id="Commander" value="4" />
+      <Trait id="SergeantCommandSkills" value="6" />
+      <Trait id="PeltastFightingSkills" value="6" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3" />
+        <equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Item2" id="Item.viking_round_shield"/>
+        <equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_mail" />
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.sturgian_chainmale_longsleeve" />
+        <equipment slot="Leg" id="Item.sturgia_boots_b" />
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.dawnbreaker_sword_t3"/>
+        <equipment slot="Head" id="Item.northern_fur_cap"/>
+        <equipment slot="Cape" id="Item.bearskin"/>
+        <equipment slot="Body" id="Item.nordic_sloven"/>
+        <equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
  
 </NPCCharacters>
