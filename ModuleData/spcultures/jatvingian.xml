@@ -1,0 +1,389 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<SPCultures>
+
+  <Culture id="jatvingian"
+           name="{=novgorodian.name}Novgorodian"
+           is_main_culture="true"
+           color="0xff3b6298"
+           color2="0xffffffff"
+           elite_basic_troop="NPCCharacter.jatvingian_noble_warrior"
+           basic_troop="NPCCharacter.jatvingian_volunteer"
+           melee_militia_troop="NPCCharacter.jatvingian_armed_volunteer"
+           ranged_militia_troop="NPCCharacter.jatv_dregovian_archer"
+           melee_elite_militia_troop="NPCCharacter.jatvingian_drab"
+           ranged_elite_militia_troop="NPCCharacter.jatv_dregovian_experienced_archer"
+           can_have_settlement="true"
+           town_edge_number="16"
+           encounter_background_mesh="encounter_sturgia"
+           faction_banner_key="11.51.19.1836.1836.764.764.1.0.0.124.19.116.460.460.751.808.0.1.0.505.51.116.753.460.745.915.0.0.0.144.19.116.460.460.771.745.0.1.0.503.51.116.84.49.597.732.0.0.71.503.19.116.41.41.678.745.0.0.71.503.19.116.41.41.666.735.0.0.71.503.19.116.41.41.645.743.0.0.71.503.19.116.41.41.640.758.0.0.71.503.19.116.41.41.701.740.0.0.71.503.19.116.41.41.712.723.0.0.71.503.19.116.41.41.712.696.0.0.71.503.51.116.41.41.715.662.0.0.71.503.51.116.41.41.608.626.0.0.71.504.19.116.56.58.605.649.0.0.151.503.51.116.9.9.583.666.0.0.71.503.51.116.160.76.921.743.0.0.-45.503.51.116.160.76.968.741.0.0.-45.154.19.116.201.201.914.676.0.1.163.503.51.116.160.76.978.717.0.0.7.503.51.116.160.76.938.732.0.0.10.503.51.116.54.9.883.743.0.0.31.503.19.116.65.76.856.718.0.0.7"
+           villager_party_template="PartyTemplate.villager_jatvingian_template"
+           default_party_template="PartyTemplate.kingdom_hero_party_jatvingian_template"
+           elite_caravan_party_template="PartyTemplate.elite_caravan_template_jatvingian"
+           caravan_party_template="PartyTemplate.caravan_template_jatvingian"
+           militia_party_template="PartyTemplate.militia_jatvingian_template"
+           rebels_party_template="PartyTemplate.rebels_jatvingian_template"
+           vassal_reward_party_template="PartyTemplate.vassal_reward_troops_jatvingian"
+           default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+           text="{=novgorodian.text}First the Novgorod principality and then the republic formed a separate ethnos, which is sometimes distinguished as the fourth Eastern Slavic ethnos. Novgorod originally had a broad ethnic composition of Balto-Slavic and Finnish ethnicities. To the Balto-Slavs belonged the Ilmen Slavs and Kryvichs. Among the Finnish ethnicities were Izhorians, Vepsians, Karelians, Votians and other. Initially Novgorod collecting tribute from neighboring ethnoses, but over time the ethnoses were incorporated on equal rights. For example, the name of the famous mercenaries Ushkuyniks came from the local Finnish language."
+           tournament_master="NPCCharacter.tournament_master_jatvingian"
+           villager="NPCCharacter.villager_jatvingian"
+           caravan_master="NPCCharacter.caravan_master_jatvingian"
+           armed_trader="NPCCharacter.armed_trader_jatvingian"
+           caravan_guard="NPCCharacter.caravan_guard_jatvingian"
+           veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_jatvingian"
+           duel_preset="NPCCharacter.jatvingian_duel_preset"
+           prison_guard="NPCCharacter.prison_guard_jatvingian"
+           guard="NPCCharacter.guard_jatvingian"
+           blacksmith="NPCCharacter.blacksmith_jatvingian"
+           weaponsmith="NPCCharacter.weaponsmith_jatvingian"
+           townswoman="NPCCharacter.townswoman_jatvingian"
+           townswoman_infant="NPCCharacter.townswoman_infant_jatvingian"
+           townswoman_child="NPCCharacter.townswoman_child_jatvingian"
+           townswoman_teenager="NPCCharacter.townswoman_teenager_jatvingian"
+           townsman="NPCCharacter.townsman_jatvingian"
+           townsman_infant="NPCCharacter.townsman_infant_jatvingian"
+           townsman_child="NPCCharacter.townsman_child_jatvingian"
+           townsman_teenager="NPCCharacter.townsman_teenager_jatvingian"
+           village_woman="NPCCharacter.village_woman_jatvingian"
+           villager_male_child="NPCCharacter.villager_child_jatvingian"
+           villager_male_teenager="NPCCharacter.villager_teenager_jatvingian"
+           villager_female_child="NPCCharacter.village_woman_child_jatvingian"
+           villager_female_teenager="NPCCharacter.village_woman_teenager_jatvingian"
+           ransom_broker="NPCCharacter.ransom_broker_jatvingian"
+           gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_jatvingian"
+           merchant_notary="NPCCharacter.merchant_notary_jatvingian"
+           artisan_notary="NPCCharacter.artisan_notary_jatvingian"
+           preacher_notary="NPCCharacter.preacher_notary_jatvingian"
+           rural_notable_notary="NPCCharacter.rural_notable_notary_jatvingian"
+           shop_worker="NPCCharacter.shop_worker_jatvingian"
+           tavernkeeper="NPCCharacter.tavernkeeper_jatvingian"
+           taverngamehost="NPCCharacter.taverngamehost_jatvingian"
+           musician="NPCCharacter.musician_jatvingian"
+           tavern_wench="NPCCharacter.tavern_wench_jatvingian"
+           armorer="NPCCharacter.armorer_jatvingian"
+           horseMerchant="NPCCharacter.horseMerchant_jatvingian"
+           barber="NPCCharacter.barber_jatvingian"
+           merchant="NPCCharacter.merchant_jatvingian"
+           beggar="NPCCharacter.beggar_jatvingian"
+           female_beggar="NPCCharacter.female_beggar_jatvingian"
+           female_dancer="NPCCharacter.female_dancer_jatvingian"
+           gear_practice_dummy="NPCCharacter.gear_practice_dummy_empire"
+           weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_jatvingian"
+           weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_jatvingian"
+           weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_jatvingian"
+           gear_dummy="NPCCharacter.gear_dummy_empire"
+           board_game_type="Konane">
+    <vassal_reward_items>
+      <item id="Item.avalanche_2haxe" />
+    </vassal_reward_items>
+    <banner_bearer_replacement_weapons>
+      <item id="Item.sturgia_sword_1_t2" />
+      <item id="Item.sturgia_sword_2_t3" />
+      <item id="Item.sturgia_sword_4_t4" />
+      <item id="Item.sturgia_sword_5_t5" />
+    </banner_bearer_replacement_weapons>
+    <default_policies>
+      <policy id="policy_council_of_the_commons" />
+    </default_policies>
+    <male_names>
+      <name name="{=novgorodian_male_1}Antonii" />
+      <name name="{=novgorodian_male_2}Arkadii" />
+      <name name="{=novgorodian_male_3}Gerasim" />
+      <name name="{=novgorodian_male_4}Voiata" />
+      <name name="{=novgorodian_male_5}Nerevin" />
+      <name name="{=novgorodian_male_6}Kirik" />
+      <name name="{=novgorodian_male_7}Olisei" />
+      <name name="{=novgorodian_male_8}Savva" />
+      <name name="{=novgorodian_male_9}Vach" />
+      <name name="{=novgorodian_male_10}Voigost" />
+      <name name="{=novgorodian_male_11}Vyshata" />
+      <name name="{=novgorodian_male_12}Goroslav" />
+      <name name="{=novgorodian_male_13}Danila" />
+      <name name="{=novgorodian_male_14}Dmitr" />
+      <name name="{=novgorodian_male_15}Dobrynia" />
+      <name name="{=novgorodian_male_16}Zavid" />
+      <name name="{=novgorodian_male_17}Zakharia" />
+      <name name="{=novgorodian_male_18}Ivanko" />
+      <name name="{=novgorodian_male_19}Kosniatin" />
+      <name name="{=novgorodian_male_20}Miloneg" />
+      <name name="{=novgorodian_male_21}Mironeg" />
+      <name name="{=novgorodian_male_22}Miroslav" />
+      <name name="{=novgorodian_male_23}Molbovich" />
+      <name name="{=novgorodian_male_24}Nezhata" />
+      <name name="{=novgorodian_male_25}Nezda" />
+      <name name="{=novgorodian_male_26}Nozdrcha" />
+      <name name="{=novgorodian_male_27}Petr" />
+      <name name="{=novgorodian_male_28}Petrila" />
+      <name name="{=novgorodian_male_29}Prokopii" />
+      <name name="{=novgorodian_male_30}Savka" />
+      <name name="{=novgorodian_male_31}Sodko" />
+      <name name="{=novgorodian_male_32}Stavr" />
+      <name name="{=novgorodian_male_33}Strazhko" />
+      <name name="{=novgorodian_male_34}Sudila" />
+      <name name="{=novgorodian_male_35}Fedor" />
+      <name name="{=novgorodian_male_36}Foma" />
+      <name name="{=novgorodian_male_37}Iurii" />
+      <name name="{=novgorodian_male_38}Iadrei" />
+      <name name="{=novgorodian_male_39}Iakun" />
+      <name name="{=novgorodian_male_40}Uleb" />
+      <name name="{=novgorodian_male_41}Porei" />
+      <name name="{=novgorodian_male_42}Stromil" />
+      <name name="{=novgorodian_male_43}Kozma" />
+      <name name="{=novgorodian_male_44}Demian" />
+      <name name="{=novgorodian_male_45}Luka" />
+      <name name="{=novgorodian_male_46}Roman" />
+      <name name="{=novgorodian_male_47}Arsenii" />
+      <name name="{=novgorodian_male_48}Dalmat" />
+      <name name="{=novgorodian_male_49}Kliment" />
+      <name name="{=novgorodian_male_50}Aleksa" />
+      <name name="{=novgorodian_male_51}Onania" />
+      <name name="{=novgorodian_male_52}Vladislav" />
+      <name name="{=novgorodian_male_53}Viacheslav" />
+      <name name="{=novgorodian_male_54}Domash" />
+      <name name="{=novgorodian_male_55}Zhirokh" />
+      <name name="{=novgorodian_male_56}Kuzma" />
+      <name name="{=novgorodian_male_57}Matei" />
+      <name name="{=novgorodian_male_58}Ratibor" />
+    </male_names>
+    <female_names>
+      <name name="{=novgorodian_female_1}Vera" />
+      <name name="{=novgorodian_female_2}Evdokia" />
+      <name name="{=novgorodian_female_3}Evfrosinia" />
+      <name name="{=novgorodian_female_4}Elisava" />
+      <name name="{=novgorodian_female_5}Zavida" />
+      <name name="{=novgorodian_female_6}Maria" />
+      <name name="{=novgorodian_female_7}Fegnia" />
+      <name name="{=novgorodian_female_8}Ksenia" />
+      <name name="{=novgorodian_female_9}Sbyslava" />
+      <name name="{=novgorodian_female_10}Sudimira" />
+      <name name="{=novgorodian_female_11}Iakima" />
+      <name name="{=novgorodian_female_12}Umila" />
+      <name name="{=novgorodian_female_13}Malusha" />
+      <name name="{=novgorodian_female_14}Liubava" />
+      <name name="{=novgorodian_female_15}Vasilisa" />
+      <name name="{=novgorodian_female_16}Gremislava" />
+      <name name="{=novgorodian_female_17}Rostislava" />
+      <name name="{=novgorodian_female_18}Elena" />
+      <name name="{=novgorodian_female_19}Feodosia" />
+      <name name="{=novgorodian_female_20}Anna" />
+      <name name="{=novgorodian_female_21}Gertruda" />
+      <name name="{=novgorodian_female_22}Predslava" />
+      <name name="{=novgorodian_female_23}Ingeborga" />
+      <name name="{=novgorodian_female_24}Malfrida" />
+      <name name="{=novgorodian_female_25}Rogneda" />
+      <name name="{=novgorodian_female_26}Khristina" />
+      <name name="{=novgorodian_female_27}Verkhuslava" />
+      <name name="{=novgorodian_female_28}Anastasia" />
+      <name name="{=novgorodian_female_29}Ingigerda" />
+      <name name="{=novgorodian_female_30}Olisava" />
+      <name name="{=novgorodian_female_31}Premislava" />
+      <name name="{=novgorodian_female_32}Mstislava" />
+      <name name="{=novgorodian_female_33}Dobronega" />
+    </female_names>
+    <clan_names>
+      <name name="{=novgorodian_clan_1}Giuriatinichi" />
+      <name name="{=novgorodian_clan_2}Rogovichi" />
+      <name name="{=novgorodian_clan_3}Mikhalchichi" />
+      <name name="{=novgorodian_clan_4}Nezdinichi" />
+      <name name="{=novgorodian_clan_5}Antsiferovichi" />
+      <name name="{=novgorodian_clan_6}Boretskie" />
+      <name name="{=novgorodian_clan_7}Avinovy" />
+      <name name="{=novgorodian_clan_8}Ostafevy" />
+    </clan_names>
+    <cultural_feats>
+<feat id="battanian_forest_speed" />
+<feat id="battanian_militia_production" />
+    </cultural_feats>
+    <possible_clan_banner_icon_ids>
+      <icon id="112" />
+      <icon id="113" />
+      <icon id="114" />
+      <icon id="115" />
+      <icon id="116" />
+      <icon id="117" />
+      <icon id="118" />
+      <icon id="132" />
+      <icon id="138" />
+      <icon id="139" />
+      <icon id="307" />
+      <icon id="331" />
+      <icon id="407" />
+      <icon id="408" />
+      <icon id="409" />
+      <icon id="410" />
+      <icon id="439" />
+      <icon id="440" />
+      <icon id="441" />
+      <icon id="442" />
+      <icon id="443" />
+      <icon id="444" />
+      <icon id="445" />
+    </possible_clan_banner_icon_ids>
+    <notable_and_wanderer_templates>
+	  <template name="NPCCharacter.spc_wanderer_jatvingian_0" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_1" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_2" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_3" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_4" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_5" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_6" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_7" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_8" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_9" />
+      <template name="NPCCharacter.spc_wanderer_jatvingian_10" />
+      <template name="NPCCharacter.spc_notable_jatvingian_0" />
+      <template name="NPCCharacter.spc_notable_jatvingian_0b" />
+      <template name="NPCCharacter.spc_notable_jatvingian_1" />
+      <template name="NPCCharacter.spc_notable_jatvingian_1b" />
+      <template name="NPCCharacter.spc_notable_jatvingian_2" />
+      <template name="NPCCharacter.spc_notable_jatvingian_2b" />
+      <template name="NPCCharacter.spc_notable_jatvingian_3" />
+      <template name="NPCCharacter.spc_notable_jatvingian_3b" />
+      <template name="NPCCharacter.spc_notable_jatvingian_4" />
+      <template name="NPCCharacter.spc_notable_jatvingian_5" />
+      <template name="NPCCharacter.spc_notable_jatvingian_6" />
+      <template name="NPCCharacter.spc_notable_jatvingian_7" />
+      <template name="NPCCharacter.spc_notable_jatvingian_8" />
+      <template name="NPCCharacter.spc_notable_jatvingian_9" />
+      <template name="NPCCharacter.spc_notable_jatvingian_10" />
+      <template name="NPCCharacter.spc_notable_jatvingian_11" />
+      <template name="NPCCharacter.spc_notable_jatvingian_12" />
+      <template name="NPCCharacter.spc_jatvingian_headman_1" />
+      <template name="NPCCharacter.spc_jatvingian_headman_2" />
+      <template name="NPCCharacter.spc_jatvingian_headman_3" />
+    </notable_and_wanderer_templates>
+    <lord_templates>
+      <template name="NPCCharacter.jatvingian_rebel_lord" />
+    </lord_templates>
+    <rebellion_hero_templates>
+      <template name="NPCCharacter.jatvingian_rebel_lord" />
+    </rebellion_hero_templates>
+    <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v2" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v3" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
+    </tournament_team_templates_four_participant>
+    <basic_mercenary_troops>
+      <template name="NPCCharacter.lithuanian_volunteer" />
+      <template name="NPCCharacter.lithuanian_noble_spearman" />
+      <template name="NPCCharacter.nordic_huscarl" />
+      <template name="NPCCharacter.dregovian_otrak" />
+      <template name="NPCCharacter.dregovian_levy" />
+    </basic_mercenary_troops>
+  </Culture>
+
+
+<!--
+
+About names
+
+Latinization according to modern Belarusian standards.
+
+East Baltic = Names of neighboring eastern tribes
+West Baltic = Jatvingian names from Galicia-Volhynia chronicle
+Christian = possible local Christian names
+Slavic = common Slavic names
+
+Male names
+
+1,Відэвут,Yotvingian,Videvut
+2,Гунігард,Yotvingian,Hunihard
+3,Бауг,Yotvingian,Bauh
+4,Гуннар,Yotvingian,Hunnar
+5,Комат,Yotvingian,Komat
+6,Мінтэля,Yotvingian,Mintela
+7,Мудейко,Yotvingian,Mudiejko
+8,Шутр,Yotvingian,Šutr
+9,Шюрпа,Yotvingian,Šiurpa
+10,Небр,Yotvingian,Niebr
+11,Мондун,Yotvingian,Mondun
+12,Скомонд,Yotvingian,Skomond
+13,Мондовіда,Yotvingian,Mondovida
+14,Зебр,Yotvingian,Ziebr
+15,Стегут,Yotvingian,Stiehut
+16,Зебра,Yotvingian,Ziebra
+17,Скумо,Yotvingian,Skumo
+18,Скумонд,Yotvingian,Skumond
+19,Сколоменд,Yotvingian,Skołomiend
+20,Скурдо,Yotvingian,Skurdo
+21,Стекінт,Yotvingian,Stiekint
+22,Дор,Yotvingian,Dor
+23,Буряль,Yotvingian,Burial
+24,Борут,Yotvingian,Borut
+25,Юнділ,Yotvingian,Jundił
+26,Анкад,Yotvingian,Ankad
+27,Ящелт,Yotvingian,Jaščiełt
+28,Скаламенд,Yotvingian,Skałamiend
+29,Шютра,Yotvingian,Šiutra
+30,Пестіла,Yotvingian,Piestiła
+31,Айкал,Yotvingian,Ajkał
+32,Небяст,Yotvingian,Niebiast
+33,Даўмонт,East Baltic,Daŭmont
+34,Віцень,East Baltic,Vicień
+35,Скуманд,East Baltic,Skumand
+36,Відэвут,East Baltic,Videvut
+37,Карыбут,East Baltic,Karybut
+38,Любарт,East Baltic,Lubart
+39,Яўнут,East Baltic,Jaŭnut
+40,Нарымонт,East Baltic,Narymont
+41,Петрык,Christian,Pietryk
+42,Кірыла,Christian,Kiryła
+43,Даніла,Christian,Daniła
+44,Мікіта,Christian,Mikita
+45,Глеб,Christian,Hleb
+46,Барыс,Christian,Barys
+47,Лаўрэн,Christian,Łaŭren
+48,Паўла,Christian,Paŭła
+49,Давыд,Christian,Davyd
+50,Вячаслаў,Slavic,Viačasłaŭ
+51,Ізяслаў,Slavic,Iziasłaŭ
+52,Брачыслаў,Slavic,Bračysłaŭ
+53,Багдан,Slavic,Bahdan
+
+Female names
+
+1,,German,Malfryda
+2,,German,Kunihunda
+3,,East Baltic,Aldona
+4,,East Baltic,Kiena
+5,,East Baltic,Jeŭna
+6,,East Baltic,Danuta
+7,,East Baltic,Vilkė
+8,,East Baltic,Vainutė
+9,,East Baltic,Morta
+10,,East Baltic,Milda
+11,,East Baltic,Darota
+12,,East Baltic,Vanda
+13,,East Baltic,Judrė
+14,,East Baltic,Ilža
+15,,East Baltic,Allune
+16,,East Baltic,Stirna
+17,,East Baltic,Ziede
+18,,East Baltic,Ilsene
+19,Эльжбэта,Christian,Elžbeta
+20,Анна,Christian,Anna
+21,Агата,Christian,Ahata
+22,Софа,Christian,Sofa
+23,Эліна,Christian,Elina
+24,Тома,Christian,Toma
+25,Хрысьціна,Christian,Chryścina
+26,Ніка,Christian,Nika
+27,Алеся,Christian,Alesia
+28,Люба,Slavic,Luba
+29,Будзіслава,Slavic,Budzisłava
+30,Браніслава,Slavic,Branisłava
+
+
+-->
+
+
+</SPCultures> 
