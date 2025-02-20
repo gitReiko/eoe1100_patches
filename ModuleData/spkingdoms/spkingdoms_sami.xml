@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+ <Kingdom id="sami" 
+			 owner="Hero.lord_sami_1a" 
+			 banner_key="11.127.89.1616.1594.777.764.1.0.0.140.83.116.629.629.753.778.1.0.0.340.25.116.138.138.781.473.1.0.-7" 
+			 primary_banner_color="0xffD22D33" 
+			 secondary_banner_color="0xff000000" 
+			 label_color="FFDB8330" 
+			 color="ffD22D33" 
+			 color2="fff4ca14" 
+			 alternative_color="fff4ca14" 
+			 alternative_color2="ffD22D33" 
+			 culture="Culture.sami" 
+			 settlement_banner_mesh="encounter_flag_a" 
+			 flag_mesh="info_screen_flags_a" 
+			 name="{=cilician_armenia_name}Principality of Cilician Armenia" 
+			 short_name="{=cilician_armenia_short_name}Armenians" 
+			 title="{=cilician_armenia_title}Principality of Cilician Armenia" 
+			 ruler_title="{=cilician_armenia_ruler_title}Prince" 
+			 text="{=cilician_armenia_text}The Principality of Cilicia was an Armenian state formed during the High Middle Ages by Armenian refugees fleeing the Seljuk invasion of Armenia. Located outside the Armenian Highlands and distinct from the Kingdom of Armenia of antiquity, it was centered in the Cilicia region northwest of the Gulf of Alexandretta. The kingdom had its origins in the principality founded c. 1080 by the Rubenid dynasty, an alleged offshoot of the larger Bagratuni dynasty, which at various times had held the throne of Armenia. Their capital was originally at Tarsus, and later moved to Sis. Cilicia was a strong ally of the European Crusaders, and saw itself as a bastion of Christendom in the East. It also served as a focal point for Armenian cultural production, since Armenia proper was under foreign occupation at the time. Cilicia's significance in Armenian history and statehood is also attested by the transfer of the seat of the Catholicos of the Armenian Apostolic Church, spiritual leader of the Armenian people, to the region.">
+    <relationships>
+		<relationship kingdom="Kingdom.rum" value="-1" isAtWar="true" />
+		<relationship kingdom="Kingdom.seljuk" value="-1" isAtWar="true" />
+		<relationship kingdom="Kingdom.crusade" value="100" isAtWar="false" />
+    </relationships>
+    <policies>
+
+    </policies>
+  </Kingdom>
+  
+   </Kingdoms>

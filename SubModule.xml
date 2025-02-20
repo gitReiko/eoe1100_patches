@@ -81,6 +81,15 @@
       </IncludedGameTypes>
     </XmlNode>
 
+    <XmlNode>  
+      <XmlName id="WorkshopTypes" path="spworkshops"/>
+        <IncludedGameTypes>
+          <GameType value = "Campaign"/>
+          <GameType value = "CustomGame"/>
+          <GameType value = "EditorGame"/>
+        </IncludedGameTypes>
+    </XmlNode> 
+
   </Xmls>
 
 </Module>
