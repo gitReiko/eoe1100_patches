@@ -14637,7 +14637,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_velikiye_jemianiek" name="{=castle_velikiye_jemianiek_name}Jemianiek" posX="826.068" posY="1298.594" culture="Culture.jatvingian" text="{=castle_velikiye_jemianiek_text}Jemianiek text...">
+  <Settlement id="castle_velikiye_jemianiek" name="{=castle_velikiye_jemianiek_name}Jemianiec" posX="826.068" posY="1298.594" culture="Culture.jatvingian" text="{=castle_velikiye_jemianiek_text}Jemianiec text...">
     <Components>
       <Village id="castle_comp_velikiye_jemianiek" village_type="VillageType.cattle_farm" hearth="400" bound="Settlement.castle_velikiye" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
