@@ -11301,7 +11301,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_elbag" name="{=town_elbag_name}Truso" owner="Faction.clan_baltic_1" posX="621.651" posY="1217.199" culture="Culture.goldenhorde" gate_posX="622.9721" gate_posY="1217.061" text="{=town_szczecin_text}Truso text...">
+  <Settlement id="town_elbag" name="{=town_elbag_name}Truso" owner="Faction.clan_baltic_1" posX="621.651" posY="1217.199" culture="Culture.latvian" gate_posX="622.9721" gate_posY="1217.061" text="{=town_szczecin_text}Truso text...">
     <Components>
       <Town id="town_comp_elbag" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -11322,7 +11322,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_elbag_susse" name="{=town_elbag_susse_name}Susse" posX="623.071" posY="1207.32" culture="Culture.goldenhorde" text="{=town_elbag_susse_text}Susse text...">
+  <Settlement id="town_elbag_susse" name="{=town_elbag_susse_name}Susse" posX="623.071" posY="1207.32" culture="Culture.latvian" text="{=town_elbag_susse_text}Susse text...">
     <Components>
       <Village id="town_comp_elbag_susse" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.town_elbag" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -11335,7 +11335,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_elbag_brus" name="{=town_elbag_brus_name}Brus" posX="639.153" posY="1222.905" culture="Culture.goldenhorde" text="{=town_elbag_brus_text}Brus text...">
+  <Settlement id="town_elbag_brus" name="{=town_elbag_brus_name}Brus" posX="639.153" posY="1222.905" culture="Culture.latvian" text="{=town_elbag_brus_text}Brus text...">
     <Components>
       <Village id="town_comp_elbag_brus" village_type="VillageType.cattle_farm" hearth="400" bound="Settlement.town_elbag" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -11348,7 +11348,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_twangste" name="{=town_twangste_name}Twangste" owner="Faction.clan_baltic_4" posX="645.602" posY="1237.01" culture="Culture.goldenhorde" gate_posX="647.2842" gate_posY="1236.116" text="{=town_szczecin_text}Twangste text...">
+  <Settlement id="town_twangste" name="{=town_twangste_name}Twangste" owner="Faction.clan_baltic_4" posX="645.602" posY="1237.01" culture="Culture.latvian" gate_posX="647.2842" gate_posY="1236.116" text="{=town_szczecin_text}Twangste text...">
     <Components>
       <Town id="town_comp_twangste" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -11369,7 +11369,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_twangste_labiala" name="{=town_twangste_labiala_name}Labiawa" posX="656.371" posY="1243.116" culture="Culture.goldenhorde" text="{=town_twangste_labiala_text}Labiawa text...">
+  <Settlement id="town_twangste_labiala" name="{=town_twangste_labiala_name}Labiawa" posX="656.371" posY="1243.116" culture="Culture.latvian" text="{=town_twangste_labiala_text}Labiawa text...">
     <Components>
       <Village id="town_comp_twangste_labiala" village_type="VillageType.fisherman" hearth="400" bound="Settlement.town_twangste" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -11382,7 +11382,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_twangste_tummonis" name="{=town_twangste_tummonis_name}Tummonis" posX="653.569" posY="1223.967" culture="Culture.goldenhorde" text="{=town_twangste_tummonis_text}Tummonis text...">
+  <Settlement id="town_twangste_tummonis" name="{=town_twangste_tummonis_name}Tummonis" posX="653.569" posY="1223.967" culture="Culture.latvian" text="{=town_twangste_tummonis_text}Tummonis text...">
     <Components>
       <Village id="town_comp_twangste_tummonis" village_type="VillageType.lumberjack" hearth="400" bound="Settlement.town_twangste" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -11395,7 +11395,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_rezel" name="{=castle_rezel_name}Resel Castle" owner="Faction.clan_prussian_3" posX="674.18" posY="1210.923" culture="Culture.goldenhorde" gate_posX="675.4526" gate_posY="1212.164">
+  <Settlement id="castle_rezel" name="{=castle_rezel_name}Resel Castle" owner="Faction.clan_prussian_3" posX="674.18" posY="1210.923" culture="Culture.latvian" gate_posX="675.4526" gate_posY="1212.164">
     <Components>
       <Town id="castle_comp_rezel" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -11405,7 +11405,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_rezel_girdawe" name="{=castle_rezel_girdawe_name}Girdawe" posX="674.028" posY="1226.136" culture="Culture.goldenhorde" text="{=castle_rezel_girdawe_text}Girdawe text...">
+  <Settlement id="castle_rezel_girdawe" name="{=castle_rezel_girdawe_name}Girdawe" posX="674.028" posY="1226.136" culture="Culture.latvian" text="{=castle_rezel_girdawe_text}Girdawe text...">
     <Components>
       <Village id="castle_comp_rezel_girdawe" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.castle_rezel" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -11418,7 +11418,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_nida" name="{=castle_nida_name}Nida Castle" owner="Faction.clan_prussian_4" posX="647.694" posY="1200.827" culture="Culture.goldenhorde" gate_posX="647.8525" gate_posY="1202.622">
+  <Settlement id="castle_nida" name="{=castle_nida_name}Nida Castle" owner="Faction.clan_prussian_4" posX="647.694" posY="1200.827" culture="Culture.latvian" gate_posX="647.8525" gate_posY="1202.622">
     <Components>
       <Town id="castle_comp_nida" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -11428,7 +11428,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_nida_gudde" name="{=castle_nida_gudde_name}Gudde" posX="641.279" posY="1208.163" culture="Culture.goldenhorde" text="{=castle_nida_gudde_text}Gudde text...">
+  <Settlement id="castle_nida_gudde" name="{=castle_nida_gudde_name}Gudde" posX="641.279" posY="1208.163" culture="Culture.latvian" text="{=castle_nida_gudde_text}Gudde text...">
     <Components>
       <Village id="castle_comp_nida_gudde" village_type="VillageType.sturgian_horse_ranch" hearth="400" bound="Settlement.castle_nida" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12093,7 +12093,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_klaipeda" name="{=castle_klaipeda_name}Klaipeda Castle" owner="Faction.clan_zemaitian_3" posX="664.689" posY="1264.633" culture="Culture.goldenhorde" gate_posX="665.8028" gate_posY="1264.008">
+  <Settlement id="castle_klaipeda" name="{=castle_klaipeda_name}Klaipeda Castle" owner="Faction.clan_zemaitian_3" posX="664.689" posY="1264.633" culture="Culture.latvian" gate_posX="665.8028" gate_posY="1264.008">
     <Components>
       <Town id="castle_comp_klaipeda" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12103,7 +12103,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_klaipeda_veivirzenai" name="{=castle_klaipeda_veivirzenai_name}Veivirzenai" posX="669.875" posY="1256.659" culture="Culture.goldenhorde" text="{=castle_klaipeda_veivirzenai_text}Veivirzenai text...">
+  <Settlement id="castle_klaipeda_veivirzenai" name="{=castle_klaipeda_veivirzenai_name}Veivirzenai" posX="669.875" posY="1256.659" culture="Culture.latvian" text="{=castle_klaipeda_veivirzenai_text}Veivirzenai text...">
     <Components>
       <Village id="castle_comp_klaipeda_veivirzenai" village_type="VillageType.flax_plant" hearth="400" bound="Settlement.castle_klaipeda" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12116,7 +12116,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_dubysa" name="{=castle_dubysa_name}Dubysa Castle" owner="Faction.clan_zemaitian_2" posX="685.297" posY="1268.638" culture="Culture.goldenhorde" gate_posX="684.1069" gate_posY="1267.824">
+  <Settlement id="castle_dubysa" name="{=castle_dubysa_name}Dubysa Castle" owner="Faction.clan_zemaitian_2" posX="685.297" posY="1268.638" culture="Culture.latvian" gate_posX="684.1069" gate_posY="1267.824">
     <Components>
       <Town id="castle_comp_dubysa" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12126,7 +12126,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_dubysa_rutve" name="{=castle_dubysa_rutve_name}Rutve" posX="676.247" posY="1260.43" culture="Culture.goldenhorde" text="{=castle_dubysa_rutve_text}Rutve text...">
+  <Settlement id="castle_dubysa_rutve" name="{=castle_dubysa_rutve_name}Rutve" posX="676.247" posY="1260.43" culture="Culture.latvian" text="{=castle_dubysa_rutve_text}Rutve text...">
     <Components>
       <Village id="castle_comp_dubysa_rutve" village_type="VillageType.sturgian_horse_ranch" hearth="400" bound="Settlement.castle_dubysa" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12185,7 +12185,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_upyte" name="{=castle_upyte_name}Upyte Castle" owner="Faction.clan_zemaitian_4" posX="709.698" posY="1267.469" culture="Culture.goldenhorde" gate_posX="708.4541" gate_posY="1267.759">
+  <Settlement id="castle_upyte" name="{=castle_upyte_name}Upyte Castle" owner="Faction.clan_zemaitian_4" posX="709.698" posY="1267.469" culture="Culture.latvian" gate_posX="708.4541" gate_posY="1267.759">
     <Components>
       <Town id="castle_comp_upyte" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12195,7 +12195,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_upyte_pernarava" name="{=castle_upyte_pernarava_name}Pernarava" posX="701.467" posY="1260.92" culture="Culture.goldenhorde" text="{=castle_upyte_pernarava_text}Pernarava text...">
+  <Settlement id="castle_upyte_pernarava" name="{=castle_upyte_pernarava_name}Pernarava" posX="701.467" posY="1260.92" culture="Culture.latvian" text="{=castle_upyte_pernarava_text}Pernarava text...">
     <Components>
       <Village id="castle_comp_upyte_pernarava" village_type="VillageType.lumberjack" hearth="400" bound="Settlement.castle_upyte" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12208,7 +12208,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_raseiniai" name="{=town_raseiniai_name}Raseiniai" owner="Faction.clan_zemaitian_1" posX="691.059" posY="1257.673" culture="Culture.goldenhorde" gate_posX="689.1471" gate_posY="1258.053" text="{=town_raseiniai_text}Raseiniai text...">
+  <Settlement id="town_raseiniai" name="{=town_raseiniai_name}Raseiniai" owner="Faction.clan_zemaitian_1" posX="691.059" posY="1257.673" culture="Culture.latvian" gate_posX="689.1471" gate_posY="1258.053" text="{=town_raseiniai_text}Raseiniai text...">
     <Components>
       <Town id="town_comp_raseiniai" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -12229,7 +12229,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_raseiniai_kolainiai" name="{=town_raseiniai_kolainiai_name}Kolainiai" posX="691.305" posY="1251.251" culture="Culture.goldenhorde" text="{=town_raseiniai_kolainiai_text}Kolainiai text...">
+  <Settlement id="town_raseiniai_kolainiai" name="{=town_raseiniai_kolainiai_name}Kolainiai" posX="691.305" posY="1251.251" culture="Culture.latvian" text="{=town_raseiniai_kolainiai_text}Kolainiai text...">
     <Components>
       <Village id="town_comp_raseiniai_kolainiai" village_type="VillageType.fisherman" hearth="400" bound="Settlement.town_raseiniai" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12242,7 +12242,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_raseiniai_vilkija" name="{=town_raseiniai_vilkija_name}Vilkija" posX="708.077" posY="1252.591" culture="Culture.goldenhorde" text="{=town_raseiniai_vilkija_text}Vilkija text...">
+  <Settlement id="town_raseiniai_vilkija" name="{=town_raseiniai_vilkija_name}Vilkija" posX="708.077" posY="1252.591" culture="Culture.latvian" text="{=town_raseiniai_vilkija_text}Vilkija text...">
     <Components>
       <Village id="town_comp_raseiniai_vilkija" village_type="VillageType.salt_mine" hearth="400" bound="Settlement.town_raseiniai" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12255,7 +12255,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_kaunas" name="{=castle_kaunas_name}Kaunas Castle" owner="Faction.clan_baltic_2" posX="719.677" posY="1254.324" culture="Culture.goldenhorde" gate_posX="720.8875" gate_posY="1254.731">
+  <Settlement id="castle_kaunas" name="{=castle_kaunas_name}Kaunas Castle" owner="Faction.clan_baltic_2" posX="719.677" posY="1254.324" culture="Culture.latvian" gate_posX="720.8875" gate_posY="1254.731">
     <Components>
       <Town id="castle_comp_kaunas" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12265,7 +12265,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_kaunas_streva" name="{=castle_kaunas_streva_name}Streva" posX="728.218" posY="1249.707" culture="Culture.goldenhorde" text="{=castle_kaunas_streva_text}Streva text...">
+  <Settlement id="castle_kaunas_streva" name="{=castle_kaunas_streva_name}Streva" posX="728.218" posY="1249.707" culture="Culture.latvian" text="{=castle_kaunas_streva_text}Streva text...">
     <Components>
       <Village id="castle_comp_kaunas_streva" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.castle_kaunas" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12348,7 +12348,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_utena" name="{=castle_utena_name}Utena Castle" owner="Faction.clan_lithuanian_2" posX="767.48" posY="1259.423" culture="Culture.goldenhorde" gate_posX="768.5508" gate_posY="1258.727">
+  <Settlement id="castle_utena" name="{=castle_utena_name}Utena Castle" owner="Faction.clan_lithuanian_2" posX="767.48" posY="1259.423" culture="Culture.latvian" gate_posX="768.5508" gate_posY="1258.727">
     <Components>
       <Town id="castle_comp_utena" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12358,7 +12358,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_utena_svir" name="{=castle_utena_svir_name}Svir" posX="773.086" posY="1250.439" culture="Culture.goldenhorde" text="{=castle_utena_svir_text}Svir text...">
+  <Settlement id="castle_utena_svir" name="{=castle_utena_svir_name}Svir" posX="773.086" posY="1250.439" culture="Culture.latvian" text="{=castle_utena_svir_text}Svir text...">
     <Components>
       <Village id="castle_comp_utena_svir" village_type="VillageType.fisherman" hearth="400" bound="Settlement.castle_utena" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12394,7 +12394,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_kreva" name="{=castle_kreva_name}Kreva Castle" owner="Faction.clan_lithuanian_3" posX="765.5" posY="1233.476" culture="Culture.goldenhorde" gate_posX="766.7078" gate_posY="1232.735">
+  <Settlement id="castle_kreva" name="{=castle_kreva_name}Kreva Castle" owner="Faction.clan_lithuanian_3" posX="765.5" posY="1233.476" culture="Culture.latvian" gate_posX="766.7078" gate_posY="1232.735">
     <Components>
       <Town id="castle_comp_kreva" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12404,7 +12404,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_kreva_vilejka" name="{=castle_kreva_vilejka_name}Vilejka" posX="775.787" posY="1240.821" culture="Culture.goldenhorde" text="{=castle_kreva_vilejka_text}Vilejka text...">
+  <Settlement id="castle_kreva_vilejka" name="{=castle_kreva_vilejka_name}Vilejka" posX="775.787" posY="1240.821" culture="Culture.latvian" text="{=castle_kreva_vilejka_text}Vilejka text...">
     <Components>
       <Village id="castle_comp_kreva_vilejka" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.castle_kreva" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12417,7 +12417,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_navahradak" name="{=town_navahradak_name}Navahradak" owner="Faction.clan_jatvingian_1" posX="750.448" posY="1215.469" culture="Culture.jatvingian" gate_posX="748.6318" gate_posY="1213.057" text="{=town_navahradak_text}Navahradak text...">
+  <Settlement id="town_navahradak" name="{=town_navahradak_name}Navahradak" owner="Faction.clan_jatvingian_1" posX="750.448" posY="1215.469" culture="Culture.dregovian" gate_posX="748.6318" gate_posY="1213.057" text="{=town_navahradak_text}Navahradak text...">
     <Components>
       <Town id="town_comp_navahradak" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -12438,7 +12438,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_navahradak_lida" name="{=town_navahradak_lida_name}Lida" posX="746.908" posY="1230.919" culture="Culture.jatvingian" text="{=town_navahradak_lida_text}Lida text...">
+  <Settlement id="town_navahradak_lida" name="{=town_navahradak_lida_name}Lida" posX="746.908" posY="1230.919" culture="Culture.dregovian" text="{=town_navahradak_lida_text}Lida text...">
     <Components>
       <Village id="town_comp_navahradak_lida" village_type="VillageType.lumberjack" hearth="400" bound="Settlement.town_navahradak" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12451,7 +12451,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_navahradak_turejsk" name="{=town_navahradak_turejsk_name}Turejsk" posX="736.748" posY="1211.873" culture="Culture.jatvingian" text="{=town_navahradak_turejsk_text}Turejsk text...">
+  <Settlement id="town_navahradak_turejsk" name="{=town_navahradak_turejsk_name}Turejsk" posX="736.748" posY="1211.873" culture="Culture.dregovian" text="{=town_navahradak_turejsk_text}Turejsk text...">
     <Components>
       <Village id="town_comp_navahradak_turejsk" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.town_navahradak" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12464,7 +12464,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_slonim" name="{=castle_slonim_name}Slonim Castle" owner="Faction.clan_jatvingian_5" posX="740.08" posY="1201.91" culture="Culture.jatvingian" gate_posX="739.3104" gate_posY="1203.1">
+  <Settlement id="castle_slonim" name="{=castle_slonim_name}Slonim Castle" owner="Faction.clan_jatvingian_5" posX="740.08" posY="1201.91" culture="Culture.dregovian" gate_posX="739.3104" gate_posY="1203.1">
     <Components>
       <Town id="castle_comp_slonim" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12474,7 +12474,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_slonim_zdzitava" name="{=castle_slonim_zdzitava_name}Zdzitava" posX="736.418" posY="1191.163" culture="Culture.jatvingian" text="{=castle_slonim_zdzitava_text}Zdzitava text...">
+  <Settlement id="castle_slonim_zdzitava" name="{=castle_slonim_zdzitava_name}Zdzitava" posX="736.418" posY="1191.163" culture="Culture.dregovian" text="{=castle_slonim_zdzitava_text}Zdzitava text...">
     <Components>
       <Village id="castle_comp_slonim_zdzitava" village_type="VillageType.trapper" hearth="400" bound="Settlement.castle_slonim" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12510,7 +12510,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_vaukavysk" name="{=castle_vaukavysk_name}Vaukavysk Castle" owner="Faction.clan_jatvingian_5" posX="726.032" posY="1199.572" culture="Culture.jatvingian" gate_posX="724.2795" gate_posY="1199.87">
+  <Settlement id="castle_vaukavysk" name="{=castle_vaukavysk_name}Vaukavysk Castle" owner="Faction.clan_jatvingian_5" posX="726.032" posY="1199.572" culture="Culture.dregovian" gate_posX="724.2795" gate_posY="1199.87">
     <Components>
       <Town id="castle_comp_vaukavysk" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12520,7 +12520,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_vaukavysk_svislac_hrodzienskaja" name="{=castle_vaukavysk_svislac_hrodzienskaja_name}Svislac Hrodzienskaja" posX="713.236" posY="1194.972" culture="Culture.jatvingian" text="{=castle_vaukavysk_svislac_hrodzienskaja_text}Svislac Hrodzienskaja text...">
+  <Settlement id="castle_vaukavysk_svislac_hrodzienskaja" name="{=castle_vaukavysk_svislac_hrodzienskaja_name}Svislac Hrodzienskaja" posX="713.236" posY="1194.972" culture="Culture.dregovian" text="{=castle_vaukavysk_svislac_hrodzienskaja_text}Svislac Hrodzienskaja text...">
     <Components>
       <Village id="castle_comp_vaukavysk_svislac_hrodzienskaja" village_type="VillageType.lumberjack" hearth="400" bound="Settlement.castle_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12533,7 +12533,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_hrodna" name="{=castle_hrodna_name}Hrodna Castle" owner="Faction.clan_jatvingian_2" posX="724.514" posY="1217.775" culture="Culture.jatvingian" gate_posX="725.21" gate_posY="1216.704">
+  <Settlement id="castle_hrodna" name="{=castle_hrodna_name}Hrodna Castle" owner="Faction.clan_jatvingian_2" posX="724.514" posY="1217.775" culture="Culture.latvian" gate_posX="725.21" gate_posY="1216.704">
     <Components>
       <Town id="castle_comp_hrodna" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12543,7 +12543,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_hrodna_astryna" name="{=castle_hrodna_astryna_name}Astryna" posX="732.998" posY="1224.823" culture="Culture.jatvingian" text="{=castle_hrodna_astryna_text}Astryna text...">
+  <Settlement id="castle_hrodna_astryna" name="{=castle_hrodna_astryna_name}Astryna" posX="732.998" posY="1224.823" culture="Culture.latvian" text="{=castle_hrodna_astryna_text}Astryna text...">
     <Components>
       <Village id="castle_comp_hrodna_astryna" village_type="VillageType.trapper" hearth="400" bound="Settlement.castle_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12556,7 +12556,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_kirsnava" name="{=castle_kirsnava_name}Kirsnava Castle" owner="Faction.clan_jatvingian_4" posX="713.305" posY="1231.892" culture="Culture.jatvingian" gate_posX="713.4956" gate_posY="1230.488">
+  <Settlement id="castle_kirsnava" name="{=castle_kirsnava_name}Kirsnava Castle" owner="Faction.clan_jatvingian_4" posX="713.305" posY="1231.892" culture="Culture.latvian" gate_posX="713.4956" gate_posY="1230.488">
     <Components>
       <Town id="castle_comp_kirsnava" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12566,7 +12566,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_kirsnava_rychtyn" name="{=castle_kirsnava_rychtyn_name}Rychtyn" posX="705.018" posY="1228.303" culture="Culture.jatvingian" text="{=castle_kirsnava_rychtyn_text}Rychtyn text...">
+  <Settlement id="castle_kirsnava_rychtyn" name="{=castle_kirsnava_rychtyn_name}Rychtyn" posX="705.018" posY="1228.303" culture="Culture.latvian" text="{=castle_kirsnava_rychtyn_text}Rychtyn text...">
     <Components>
       <Village id="castle_comp_kirsnava_rychtyn" village_type="VillageType.sturgian_horse_ranch" hearth="400" bound="Settlement.castle_kirsnava" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12579,7 +12579,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_kernave" name="{=town_kernave_name}Kernave" owner="Faction.clan_lithuanian_4" posX="740.168" posY="1245.205" culture="Culture.goldenhorde" gate_posX="740.5242" gate_posY="1243.237" text="{=town_kernave_text}Kernave text...">
+  <Settlement id="town_kernave" name="{=town_kernave_name}Kernave" owner="Faction.clan_lithuanian_4" posX="740.168" posY="1245.205" culture="Culture.latvian" gate_posX="740.5242" gate_posY="1243.237" text="{=town_kernave_text}Kernave text...">
     <Components>
       <Town id="town_comp_kernave" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -12600,7 +12600,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_kernave_alytus" name="{=town_kernave_alytus_name}Alytus" posX="725.988" posY="1233.578" culture="Culture.goldenhorde" text="{=town_kernave_alytus_text}Alytus text...">
+  <Settlement id="town_kernave_alytus" name="{=town_kernave_alytus_name}Alytus" posX="725.988" posY="1233.578" culture="Culture.latvian" text="{=town_kernave_alytus_text}Alytus text...">
     <Components>
       <Village id="town_comp_kernave_alytus" village_type="VillageType.wheat_farm" hearth="400" bound="Settlement.town_kernave" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12613,7 +12613,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_kernave_dubingiai" name="{=town_kernave_dubingiai_name}Dubingiai" posX="739.403" posY="1257.785" culture="Culture.goldenhorde" text="{=town_kernave_dubingiai_text}Dubingiai text...">
+  <Settlement id="town_kernave_dubingiai" name="{=town_kernave_dubingiai_name}Dubingiai" posX="739.403" posY="1257.785" culture="Culture.latvian" text="{=town_kernave_dubingiai_text}Dubingiai text...">
     <Components>
       <Village id="town_comp_kernave_dubingiai" village_type="VillageType.wheat_farm" hearth="400" bound="Settlement.town_kernave" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12626,7 +12626,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_rajgrod" name="{=town_rajgrod_name}Rajgrod" owner="Faction.clan_jatvingian_3" posX="697.539" posY="1219.16" culture="Culture.jatvingian" gate_posX="699.6212" gate_posY="1221.346" text="{=town_rajgrod_text}Rajgrod text...">
+  <Settlement id="town_rajgrod" name="{=town_rajgrod_name}Rajgrod" owner="Faction.clan_jatvingian_3" posX="697.539" posY="1219.16" culture="Culture.latvian" gate_posX="699.6212" gate_posY="1221.346" text="{=town_rajgrod_text}Rajgrod text...">
     <Components>
       <Town id="town_comp_rajgrod" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -12647,7 +12647,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_rajgrod_krzeczkowo" name="{=town_rajgrod_krzeczkowo_name}Krzeczkowo" posX="704.506" posY="1204.607" culture="Culture.jatvingian" text="{=town_rajgrod_krzeczkowo_text}Krzeczkowo text...">
+  <Settlement id="town_rajgrod_krzeczkowo" name="{=town_rajgrod_krzeczkowo_name}Krzeczkowo" posX="704.506" posY="1204.607" culture="Culture.latvian" text="{=town_rajgrod_krzeczkowo_text}Krzeczkowo text...">
     <Components>
       <Village id="town_comp_rajgrod_krzeczkowo" village_type="VillageType.iron_mine" hearth="400" bound="Settlement.town_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12660,7 +12660,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_rajgrod_lososna" name="{=town_rajgrod_lososna_name}Lasosna" posX="716.106" posY="1207.632" culture="Culture.jatvingian" text="{=town_rajgrod_lososna_text}Lasosna text...">
+  <Settlement id="town_rajgrod_lososna" name="{=town_rajgrod_lososna_name}Lasosna" posX="716.106" posY="1207.632" culture="Culture.latvian" text="{=town_rajgrod_lososna_text}Lasosna text...">
     <Components>
       <Village id="town_comp_rajgrod_lososna" village_type="VillageType.cattle_farm" hearth="400" bound="Settlement.town_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -12673,7 +12673,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ragaine" name="{=castle_ragaine_name}Ragaine Castle" owner="Faction.clan_prussian_3" posX="679.041" posY="1243.607" culture="Culture.goldenhorde" gate_posX="677.851" gate_posY="1242.794">
+  <Settlement id="castle_ragaine" name="{=castle_ragaine_name}Ragaine Castle" owner="Faction.clan_prussian_3" posX="679.041" posY="1243.607" culture="Culture.latvian" gate_posX="677.851" gate_posY="1242.794">
     <Components>
       <Town id="castle_comp_ragaine" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12683,7 +12683,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_ragaine_lazdynai" name="{=castle_ragaine_lazdynai_name}Lasdehnen" posX="687.903" posY="1242.941" culture="Culture.goldenhorde" text="{=castle_ragaine_lazdynai_text}Lasdehnen text...">
+  <Settlement id="castle_ragaine_lazdynai" name="{=castle_ragaine_lazdynai_name}Lasdehnen" posX="687.903" posY="1242.941" culture="Culture.latvian" text="{=castle_ragaine_lazdynai_text}Lasdehnen text...">
     <Components>
       <Village id="castle_comp_ragaine_lazdynai" village_type="VillageType.sturgian_horse_ranch" hearth="400" bound="Settlement.castle_ragaine" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -13836,7 +13836,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_brest" name="{=town_brest_name}Bierastie" owner="Faction.clan_volhynia_2" posX="717.502" posY="1178.602" culture="Culture.jatvingian" gate_posX="719.6052" gate_posY="1178.999" text="{=town_brest_text}Bierastie text...">
+  <Settlement id="town_brest" name="{=town_brest_name}Bierastie" owner="Faction.clan_volhynia_2" posX="717.502" posY="1178.602" culture="Culture.dregovian" gate_posX="719.6052" gate_posY="1178.999" text="{=town_brest_text}Bierastie text...">
     <Components>
       <Town id="town_comp_brest" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -13857,7 +13857,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_brest_kobrin" name="{=town_brest_kobrin_name}Kobrin" posX="727.992" posY="1185.545" culture="Culture.jatvingian" text="{=town_brest_kobrin_text}Kobrin text...">
+  <Settlement id="town_brest_kobrin" name="{=town_brest_kobrin_name}Kobrin" posX="727.992" posY="1185.545" culture="Culture.dregovian" text="{=town_brest_kobrin_text}Kobrin text...">
     <Components>
       <Village id="town_comp_brest_kobrin" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.town_brest" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -13870,7 +13870,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_brest_dziencloly" name="{=town_brest_dziencloly_name}Dziencioly" posX="709.567" posY="1179.415" culture="Culture.jatvingian" text="{=town_brest_dziencloly_text}Dziencioly text...">
+  <Settlement id="town_brest_dziencloly" name="{=town_brest_dziencloly_name}Dziencioly" posX="709.567" posY="1179.415" culture="Culture.dregovian" text="{=town_brest_dziencloly_text}Dziencioly text...">
     <Components>
       <Village id="town_comp_brest_dziencloly" village_type="VillageType.fisherman" hearth="400" bound="Settlement.town_brest" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14364,7 +14364,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_kaibolovo" name="{=town_kaibolovo_name}Kaibolovo" owner="Faction.clan_pereiaslav_13" posX="802.857" posY="1362.93" culture="Culture.volga_fin" gate_posX="805.7932" gate_posY="1363.632" text="{=town_kaibolovo_text}Kaibolovo text...">
+  <Settlement id="town_kaibolovo" name="{=town_kaibolovo_name}Kaibolovo" owner="Faction.clan_pereiaslav_13" posX="802.857" posY="1362.93" culture="Culture.jatvingian" gate_posX="805.7932" gate_posY="1363.632" text="{=town_kaibolovo_text}Kaibolovo text...">
     <Components>
       <Town id="town_comp_kaibolovo" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -14385,7 +14385,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_kaibolovo_sabsk" name="{=town_kaibolovo_sabsk_name}Sabsk" posX="806.19" posY="1352.263" culture="Culture.volga_fin" text="{=town_kaibolovo_sabsk_text}Sabsk text...">
+  <Settlement id="town_kaibolovo_sabsk" name="{=town_kaibolovo_sabsk_name}Sabsk" posX="806.19" posY="1352.263" culture="Culture.jatvingian" text="{=town_kaibolovo_sabsk_text}Sabsk text...">
     <Components>
       <Village id="town_comp_kaibolovo_sabsk" village_type="VillageType.wheat_farm" hearth="400" bound="Settlement.town_kaibolovo" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14398,7 +14398,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_kaibolovo_gdov" name="{=town_kaibolovo_gdov_name}Gdov" posX="790.329" posY="1349.181" culture="Culture.volga_fin" text="{=town_kaibolovo_gdov_text}Gdov text...">
+  <Settlement id="town_kaibolovo_gdov" name="{=town_kaibolovo_gdov_name}Gdov" posX="790.329" posY="1349.181" culture="Culture.jatvingian" text="{=town_kaibolovo_gdov_text}Gdov text...">
     <Components>
       <Village id="town_comp_kaibolovo_gdov" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.town_kaibolovo" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14411,7 +14411,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_kaibolovo_voronino" name="{=town_kaibolovo_voronino_name}Voronino" posX="815.118" posY="1371.099" culture="Culture.volga_fin" text="{=town_kaibolovo_voronino_text}Voronino text...">
+  <Settlement id="town_kaibolovo_voronino" name="{=town_kaibolovo_voronino_name}Voronino" posX="815.118" posY="1371.099" culture="Culture.jatvingian" text="{=town_kaibolovo_voronino_text}Voronino text...">
     <Components>
       <Village id="town_comp_kaibolovo_voronino" village_type="VillageType.iron_mine" hearth="400" bound="Settlement.town_kaibolovo" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14424,7 +14424,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_novgorod" name="{=town_novgorod_name}Novgorod" owner="Faction.clan_pereiaslav_2" posX="857.18" posY="1350.317" culture="Culture.volga_fin" gate_posX="854.933" gate_posY="1348.301" text="{=town_novgorod_text}Novgorod text...">
+  <Settlement id="town_novgorod" name="{=town_novgorod_name}Novgorod" owner="Faction.clan_pereiaslav_2" posX="857.18" posY="1350.317" culture="Culture.jatvingian" gate_posX="854.933" gate_posY="1348.301" text="{=town_novgorod_text}Novgorod text...">
     <Components>
       <Town id="town_comp_novgorod" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -14445,7 +14445,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_novgorod_rusa" name="{=town_novgorod_rusa_name}Rusa" posX="856.698" posY="1336.085" culture="Culture.volga_fin" text="{=town_novgorod_rusa_text}Rusa text...">
+  <Settlement id="town_novgorod_rusa" name="{=town_novgorod_rusa_name}Rusa" posX="856.698" posY="1336.085" culture="Culture.jatvingian" text="{=town_novgorod_rusa_text}Rusa text...">
     <Components>
       <Village id="town_comp_novgorod_rusa" village_type="VillageType.wheat_farm" hearth="400" bound="Settlement.town_novgorod" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14458,7 +14458,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_novgorod_gulubkovo" name="{=town_novgorod_gulubkovo_name}Gulubkovo" posX="835.792" posY="1342.895" culture="Culture.volga_fin" text="{=town_novgorod_gulubkovo_text}Gulubkovo text...">
+  <Settlement id="town_novgorod_gulubkovo" name="{=town_novgorod_gulubkovo_name}Gulubkovo" posX="835.792" posY="1342.895" culture="Culture.jatvingian" text="{=town_novgorod_gulubkovo_text}Gulubkovo text...">
     <Components>
       <Village id="town_comp_novgorod_gulubkovo" village_type="VillageType.cattle_farm" hearth="400" bound="Settlement.town_novgorod" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14471,7 +14471,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_novgorod_nadbele" name="{=town_novgorod_nadbele_name}Nadbele" posX="837.679" posY="1355.766" culture="Culture.volga_fin" text="{=town_novgorod_nadbele_text}Nadbele text...">
+  <Settlement id="town_novgorod_nadbele" name="{=town_novgorod_nadbele_name}Nadbele" posX="837.679" posY="1355.766" culture="Culture.jatvingian" text="{=town_novgorod_nadbele_text}Nadbele text...">
     <Components>
       <Village id="town_comp_novgorod_nadbele" village_type="VillageType.lumberjack" hearth="400" bound="Settlement.town_novgorod" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14484,7 +14484,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_liubno" name="{=town_liubno_name}Liubno" owner="Faction.clan_pereiaslav_10" posX="893.297" posY="1340.634" culture="Culture.volga_fin" gate_posX="893.0134" gate_posY="1337.623" text="{=town_liubno_text}Liubno text...">
+  <Settlement id="town_liubno" name="{=town_liubno_name}Liubno" owner="Faction.clan_pereiaslav_10" posX="893.297" posY="1340.634" culture="Culture.jatvingian" gate_posX="893.0134" gate_posY="1337.623" text="{=town_liubno_text}Liubno text...">
     <Components>
       <Town id="town_comp_liubno" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -14505,7 +14505,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_liubno_sterzh" name="{=town_liubno_sterzh_name}Sterzh" posX="891.57" posY="1326.224" culture="Culture.volga_fin" text="{=town_liubno_sterzh_text}Sterzh text...">
+  <Settlement id="town_liubno_sterzh" name="{=town_liubno_sterzh_name}Sterzh" posX="891.57" posY="1326.224" culture="Culture.jatvingian" text="{=town_liubno_sterzh_text}Sterzh text...">
     <Components>
       <Village id="town_comp_liubno_sterzh" village_type="VillageType.cattle_farm" hearth="400" bound="Settlement.town_liubno" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14518,7 +14518,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_liubno_marevo" name="{=town_liubno_marevo_name}Marevo" posX="882.327" posY="1331.688" culture="Culture.volga_fin" text="{=town_liubno_marevo_text}Marevo text...">
+  <Settlement id="town_liubno_marevo" name="{=town_liubno_marevo_name}Marevo" posX="882.327" posY="1331.688" culture="Culture.jatvingian" text="{=town_liubno_marevo_text}Marevo text...">
     <Components>
       <Village id="town_comp_liubno_marevo" village_type="VillageType.wheat_farm" hearth="400" bound="Settlement.town_liubno" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14531,7 +14531,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_liubno_zhabachev" name="{=town_liubno_zhabachev_name}Zhabachev" posX="899.662" posY="1322.505" culture="Culture.volga_fin" text="{=town_liubno_zhabachev_text}Zhabachev text...">
+  <Settlement id="town_liubno_zhabachev" name="{=town_liubno_zhabachev_name}Zhabachev" posX="899.662" posY="1322.505" culture="Culture.jatvingian" text="{=town_liubno_zhabachev_text}Zhabachev text...">
     <Components>
       <Village id="town_comp_liubno_zhabachev" village_type="VillageType.flax_plant" hearth="400" bound="Settlement.town_liubno" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14604,7 +14604,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_torzok" name="{=castle_torzok_name}Torzhok Castle" owner="Faction.clan_pereiaslav_12" posX="921.234" posY="1330.016" culture="Culture.volga_fin" gate_posX="921.325" gate_posY="1328.742">
+  <Settlement id="castle_torzok" name="{=castle_torzok_name}Torzhok Castle" owner="Faction.clan_pereiaslav_12" posX="921.234" posY="1330.016" culture="Culture.jatvingian" gate_posX="921.325" gate_posY="1328.742">
     <Components>
       <Town id="castle_comp_torzok" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -14614,7 +14614,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_torzok_volochek" name="{=castle_torzok_volochek_name}Volochek" posX="911.116" posY="1337.949" culture="Culture.volga_fin" text="{=castle_torzok_volochek_text}Volochek text...">
+  <Settlement id="castle_torzok_volochek" name="{=castle_torzok_volochek_name}Volochek" posX="911.116" posY="1337.949" culture="Culture.jatvingian" text="{=castle_torzok_volochek_text}Volochek text...">
     <Components>
       <Village id="castle_comp_torzok_volochek" village_type="VillageType.sturgian_horse_ranch" hearth="400" bound="Settlement.castle_torzok" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14627,7 +14627,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_velikiye" name="{=castle_velikiye_name}Velikiye Luki Castle" owner="Faction.clan_pereiaslav_2" posX="837.669" posY="1313.77" culture="Culture.kryvich" gate_posX="836.2549" gate_posY="1313.815">
+  <Settlement id="castle_velikiye" name="{=castle_velikiye_name}Velikiye Luki Castle" owner="Faction.clan_pereiaslav_2" posX="837.669" posY="1313.77" culture="Culture.jatvingian" gate_posX="836.2549" gate_posY="1313.815">
     <Components>
       <Town id="castle_comp_velikiye" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -14637,7 +14637,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_velikiye_jemianiek" name="{=castle_velikiye_jemianiek_name}Jemianiek" posX="826.068" posY="1298.594" culture="Culture.kryvich" text="{=castle_velikiye_jemianiek_text}Jemianiek text...">
+  <Settlement id="castle_velikiye_jemianiek" name="{=castle_velikiye_jemianiek_name}Jemianiek" posX="826.068" posY="1298.594" culture="Culture.jatvingian" text="{=castle_velikiye_jemianiek_text}Jemianiek text...">
     <Components>
       <Village id="castle_comp_velikiye_jemianiek" village_type="VillageType.cattle_farm" hearth="400" bound="Settlement.castle_velikiye" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14650,7 +14650,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_pskov" name="{=town_pskov_name}Pskov" owner="Faction.clan_pereiaslav_9" posX="798.072" posY="1324.765" culture="Culture.kryvich" gate_posX="800.1109" gate_posY="1322.539" text="{=town_pskov_text}Pskov text...">
+  <Settlement id="town_pskov" name="{=town_pskov_name}Pskov" owner="Faction.clan_pereiaslav_9" posX="798.072" posY="1324.765" culture="Culture.jatvingian" gate_posX="800.1109" gate_posY="1322.539" text="{=town_pskov_text}Pskov text...">
     <Components>
       <Town id="town_comp_pskov" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -14671,7 +14671,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_pskov_gorodets" name="{=town_pskov_gorodets_name}Isad-Gorodets" posX="787.075" posY="1333.774" culture="Culture.kryvich" text="{=town_pskov_gorodets_text}Isad-Gorodets text...">
+  <Settlement id="town_pskov_gorodets" name="{=town_pskov_gorodets_name}Isad-Gorodets" posX="787.075" posY="1333.774" culture="Culture.jatvingian" text="{=town_pskov_gorodets_text}Isad-Gorodets text...">
     <Components>
       <Village id="town_comp_pskov_gorodets" village_type="VillageType.fisherman" hearth="400" bound="Settlement.town_pskov" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14684,7 +14684,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_pskov_izborsk" name="{=town_pskov_izborsk_name}Izborsk" posX="790.083" posY="1311.624" culture="Culture.kryvich" text="{=town_pskov_izborsk_text}Izborsk text...">
+  <Settlement id="town_pskov_izborsk" name="{=town_pskov_izborsk_name}Izborsk" posX="790.083" posY="1311.624" culture="Culture.jatvingian" text="{=town_pskov_izborsk_text}Izborsk text...">
     <Components>
       <Village id="town_comp_pskov_izborsk" village_type="VillageType.swine_farm" hearth="400" bound="Settlement.town_pskov" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14697,7 +14697,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_pskov_mikhailovskoe" name="{=town_pskov_mikhailovskoe_name}Mikhailovskoe" posX="815.012" posY="1305.433" culture="Culture.kryvich" text="{=town_pskov_mikhailovskoe_text}Mikhailovskoe text...">
+  <Settlement id="town_pskov_mikhailovskoe" name="{=town_pskov_mikhailovskoe_name}Mikhailovskoe" posX="815.012" posY="1305.433" culture="Culture.jatvingian" text="{=town_pskov_mikhailovskoe_text}Mikhailovskoe text...">
     <Components>
       <Village id="town_comp_pskov_mikhailovskoe" village_type="VillageType.wheat_farm" hearth="400" bound="Settlement.town_pskov" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14710,7 +14710,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_toropets" name="{=castle_toropets_name}Toropets Castle" owner="Faction.clan_pereiaslav_7" posX="863.319" posY="1305.656" culture="Culture.kryvich" gate_posX="862.126" gate_posY="1305.2">
+  <Settlement id="castle_toropets" name="{=castle_toropets_name}Toropets Castle" owner="Faction.clan_pereiaslav_7" posX="863.319" posY="1305.656" culture="Culture.jatvingian" gate_posX="862.126" gate_posY="1305.2">
     <Components>
       <Town id="castle_comp_toropets" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -14720,7 +14720,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_toropets_velinskoe" name="{=castle_toropets_velinskoe_name}Velinskoe" posX="853.2" posY="1298.228" culture="Culture.kryvich" text="{=castle_toropets_velinskoe_text}Velinskoe text...">
+  <Settlement id="castle_toropets_velinskoe" name="{=castle_toropets_velinskoe_name}Velinskoe" posX="853.2" posY="1298.228" culture="Culture.jatvingian" text="{=castle_toropets_velinskoe_text}Velinskoe text...">
     <Components>
       <Village id="castle_comp_toropets_velinskoe" village_type="VillageType.sturgian_horse_ranch" hearth="150" bound="Settlement.castle_toropets" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14733,7 +14733,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_toropets_peschakhi" name="{=castle_toropets_peschakhi_name}Peschakhi" posX="874.081" posY="1314.248" culture="Culture.kryvich" text="{=castle_toropets_peschakhi_text}Peschakhi text...">
+  <Settlement id="castle_toropets_peschakhi" name="{=castle_toropets_peschakhi_name}Peschakhi" posX="874.081" posY="1314.248" culture="Culture.jatvingian" text="{=castle_toropets_peschakhi_text}Peschakhi text...">
     <Components>
       <Village id="castle_comp_toropets_peschakhi" village_type="VillageType.sheep_farm" hearth="100" bound="Settlement.castle_toropets" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14935,7 +14935,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_mscislau" name="{=town_mscislau_name}Prapojsk" owner="Faction.clan_pereiaslav_14" posX="858.815" posY="1238.018" culture="Culture.volga_fin" gate_posX="860.2927" gate_posY="1235.385" text="{=town_mscislau_text}Prapojsk text...">
+  <Settlement id="town_mscislau" name="{=town_mscislau_name}Prapojsk" owner="Faction.clan_pereiaslav_14" posX="858.815" posY="1238.018" culture="Culture.kryvich" gate_posX="860.2927" gate_posY="1235.385" text="{=town_mscislau_text}Prapojsk text...">
     <Components>
       <Town id="town_comp_mscislau" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -14969,7 +14969,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_mscislau_radamla" name="{=town_mscislau_radamla_name}Radamla" posX="847.915" posY="1234.574" culture="Culture.volga_fin" text="{=town_mscislau_radamla_text}Radamla text...">
+  <Settlement id="town_mscislau_radamla" name="{=town_mscislau_radamla_name}Radamla" posX="847.915" posY="1234.574" culture="Culture.kryvich" text="{=town_mscislau_radamla_text}Radamla text...">
     <Components>
       <Village id="town_comp_mscislau_radamla" village_type="VillageType.cattle_farm" hearth="400" bound="Settlement.town_mscislau" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14982,7 +14982,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_mscislau_prapojsk" name="{=town_mscislau_prapojsk_name}Salamy" posX="849.691" posY="1223.534" culture="Culture.volga_fin" text="{=town_mscislau_prapojsk_text}Salamy text...">
+  <Settlement id="town_mscislau_prapojsk" name="{=town_mscislau_prapojsk_name}Salamy" posX="849.691" posY="1223.534" culture="Culture.kryvich" text="{=town_mscislau_prapojsk_text}Salamy text...">
     <Components>
       <Village id="town_comp_mscislau_prapojsk" village_type="VillageType.wheat_farm" hearth="400" bound="Settlement.town_mscislau" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14995,7 +14995,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_homiel" name="{=town_homiel_name}Homiel" owner="Faction.clan_chernigov_9" posX="846.04" posY="1210.272" culture="Culture.volga_fin" gate_posX="847.1275" gate_posY="1211.741" text="{=town_homiel_text}Homiel text...">
+  <Settlement id="town_homiel" name="{=town_homiel_name}Homiel" owner="Faction.clan_chernigov_9" posX="846.04" posY="1210.272" culture="Culture.kryvich" gate_posX="847.1275" gate_posY="1211.741" text="{=town_homiel_text}Homiel text...">
     <Components>
       <Town id="town_comp_homiel" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -15016,7 +15016,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_homiel_recyca" name="{=town_homiel_recyca_name}Recyca" posX="839.506" posY="1205.253" culture="Culture.volga_fin" text="{=town_homiel_recyca_text}Recyca text...">
+  <Settlement id="town_homiel_recyca" name="{=town_homiel_recyca_name}Recyca" posX="839.506" posY="1205.253" culture="Culture.kryvich" text="{=town_homiel_recyca_text}Recyca text...">
     <Components>
       <Village id="town_comp_homiel_recyca" village_type="VillageType.swine_farm" hearth="400" bound="Settlement.town_homiel" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -15029,7 +15029,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_homiel_stresyn" name="{=town_homiel_stresyn_name}Stresyn" posX="835.237" posY="1211.321" culture="Culture.volga_fin" text="{=town_homiel_stresyn_text}Stresyn text...">
+  <Settlement id="town_homiel_stresyn" name="{=town_homiel_stresyn_name}Stresyn" posX="835.237" posY="1211.321" culture="Culture.kryvich" text="{=town_homiel_stresyn_text}Stresyn text...">
     <Components>
       <Village id="town_comp_homiel_stresyn" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.town_homiel" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -15457,7 +15457,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_starodub" name="{=castle_starodub_name}Starodub Castle" owner="Faction.clan_chernigov_10" posX="879.037" posY="1216.53" culture="Culture.volga_fin" gate_posX="878.5875" gate_posY="1215.335">
+  <Settlement id="castle_starodub" name="{=castle_starodub_name}Starodub Castle" owner="Faction.clan_chernigov_10" posX="879.037" posY="1216.53" culture="Culture.kryvich" gate_posX="878.5875" gate_posY="1215.335">
     <Components>
       <Town id="castle_comp_starodub" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -15467,7 +15467,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_starodub_chocimsk" name="{=castle_starodub_chocimsk_name}Chocimsk" posX="879.713" posY="1225.346" culture="Culture.volga_fin" text="{=castle_starodub_chocimsk_text}Chocimsk text...">
+  <Settlement id="castle_starodub_chocimsk" name="{=castle_starodub_chocimsk_name}Chocimsk" posX="879.713" posY="1225.346" culture="Culture.kryvich" text="{=castle_starodub_chocimsk_text}Chocimsk text...">
     <Components>
       <Village id="castle_comp_starodub_chocimsk" village_type="VillageType.sturgian_horse_ranch" hearth="400" bound="Settlement.castle_starodub" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -15480,7 +15480,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_roslavl" name="{=castle_roslavl_name}Krycau Castle" owner="Faction.clan_pereiaslav_15" posX="879.791" posY="1239.039" culture="Culture.volga_fin" gate_posX="880.8708" gate_posY="1238.357">
+  <Settlement id="castle_roslavl" name="{=castle_roslavl_name}Krycau Castle" owner="Faction.clan_pereiaslav_15" posX="879.791" posY="1239.039" culture="Culture.kryvich" gate_posX="880.8708" gate_posY="1238.357">
     <Components>
       <Town id="castle_comp_roslavl" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -15490,7 +15490,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_roslavl_nikiforovskoe" name="{=castle_roslavl_nikiforovskoe_name}Nikiforovskoe" posX="884.653" posY="1246.71" culture="Culture.volga_fin" text="{=castle_roslavl_nikiforovskoe_text}Nikiforovskoe text...">
+  <Settlement id="castle_roslavl_nikiforovskoe" name="{=castle_roslavl_nikiforovskoe_name}Nikiforovskoe" posX="884.653" posY="1246.71" culture="Culture.kryvich" text="{=castle_roslavl_nikiforovskoe_text}Nikiforovskoe text...">
     <Components>
       <Village id="castle_comp_roslavl_nikiforovskoe" village_type="VillageType.sheep_farm" hearth="400" bound="Settlement.castle_roslavl" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -15503,7 +15503,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_trubchevsk" name="{=town_trubchevsk_name}Trubchevsk" owner="Faction.clan_chernigov_11" posX="903.231" posY="1225.098" culture="Culture.volga_fin" gate_posX="902.6846" gate_posY="1226.842" text="{=town_trubchevsk_text}Trubchevsk text...">
+  <Settlement id="town_trubchevsk" name="{=town_trubchevsk_name}Trubchevsk" owner="Faction.clan_chernigov_11" posX="903.231" posY="1225.098" culture="Culture.kryvich" gate_posX="902.6846" gate_posY="1226.842" text="{=town_trubchevsk_text}Trubchevsk text...">
     <Components>
       <Town id="town_comp_trubchevsk" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -15524,7 +15524,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_trubchevsk_sluchovsk" name="{=town_trubchevsk_sluchovsk_name}Sluchovsk" posX="897.504" posY="1217.594" culture="Culture.volga_fin" text="{=town_trubchevsk_sluchovsk_text}Sluchovsk text...">
+  <Settlement id="town_trubchevsk_sluchovsk" name="{=town_trubchevsk_sluchovsk_name}Sluchovsk" posX="897.504" posY="1217.594" culture="Culture.kryvich" text="{=town_trubchevsk_sluchovsk_text}Sluchovsk text...">
     <Components>
       <Village id="town_comp_trubchevsk_sluchovsk" village_type="VillageType.fisherman" hearth="400" bound="Settlement.town_trubchevsk" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -15537,7 +15537,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_trubchevsk_vshchizh" name="{=town_trubchevsk_vshchizh_name}Vshchizh" posX="902.368" posY="1237.183" culture="Culture.volga_fin" text="{=town_trubchevsk_vshchizh_text}Vshchizh text...">
+  <Settlement id="town_trubchevsk_vshchizh" name="{=town_trubchevsk_vshchizh_name}Vshchizh" posX="902.368" posY="1237.183" culture="Culture.kryvich" text="{=town_trubchevsk_vshchizh_text}Vshchizh text...">
     <Components>
       <Village id="town_comp_trubchevsk_vshchizh" village_type="VillageType.lumberjack" hearth="400" bound="Settlement.town_trubchevsk" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -15550,7 +15550,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_trubchevsk_radogoshch" name="{=town_trubchevsk_radogoshch_name}Radogoshch" posX="937.157" posY="1210.415" culture="Culture.volga_fin" text="{=town_trubchevsk_radogoshch_text}Radogoshch text...">
+  <Settlement id="town_trubchevsk_radogoshch" name="{=town_trubchevsk_radogoshch_name}Radogoshch" posX="937.157" posY="1210.415" culture="Culture.kryvich" text="{=town_trubchevsk_radogoshch_text}Radogoshch text...">
     <Components>
       <Village id="town_comp_trubchevsk_radogoshch" village_type="VillageType.lumberjack" hearth="400" bound="Settlement.town_trubchevsk" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
