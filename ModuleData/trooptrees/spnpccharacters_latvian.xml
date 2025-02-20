@@ -4740,10 +4740,10 @@
 		</face>
 		<skills >
 			<skill id="Athletics" value="100"/>
-			<skill id="Riding" value="150"/>
-			<skill id="OneHanded" value="150"/>
+			<skill id="Riding" value="125"/>
+			<skill id="OneHanded" value="125"/>
 			<skill id="TwoHanded" value="75"/>
-			<skill id="Polearm" value="200"/>
+			<skill id="Polearm" value="150"/>
 			<skill id="Bow" value="50"/>
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="150"/>
@@ -4853,13 +4853,13 @@
 		</face>
 		<skills >
       <skill id="Athletics" value="50"/>
-			<skill id="Riding" value="100"/>
+			<skill id="Riding" value="70"/>
 			<skill id="OneHanded" value="50"/>
 			<skill id="TwoHanded" value="15"/>
-			<skill id="Polearm" value="100"/>
+			<skill id="Polearm" value="70"/>
 			<skill id="Bow" value="15"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="125"/>
+			<skill id="Throwing" value="70"/>
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.baltic_experienced_mounted_skirmisher"/>
@@ -4964,13 +4964,13 @@
 		</face>
 		<skills >
       <skill id="Athletics" value="50"/>
-			<skill id="Riding" value="150"/>
+			<skill id="Riding" value="100"/>
 			<skill id="OneHanded" value="100"/>
 			<skill id="TwoHanded" value="25"/>
-			<skill id="Polearm" value="150"/>
+			<skill id="Polearm" value="100"/>
 			<skill id="Bow" value="15"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="175"/>
+			<skill id="Throwing" value="125"/>
 		</skills>
 		<Equipments>
 			<EquipmentRoster>
