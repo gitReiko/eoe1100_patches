@@ -3868,16 +3868,16 @@
 				<equipment slot="Item0" id="Item.rus_oaken_rahacina_t6_type4a_12_13"/>
 				<equipment slot="Item1" id="Item.pernach_mace_t3"/>
         <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
-				<equipment slot="Cape" id="Item.a_brass_lamellar_shoulder_white_a"/>
-				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson"/>
+				<equipment slot="Cape" id="Item.a_empire_plated_shoulder_b"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
       <EquipmentRoster>
 				<equipment slot="Item0" id="Item.rus_pine_leaf_rahacina_t6_type4a_12_13"/>
 				<equipment slot="Item1" id="Item.pernach_mace_t3"/>
         <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
-				<equipment slot="Cape" id="Item.a_brass_lamellar_shoulder_white_a"/>
-				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson"/>
+				<equipment slot="Cape" id="Item.a_empire_plated_shoulder_b"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
@@ -4114,622 +4114,103 @@
 		</Equipments>
 	</NPCCharacter>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <NPCCharacter id="jatvingian_volunteer"
+  <NPCCharacter id="novgorodian_detskii"
 		default_group="Infantry"
-		level="6"
-		name="{=jatvingian_volunteer.name}Novgorodian Volunteer"
+		level="21"
+		name="{=novgorodian_detskii.name}Novgorodian Detskii"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
 			<face_key_template value="BodyProperty.villager_jatvingian"/>
 		</face>
-		<skills >
-			<skill id="Athletics" value="20"/>
-			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="20"/>
-			<skill id="TwoHanded" value="0"/>
-			<skill id="Polearm" value="20"/>
-			<skill id="Bow" value="0"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="10"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.jatv_dregovian_archer"/>
-			<upgrade_target id="NPCCharacter.jatvingian_armed_volunteer"/>
-      		<upgrade_target id="NPCCharacter.jatvingian_scout"/>
+    <upgrade_targets>
+			<upgrade_target id="NPCCharacter.novgorodian_grid"/>
 		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-        		<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-	<NPCCharacter id="jatvingian_armed_volunteer"
-		default_group="Infantry"
-		level="11"
-		name="{=jatvingian_armed_volunteer.name}Jatvingian Armed Volunteer"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
 		<skills >
-			<skill id="Athletics" value="40"/>
-			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="40"/>
-			<skill id="TwoHanded" value="20"/>
-			<skill id="Polearm" value="40"/>
-			<skill id="Bow" value="10"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="25"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.jatvingian_drab"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.northern_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.northern_tunic"/>
-				<equipment slot="Leg" id="Item.rough_tied_boots"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.rus_pine_kapjo_t1_type3_10_11"/>
-				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.rus_ash_kapjo_t1_type3_10_11"/>
-				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.rus_pine_kapjo_t1_type3_10_11"/>
-				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.fur_hood"/>
-				<equipment slot="Cape" id="Item.female_scarf"/>
-				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-        		<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.thick_sleeved_robe"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.rus_oaken_kapjo_t1_type3_10_11"/>
-				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.northern_tunic"/>
-				<equipment slot="Leg" id="Item.rough_tied_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-  <NPCCharacter id="jatvingian_drab"
-		default_group="Infantry"
-		level="16"
-		name="{=jatvingian_drab.name}Jatvingian Drab"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="75"/>
-			<skill id="Riding" value="15"/>
-			<skill id="OneHanded" value="75"/>
-			<skill id="TwoHanded" value="25"/>
-			<skill id="Polearm" value="75"/>
-			<skill id="Bow" value="25"/>
+			<skill id="Athletics" value="125"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="100"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="100"/>
+			<skill id="Bow" value="50"/>
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="50"/>
 		</skills>
-    	<upgrade_targets>
-			<upgrade_target id="NPCCharacter.jatvingian_experienced_drab"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_ash_kapjo_t6_type3_11_12"/>
-        		<equipment slot="Item3" id="Item.rus_pine_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_oaken_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
-        		<equipment slot="Item3" id="Item.rus_pine_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
-        		<equipment slot="Item3" id="Item.rus_pine_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-        		<equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
-				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t1_type3_10_11"/>
-        		<equipment slot="Item3" id="Item.rus_oaken_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.fur_hood"/>
-				<equipment slot="Body" id="Item.nordic_sloven"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-        		<equipment slot="Item3" id="Item.rus_oaken_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-        		<equipment slot="Item3" id="Item.rus_pine_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.fur_hood"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-	<NPCCharacter id="jatvingian_experienced_drab"
-		default_group="Infantry"
-		level="21"
-		name="{=jatvingian_experienced_drab.name}Jatvingian Experienced Drab"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="150"/>
-			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="150"/>
-			<skill id="TwoHanded" value="50"/>
-			<skill id="Polearm" value="125"/>
-			<skill id="Bow" value="50"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="100"/>
-		</skills>
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item3" id="Item.rus_ash_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
-				<equipment slot="Body" id="Item.empire_warrior_padded_armor_e"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_ash_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_pine_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
-				<equipment slot="Body" id="Item.empire_warrior_padded_armor_e"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.rough_tied_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.rus_pine_oval_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_oaken_hunting_sulica_t1_type1"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_laced_coif"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-        <equipment slot="Body" id="Item.empire_warrior_padded_armor_a"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_laced_coif"/>
-				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
-        <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.nordic_fur_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-	<NPCCharacter id="jatvingian_noble_warrior"
-		default_group="Infantry"
-		level="21"
-		name="{=jatvingian_noble_warrior.name}Jatvingian Noble Warrior"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="150"/>
-			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="150"/>
-			<skill id="TwoHanded" value="50"/>
-			<skill id="Polearm" value="125"/>
-			<skill id="Bow" value="50"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="100"/>
-		</skills>
-		<upgrade_targets>
-      		<upgrade_target id="NPCCharacter.jatvingian_noble_heavy_warrior"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item1" id="Item.western_kite_shield"/>
 				<equipment slot="Item2" id="Item.baltic_ash_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+        <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.nordic_hauberk"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
-				<equipment slot="Body" id="Item.desert_padded_cloth"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Item1" id="Item.western_kite_shield"/>
 				<equipment slot="Item2" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.rus_pine_oval_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
-				<equipment slot="Body" id="Item.desert_padded_cloth"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.rough_tied_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_oaken_oval_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_laced_coif"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-        		<equipment slot="Body" id="Item.northern_padded_gambeson"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.rough_tied_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_ash_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_laced_coif"/>
-				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
-        		<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+        <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.nordic_hauberk"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="jatvingian_noble_heavy_warrior"
+  <NPCCharacter id="novgorodian_grid"
 		default_group="Infantry"
 		level="26"
-		name="{=jatvingian_noble_heavy_warrior.name}Jatvingian Noble Heavy Warrior"
+		name="{=novgorodian_grid.name}Novgorodian Grid"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
 			<face_key_template value="BodyProperty.villager_jatvingian"/>
 		</face>
 		<skills >
-			<skill id="Athletics" value="175"/>
-			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="225"/>
+			<skill id="Athletics" value="200"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="200"/>
 			<skill id="TwoHanded" value="100"/>
 			<skill id="Polearm" value="200"/>
 			<skill id="Bow" value="50"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="175"/>
+			<skill id="Throwing" value="75"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.jatvingian_warlord"/>
+			<upgrade_target id="NPCCharacter.novgorodian_boyar"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
-				<equipment slot="Item1" id="Item.heavy_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.northern_goggled_helmet"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.northern_goggled_helmet"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.hauberk"/>
-				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
-				<equipment slot="Item1" id="Item.heavy_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_ash_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
-        <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
-				<equipment slot="Item1" id="Item.viking_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.northern_goggled_helmet"/>
-        <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_ash_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
-				<equipment slot="Item1" id="Item.heavy_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.northern_goggled_helmet"/>
-        <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
-				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
-				<equipment slot="Item1" id="Item.heavy_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
-				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
+				<equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
+				<equipment slot="Item2" id="Item.baltic_ash_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
+				<equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="jatvingian_warlord"
+  <NPCCharacter id="novgorodian_boyar"
 		default_group="Infantry"
 		level="31"
-		name="{=jatvingian_warlord.name}Jatvingian Warlord"
+		name="{=novgorodian_boyar.name}Novgorodian Boyar"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
@@ -4737,684 +4218,32 @@
 		</face>
 		<skills >
 			<skill id="Athletics" value="250"/>
-			<skill id="Riding" value="0"/>
+			<skill id="Riding" value="50"/>
 			<skill id="OneHanded" value="275"/>
-			<skill id="TwoHanded" value="175"/>
-			<skill id="Polearm" value="250"/>
+			<skill id="TwoHanded" value="150"/>
+			<skill id="Polearm" value="275"/>
 			<skill id="Bow" value="75"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="250"/>
-		</skills>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
-				<equipment slot="Item1" id="Item.heavy_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_11_12"/>
-				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.northern_goggled_helmet"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.hauberk"/>
-				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
-				<equipment slot="Item1" id="Item.heavy_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_cavalry_spear_t3_type3_11_12"/>
-				<equipment slot="Item3" id="Item.baltic_ash_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.closed_goggled_helmet"/>
-        <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
-				<equipment slot="Item1" id="Item.viking_round_shield"/>
-				<equipment slot="Item2" id="Item.baltic_ash_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
-        <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_cavalry_spear_t3_type3_11_12"/>
-				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.closed_goggled_helmet"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
-				<equipment slot="Item1" id="Item.heavy_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_ash_cavalry_spear_t3_type3_11_12"/>
-				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.closed_goggled_helmet"/>
-        <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
-				<equipment slot="Item1" id="Item.heavy_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_11_12"/>
-				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
-				<equipment slot="Head" id="Item.nordic_fur_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-  <NPCCharacter id="jatvingian_scout"
-		default_group="Cavalry"
-		level="11"
-		name="{=jatvingian_scout.name}Jatvingian Scout"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="35"/>
-			<skill id="Riding" value="75"/>
-			<skill id="OneHanded" value="40"/>
-			<skill id="TwoHanded" value="0"/>
-			<skill id="Polearm" value="75"/>
-			<skill id="Bow" value="10"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="15"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.jatvingian_light_horseman"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.rus_pine_kapjo_t1_type3_10_11"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.northern_tunic"/>
-				<equipment slot="Leg" id="Item.rough_tied_boots"/>
-        		<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-        		<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-        		<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.rus_pine_kapjo_t1_type3_10_11"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-        		<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.rus_ash_kapjo_t1_type3_10_11"/>
-				<equipment slot="Head" id="Item.fur_hood"/>
-				<equipment slot="Cape" id="Item.female_scarf"/>
-				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-        		<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-        		<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.thick_sleeved_robe"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-        		<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.rus_oaken_kapjo_t1_type3_10_11"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-        		<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.northern_tunic"/>
-				<equipment slot="Leg" id="Item.rough_tied_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-  <NPCCharacter id="jatvingian_light_horseman"
-		default_group="Cavalry"
-		level="16"
-		name="{=jatvingian_light_horseman.name}Jatvingian Light Horseman"
-		upgrade_requires="ItemCategory.horse"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="100"/>
-			<skill id="Riding" value="125"/>
-			<skill id="OneHanded" value="125"/>
-			<skill id="TwoHanded" value="25"/>
-			<skill id="Polearm" value="175"/>
-			<skill id="Bow" value="15"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="15"/>
-		</skills>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.empire_horse"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item2" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.baltic_ash_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item2" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_laced_coif"/>
-				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.rus_ash_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item2" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_laced_coif"/>
-				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item2" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.desert_padded_cloth"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
-				<equipment slot="Item2" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Head" id="Item.wolfhead"/>
-				<equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_padded_cloth"/>
-				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.empire_horse"/>
-				<equipment slot="HorseHarness" id="Item.light_harness"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.padded_leather_cape"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.northern_tunic"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-	<NPCCharacter id="jatv_dregovian_archer"
-		default_group="Ranged"
-		level="11"
-		name="{=jatv_dregovian_archer.name}Dregovian Archer"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="50"/>
-			<skill id="Riding" value="10"/>
-			<skill id="OneHanded" value="25"/>
-			<skill id="TwoHanded" value="10"/>
-			<skill id="Polearm" value="10"/>
-			<skill id="Bow" value="50"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="25"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.jatv_dregovian_experienced_archer"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.hunting_bow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.padded_leather_cape"/>
-				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.hunting_bow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.pilgrim_hood"/>
-				<equipment slot="Body" id="Item.northern_tunic"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.hunting_bow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.imperial_cloth_coif"/>
-				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.mountain_hunting_bow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.mountain_hunting_bow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Body" id="Item.thick_sleeved_robe"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.hunting_bow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.pilgrim_hood"/>
-				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.hunting_bow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.imperial_leather_coif"/>
-                <equipment slot="Body" id="Item.sackcloth_tunic"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.padded_leather_cape"/>
-				<equipment slot="Body" id="Item.northern_tunic"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-	<NPCCharacter id="jatv_dregovian_experienced_archer"
-		default_group="Ranged"
-		level="16"
-		name="{=jatv_dregovian_experienced_archer.name}Dregovian Experienced Archer"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="75"/>
-			<skill id="Riding" value="25"/>
-			<skill id="OneHanded" value="50"/>
-			<skill id="TwoHanded" value="25"/>
-			<skill id="Polearm" value="25"/>
-			<skill id="Bow" value="125"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="50"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.jatv_dregovian_pancyrny_archer"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.padded_leather_cape"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.pilgrim_hood"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.imperial_axe_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.thinhide_coif"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.pilgrim_hood"/>
-				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.laced_coif"/>
-				<equipment slot="Body" id="Item.nordic_sloven"/>
-				<equipment slot="Leg" id="Item.wrapped_shoes"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.imperial_leather_coif"/>
-        		<equipment slot="Gloves" id="Item.armwraps"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-      		<EquipmentRoster>
-				<equipment slot="Item0" id="Item.imperial_axe_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.thinhide_coif"/>
-				<equipment slot="Body" id="Item.nordic_sloven_leather"/>		
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Head" id="Item.padded_leather_cape"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-	<NPCCharacter id="jatv_dregovian_pancyrny_archer"
-		default_group="Ranged"
-		level="21"
-		name="{=jatv_dregovian_pancyrny_archer.name}Dregovian Pancyrny Archer"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="100"/>
-			<skill id="Riding" value="50"/>
-			<skill id="OneHanded" value="75"/>
-			<skill id="TwoHanded" value="25"/>
-			<skill id="Polearm" value="25"/>
-			<skill id="Bow" value="150"/>
-			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="75"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.jatv_dregovian_pancyrny_archer_veteran"/>
-		</upgrade_targets>
-		<Equipments>
-      <EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_with_leather"/>
-				<equipment slot="Body" id="Item.mail_shirt"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_padded_coif"/>
-                <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_with_leather"/>
-                <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.mail_shirt"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_mail"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
-                <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_mail"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.nordic_shortbow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-				<equipment slot="Head" id="Item.nordic_fur_cap"/>
-				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-
-	<NPCCharacter id="jatv_dregovian_pancyrny_archer_veteran"
-		default_group="Ranged"
-		level="26"
-		name="{=jatv_dregovian_pancyrny_archer_veteran.name}Dregovian Pancyrny Archer Veteran"
-		occupation="Soldier"
-		culture="Culture.jatvingian">
-		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
-		</face>
-		<skills >
-			<skill id="Athletics" value="150"/>
-			<skill id="Riding" value="50"/>
-			<skill id="OneHanded" value="125"/>
-			<skill id="TwoHanded" value="25"/>
-			<skill id="Polearm" value="25"/>
-			<skill id="Bow" value="175"/>
-			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="75"/>
 		</skills>
 		<Equipments>
-      <EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
-				<equipment slot="Item1" id="Item.noble_bow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_mail"/>
-				<equipment slot="Body" id="Item.mail_shirt"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
 			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
-				<equipment slot="Item1" id="Item.noble_bow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_mail_coif"/>
-				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
-				<equipment slot="Item1" id="Item.noble_bow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.sturgian_helmet_open"/>
-                <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
-				<equipment slot="Item1" id="Item.noble_bow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_mail"/>
-                <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
-				<equipment slot="Item1" id="Item.noble_bow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_padded_coif"/>
-                <equipment slot="Cape" id="Item.wolf_shoulder"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_noble_sword_2_t5"/>
-				<equipment slot="Item1" id="Item.noble_bow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.sturgian_helmet_open"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_noble_sword_2_t5"/>
-				<equipment slot="Item1" id="Item.noble_bow"/>
-				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
-				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Leg" id="Item.highland_boots"/>
+				<equipment slot="Item0" id="Item.empire_noble_sword_1_t5"/>
+				<equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
+				<equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
+        <equipment slot="Head" id="Item.sturgian_helmet_closed"/>
+				<equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
+				<equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
+				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
-				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-  
 
 </NPCCharacters>
