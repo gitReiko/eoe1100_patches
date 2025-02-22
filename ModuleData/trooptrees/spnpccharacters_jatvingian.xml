@@ -3677,6 +3677,8 @@
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.novgorodian_armed_okhochii"/>
+      <upgrade_target id="NPCCharacter.novgorodian_archer"/>
+      <upgrade_target id="NPCCharacter.novgorodian_scout"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -3720,7 +3722,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.western_kite_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t1_type3_10_11"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
@@ -3728,7 +3730,7 @@
       <EquipmentRoster>
 				<equipment slot="Item0" id="Item.aserai_mace_1_t2"/>
 				<equipment slot="Item1" id="Item.western_kite_shield"/>
-				<equipment slot="Item2" id="Item.rus_pine_kapjo_t1_type3_10_11"/>
+				<equipment slot="Item2" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
@@ -3763,12 +3765,13 @@
 		</skills>
     	<upgrade_targets>
 			<upgrade_target id="NPCCharacter.novgorodian_ognishchanin"/>
+      <upgrade_target id="NPCCharacter.novgorodian_rogatnyi"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.western_kite_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
         <equipment slot="Head" id="Item.northern_fur_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
@@ -3777,7 +3780,7 @@
       <EquipmentRoster>
 				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Item1" id="Item.western_kite_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
+				<equipment slot="Item2" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
         <equipment slot="Head" id="Item.northern_fur_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
@@ -3816,27 +3819,297 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.western_kite_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
+				<equipment slot="Item2" id="Item.baltic_ash_spear_t3_rus_type4_12_13"/>
         <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.nordic_hauberk"/>
-				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
       <EquipmentRoster>
 				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Item1" id="Item.western_kite_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
         <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.nordic_hauberk"/>
-				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="novgorodian_rogatnyi"
+		default_group="Infantry"
+		level="21"
+		name="{=novgorodian_rogatnyi.name}Novgorodian Rogatnyi"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="30"/>
+			<skill id="OneHanded" value="100"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="130"/>
+			<skill id="Bow" value="30"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="30"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.rus_oaken_rahacina_t6_type4a_12_13"/>
+				<equipment slot="Item1" id="Item.pernach_mace_t3"/>
+        <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Cape" id="Item.a_brass_lamellar_shoulder_white_a"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.rus_pine_leaf_rahacina_t6_type4a_12_13"/>
+				<equipment slot="Item1" id="Item.pernach_mace_t3"/>
+        <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Cape" id="Item.a_brass_lamellar_shoulder_white_a"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="novgorodian_archer"
+		default_group="Ranged"
+		level="11"
+		name="{=novgorodian_archer.name}Novgorodian Archer"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+    	<skill id="Athletics" value="40"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="25"/>
+			<skill id="TwoHanded" value="10"/>
+			<skill id="Polearm" value="10"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="20"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.novgorodian_experienced_archer"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.nordic_shortbow"/>
+				<equipment slot="Item1" id="Item.default_arrows"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.nordic_shortbow"/>
+				<equipment slot="Item1" id="Item.default_arrows"/>
+				<equipment slot="Item2" id="Item.aserai_mace_1_t2"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="novgorodian_experienced_archer"
+		default_group="Ranged"
+		level="16"
+		name="{=novgorodian_experienced_archer.name}Novgorodian Experienced Archer"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+      <skill id="Athletics" value="100"/>
+      <skill id="Riding" value="0"/>
+      <skill id="OneHanded" value="75"/>
+      <skill id="TwoHanded" value="25"/>
+      <skill id="Polearm" value="50"/>
+      <skill id="Bow" value="100"/>
+      <skill id="Crossbow" value="0"/>
+      <skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.nordic_shortbow"/>
+				<equipment slot="Item1" id="Item.bodkin_arrows_a"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+        <equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.nordic_shortbow"/>
+				<equipment slot="Item1" id="Item.bodkin_arrows_a"/>
+				<equipment slot="Item2" id="Item.aserai_mace_1_t2"/>
+        <equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+        <equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="novgorodian_scout"
+		default_group="Cavalry"
+		level="11"
+		name="{=novgorodian_scout.name}Novgorodian Scout"
+		occupation="Soldier"
+    upgrade_requires="ItemCategory.horse"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="20"/>
+			<skill id="Riding" value="40"/>
+			<skill id="OneHanded" value="40"/>
+			<skill id="TwoHanded" value="20"/>
+			<skill id="Polearm" value="40"/>
+			<skill id="Bow" value="10"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.novgorodian_light_horseman"/>
+		</upgrade_targets>
+		<Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.aserai_mace_1_t2"/>
+				<equipment slot="Item1" id="Item.old_horsemans_kite_shield"/>
+				<equipment slot="Item2" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+        <equipment slot="Horse" id="Item.empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="novgorodian_light_horseman"
+		default_group="Cavalry"
+		level="16"
+		name="{=novgorodian_opolchenets.name}Novgorodian Light Horseman"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="40"/>
+			<skill id="Riding" value="75"/>
+			<skill id="OneHanded" value="75"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="75"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+    	<upgrade_targets>
+			<upgrade_target id="NPCCharacter.novgorodian_horseman"/>
+		</upgrade_targets>
+		<Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Item1" id="Item.western_riders_kite_shield"/>
+				<equipment slot="Item2" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
+        <equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+        <equipment slot="Horse" id="Item.empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="novgorodian_horseman"
+		default_group="Cavalry"
+		level="21"
+		name="{=novgorodian_horseman.name}Novgorodian Horseman"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="75"/>
+			<skill id="Riding" value="100"/>
+			<skill id="OneHanded" value="100"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="150"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Item1" id="Item.western_riders_kite_shield"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
+        <equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.nordic_hauberk"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+        <equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
