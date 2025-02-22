@@ -1,0 +1,22 @@
+<strings>
+
+<!--Baltic-->
+  <string id="str_player_father_name.latvian" text="{=latvianfather}Dagnis" />
+  <string id="str_player_mother_name.latvian" text="{=latvianmother}Allune" />
+  <string id="str_culture_description.latvian" text="{=latviandescription}The Baltic tribes were divided into 2 large groups: Western Balts and Eastern Balts. The Western Balts consisted of the Curonians, Prussians, and Yotvingians (Jatvingians). The Eastern Balts consisted of Samogitia, Lithuania, Selonia, Semigallians and Latgalians. By 1100 these tribes had formed many small principalities, which often formed alliances against strong enemies, for example in 1106 the Zemgalians defeated a large Polatsk army and stop Polatsk's expansion into the region for a long time. Nevertheless, the principalities were often at war with each other. In 1100 many neighboring tribes were in vassal-union relations with Polack (Polatsk), among them were Latgalians, Lithuanians, and Selonians. In 1202 the Livonian Brothers of the Sword was founded order in Riga, which in 1237 became part of the Teutonic Order. This state began to conquer and Christianize the neighboring Baltic tribes and Finnish tribe. This became a strong impulse of consolidation for Baltic ethnoses around Lithuania and establishment of this state, which existed until 1795. Teutonic state existed on the land of Latvia until 1561, later this state was divided into several vassal duchies, which existed almost until the beginning of the 19th century. During this time, the Latvian nation was formed from Latvian Baltic and Finnish tribes." />
+  <string id="str_faction_ruler_name_with_title.latvian" text="{=latvianrulertitle}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.latvian" text="{=latviannobletitle}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+  <string id="str_faction_official.latvian" text="{=latvianofficial}prince" />
+  <string id="str_faction_official.latvian_f" text="{=latvianofficialf}princess" />
+  <string id="str_faction_ruler.latvian" text="{=latvianruler}Prince" />
+  <string id="str_faction_ruler.latvian_f" text="{=latvianrulerf}Princess" />
+  <string id="str_faction_ruler_term_in_speech.latvian" text="{=latvianrulerterm}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.latvian" text="{=latvianfactionadjective}Baltic" />
+  <string id="str_short_term_for_faction.latvian" text="{=latvianfactionshortterm}Balts" />
+  <string id="str_faction_formal_name_for_culture.latvian" text="{=latvianfactionformalname}Baltic Principality" />
+  <string id="str_faction_informal_name_for_culture.latvian" text="{=latvianfactioninformalname}Baltic Principality" />
+  <string id="str_adjective_for_culture.latvian" text="{=latviancultureadjective}Baltic" />
+  <string id="str_neutral_term_for_culture.latvian" text="{=latviancultureneutralterm}Balts" />
+  <string id="str_culture_rich_name.latvian" text="{=latvianmembers}Balts" />	
+	
+</strings>

@@ -96,7 +96,24 @@
         <GameType value = "Campaign"/>
         <GameType value = "CustomGame"/>
       </IncludedGameTypes>
-    </XmlNode>	
+    </XmlNode>
+
+    <XmlNode>
+      <XmlName id="GameText" path="module_strings"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+		    <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
+    <XmlNode>                
+      <XmlName id="EquipmentRosters" path="sandbox_core_equipment_sets"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
 
   </Xmls>
 

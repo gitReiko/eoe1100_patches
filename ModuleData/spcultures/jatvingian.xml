@@ -24,7 +24,7 @@
            rebels_party_template="PartyTemplate.rebels_jatvingian_template"
            vassal_reward_party_template="PartyTemplate.vassal_reward_troops_jatvingian"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=novgorodian.text}First the Novgorod principality and then the republic formed a separate ethnos, which is sometimes distinguished as the fourth Eastern Slavic ethnos. Novgorod originally had a broad ethnic composition of Balto-Slavic and Finnish ethnicities. To the Balto-Slavs belonged the Ilmen Slavs and Kryvichs. Among the Finnish ethnicities were Izhorians, Vepsians, Karelians, Votians and other. Initially Novgorod collecting tribute from neighboring ethnoses, but over time the ethnoses were incorporated on equal rights. For example, the name of the famous mercenaries Ushkuyniks came from the local Finnish language."
+           text="{=novgorodian.text}The Novgorod principality began to form in the 9th century and existed until 1478. During this time the fourth Eastern Slavic ethnos was formed, which no longer exists. The Balto-Slavic ethnoses Ilmen Slavs and Kryviches Slavized the region. But the basis of the population was the Finnish tribes Izhorians, Karelians, Vepsians, Votians and other. Relations between ethnic groups evolved from simple tribute collection to full integration into the society. For example, the name of the famous mercenaries Ushkuyniks comes from the Finnish word of boat, ushkuy."
            tournament_master="NPCCharacter.tournament_master_jatvingian"
            villager="NPCCharacter.villager_jatvingian"
            caravan_master="NPCCharacter.caravan_master_jatvingian"

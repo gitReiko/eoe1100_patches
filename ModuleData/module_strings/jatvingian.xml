@@ -1,0 +1,21 @@
+<strings>
+
+  <string id="str_player_father_name.jatvingian" text="{=jatvingianfather}Voigost" />
+  <string id="str_player_mother_name.jatvingian" text="{=jatvingianmother}Iakima" />
+  <string id="str_culture_description.jatvingian" text="{=jatvingiandescription}The Novgorod principality began to form in the 9th century and existed until 1478. During this time the fourth Eastern Slavic ethnos was formed, which no longer exists. The Balto-Slavic ethnoses Ilmen Slavs and Kryviches Slavized the region. But the basis of the population was the Finnish tribes Izhorians, Karelians, Vepsians, Votians and other. Relations between ethnic groups evolved from simple tribute collection to full integration into the society. For example, the name of the famous mercenaries Ushkuyniks comes from the Finnish word of boat, ushkuy." />
+  <string id="str_faction_ruler_name_with_title.jatvingian" text="{=jatvingianrulertitle}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.jatvingian" text="{=jatvingiannobletitle}{?RULER.GENDER}Boyarynia{?}Boyar{\?} {RULER.NAME}" />
+  <string id="str_faction_official.jatvingian" text="{=jatvingianofficial}boyar" />
+  <string id="str_faction_official.jatvingian_f" text="{=jatvingianofficialf}boyarynia" />
+  <string id="str_faction_ruler.jatvingian" text="{=jatvingianruler}Knyaz" />
+  <string id="str_faction_ruler.jatvingian_f" text="{=jatvingianrulerf}Knyazna" />
+  <string id="str_faction_ruler_term_in_speech.jatvingian" text="{=jatvingianrulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.jatvingian" text="{=jatvingianfactionadjective}Novgorodian" />
+  <string id="str_short_term_for_faction.jatvingian" text="{=jatvingianfactionshortterm}Novgorod" />
+  <string id="str_faction_formal_name_for_culture.jatvingian" text="{=jatvingianfactionformalname}Novgorod Principality" />
+  <string id="str_faction_informal_name_for_culture.jatvingian" text="{=jatvingianfactioninformalname}Novgorod Principality" />
+  <string id="str_adjective_for_culture.jatvingian" text="{=jatvingiancultureadjective}Novgorodian" />
+  <string id="str_neutral_term_for_culture.jatvingian" text="{=jatvingiancultureneutralterm}Novgorod" />
+  <string id="str_culture_rich_name.jatvingian" text="{=jatvingianmembers}Novgorod" />	
+	
+</strings>
