@@ -114,6 +114,10 @@
       </IncludedGameTypes>
     </XmlNode>
 
+    <XmlNode>
+        <XmlName id="Items" path="europeItems"/>
+    </XmlNode> 
+
 
   </Xmls>
 

@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+
+
+    <!-- Javellins
+
+    Unfortunately there is no commonly accepted classification of Rus javelins.
+    Classification of Plavinski Mikalai.
+
+    Almost half of the found Rus javellins are localized on a relatively small territory (modern Belarus). At the same time, more than half of the javellins found in Belarus are of Baltic origin. According to Plavinski Mikalai, the use of javellins on the territory of Belarus is an influence of the Baltic military tradition. 
+
+    The following medieval ethnic groups used javelins on the territory of Belarus: Yotvingians, Kryviches, Dregoviches, Lithuanians and Radimiches.
+
+    In Belarus, most javelins belonged to types 1 and 4.
+
+    Time of javellins use on the territory of modern Belarus.
+
+    Sulica - Leaf Type 1 [10th - 13th c.]
+    Javellins of this type were used on the territory of modern Belarus, Ukraine, Russia, Latvia and Lithuania.
+    (Medieval ethnicities: Kryviches, Dregoviches, Yotvingians, Radimiches, Volgian Bulgars, Samogitians???, Lithuanians??? other Baltic traibes???)
+
+    Sulica - Leaf Type 2 [12th - 13th c.]
+    Javellins of this type were used on the territory of modern Belarus, Estonia, Latvia and Lithuania.
+    (Medieval ethnicities: Kryviches???, Yotvingians???, Samogitians???, Lithuanians??? other Baltic traibes???)
+
+    Sulica (Angon) - Leaf Type 3 [11th - 13th c.]
+    Javellins of this type were used on the territory of modern Western Belarus, Latvia (Curonian) and Estonia. Widely used by Curonians. In Belarus 3 spearheads were found in the western part.
+    (Medieval ethnicities: Yotvingians, Curonians, Estonian Islanders)
+
+    Sulica - Leaf Type 4 [11th - 14th c.]
+    Javellins of this type were used on the territory of modern Belarus, Southern Eastern Baltica, Finland, Gotland and Northern Western Russian.
+    (Medieval ethnicities: Kryviches, Dregoviches, Yotvingians, South-East Baltic (Latgalians???, Estonians???), Gotland)
+
+    -->
+	
+    <CraftedItem id="rus_pine_hunting_sulica_t1_type1"
+        name="{=rus_pine_hunting_sulica_t1_type1.name}Rus Pine Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="Javelin" >
+    <Pieces>
+        <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="150" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_ash_hunting_sulica_t1_type1"
+        name="{=rus_ash_hunting_sulica_t1_type1.name}Rus Ash Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.dregovian"
+        crafting_template="Javelin" >
+    <Pieces>
+        <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="150" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_oaken_hunting_sulica_t1_type1"
+        name="{=rus_oaken_hunting_sulica_t1_type1.name}Rus Oaken Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.rus"
+        crafting_template="Javelin" >
+    <Pieces>
+        <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="150" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_oval_war_sulica_t3_type1"
+        name="{=rus_pine_oval_war_sulica_t3_type1.name}Rus Pine Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.latvian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="rus_oval_war_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="155" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_ash_oval_war_sulica_t3_type1"
+        name="{=rus_ash_oval_war_sulica_t3_type1.name}Rus Ash Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.dregovian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="rus_oval_war_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="155" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_oaken_oval_war_sulica_t3_type1"
+        name="{=rus_oaken_oval_war_sulica_t3_type1.name}Rus Oaken Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.rus"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="rus_oval_war_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="155" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_rhombic_war_sulica_t3_type1"
+        name="{=rus_pine_rhombic_war_sulica_t3_type1.name}Rus Pine Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="160" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_ash_rhombic_war_sulica_t3_type1"
+        name="{=rus_ash_rhombic_war_sulica_t3_type1.name}Rus Ash Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.dregovian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="160" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_oaken_rhombic_war_sulica_t3_type1"
+        name="{=rus_oaken_rhombic_war_sulica_t3_type1.name}Rus Oaken Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
+        culture="Culture.latvian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="160" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_pine_sulica_t5_type2"
+        name="{=baltic_pine_sulica_t5_type2.name}Baltic Pine Sulica - Leaf Type 2 [12th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="160" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_ash_sulica_t5_type2"
+        name="{=baltic_ash_sulica_t5_type2.name}Baltic Ash Sulica - Leaf Type 2 [12th - 13th c.]"
+        culture="Culture.aestian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="160" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_oaken_sulica_t5_type2"
+        name="{=baltic_oaken_sulica_t5_type2.name}Baltic Oaken Sulica - Leaf Type 2 [12th - 13th c.]"
+        culture="Culture.latvian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="160" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_pine_sulica_t3_type3"
+        name="{=baltic_pine_sulica_t3_type3.name}Baltic Pine Sulica - Leaf Type 3 [11th - 13th c.]"
+        culture="Culture.latvian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="120" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_ash_sulica_t3_type3"
+        name="{=baltic_ash_sulica_t3_type3.name}Baltic Ash Sulica - Leaf Type 3 [11th - 13th c.]"
+        culture="Culture.latvian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="120" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_oaken_sulica_t3_type3"
+        name="{=baltic_oaken_sulica_t3_type3.name}Baltic Oaken Sulica - Leaf Type 3 [11th - 13th c.]"
+        culture="Culture.latvian"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="120" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+
+
+</Items>
