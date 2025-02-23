@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_baltic_2"
+    name="{=clan_baltic_2.name}Deltuva"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_baltic_2a"
+    culture="Culture.latvian"
+    super_faction="Kingdom.lithuanian"
+    banner_key="11.121.48.1836.1836.767.764.1.0.0.510.129.116.452.288.731.765.0.0.315.510.129.116.134.288.564.679.0.0.45.510.129.116.452.288.797.765.0.1.45.510.129.116.134.288.964.679.0.1.315.510.129.116.105.288.556.727.0.0.315.510.129.116.105.288.972.727.0.1.45"
+    text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Jumis symbol."
+    color="FFf4702e" color2="FF35671c" alternative_color="FFf4702e" alternative_color2="FF35671c"
+  />
+
+  <Faction id="clan_lithuanian_2"
+    name="{=clan_lithuanian_2.name}Nalša"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_lithuanian_2a"
+    culture="Culture.latvian"
+    super_faction="Kingdom.lithuanian"
+    banner_key="11.121.51.1836.1836.767.764.1.0.0.510.129.116.141.226.932.638.0.1.-45.510.129.116.214.226.911.702.0.1.-45.510.129.116.283.226.889.766.0.1.-45.510.129.116.353.226.864.831.0.1.-45.510.129.116.294.226.715.679.0.0.314.510.129.116.141.226.595.638.0.0.44.510.129.116.214.226.617.702.0.0.44.510.129.116.283.226.638.766.0.0.44.510.129.116.353.226.660.831.0.0.45.510.129.116.294.226.812.679.0.1.-135"
+    text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Jumis symbol."
+    color="FFf4d32e" color2="FFf4702e" alternative_color="FFf4d32e" alternative_color2="FFf4702e"
+  />
+
+  <Faction id="clan_lithuanian_3"
+    name="{=clan_lithuanian_3.name}Lietuva"
+    tier="6"
+    is_noble="true"
+    owner="Hero.lord_lithuanian_3a"
+    culture="Culture.latvian"
+    super_faction="Kingdom.lithuanian"
+    banner_key="11.121.48.1836.1836.767.764.1.0.0.510.129.116.470.300.764.800.0.0.45.510.129.116.188.300.678.979.0.0.135.510.129.116.470.300.764.728.0.1.134.510.129.116.188.300.678.549.0.1.44" text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Jumis symbol." 
+    color="FFf4d32e" color2="FF35671c" alternative_color="FFf4d32e" alternative_color2="FF35671c"
+  />
+
+  <Faction id="clan_lithuanian_4"
+    name="{=clan_lithuanian_4.name}Neris"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_lithuanian_4a"
+    culture="Culture.latvian"
+    super_faction="Kingdom.lithuanian"
+    banner_key="11.129.48.1836.1836.767.764.1.0.0.510.121.116.470.300.779.764.0.0.314.510.121.116.100.300.619.661.0.0.45.510.121.116.470.300.749.764.0.1.45.510.121.116.100.300.909.661.0.1.315.510.121.116.120.300.740.874.0.1.45.510.121.116.120.300.788.874.0.0.315"
+    text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Jumis symbol."
+    color="FF35671c" color2="FFf4d32e" alternative_color="FF35671c" alternative_color2="FFf4d32e"
+  />
+
+
+
+
+
+		   
+</Factions>

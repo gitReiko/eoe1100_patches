@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="goldenhorde"
+		   owner="Hero.lord_baltic_1a"
+		   banner_key="11.149.48.1836.1836.767.764.1.0.0.510.83.116.309.194.718.675.0.0.135.510.83.116.309.194.718.851.0.0.225.510.83.116.309.194.807.675.0.1.225.510.83.116.309.194.807.851.0.1.135.510.83.116.309.194.718.675.0.1.225.510.83.116.309.194.718.851.0.1.135.510.83.116.309.194.807.675.0.0.135.510.83.116.309.194.807.851.0.0.225.510.83.116.176.194.940.893.0.0.225.510.83.116.88.194.967.828.0.0.135.510.83.116.88.194.922.872.0.0.135.510.83.116.176.194.586.891.0.1.135.510.83.116.88.194.559.826.0.1.225.510.83.116.88.194.604.870.0.1.225.510.83.116.176.194.586.634.0.0.45.510.83.116.88.194.559.699.0.0.-45.510.83.116.88.194.604.655.0.0.-45.510.83.116.176.194.940.634.0.1.315.510.83.116.88.194.967.699.0.1.45.510.83.116.88.194.922.655.0.1.45"
+		   primary_banner_color="0xff222222"
+		   secondary_banner_color="0xffffffff"
+		   label_color="ff222222"
+		   color="ff222222"
+		   color2="ffffffff"
+		   alternative_color="ffd22e31"
+		   alternative_color2="ffffffff"
+		   culture="Culture.latvian"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_b"
+		   name="{=baltic_tribes_name}Prussian Tribal Principalities"
+		   short_name="{=baltic_tribes_short_name}Prussian Tribes"
+		   title="{=baltic_tribes_title}Prussian Tribal Principalities"
+		   ruler_title="{=polish_ruler_title}Kunigs"
+		   text="{=baltic_tribes_text}In 1100 the Prussians were not united by a common state. Prussia was divided into 11 principalities: Pameddi, Wārmi, Paguddi, Notangi, Semba, Nadrāuwa, Barta, Skallawa, Sūdawa, Galinda and Kulmus. These principalities traded and fought with each other and united against common enemies. In 996 Mieszko I attempted to conquer the principalities. Beginning in 1147, the Polish duke Bolesław IV the Curly tried to subdue Prussia. Several attacks by Konrad of Masovia in the early 13th century were successfully repelled by the Prussians. In 1226, Konrad I, Duke of Masovia, appealed to the Knights to defend his borders and subdue the pagan Prussians, allowing the Teutonic Knights use of Chełmno Land as a base for their campaign. By the second half of the 13th century, the Teutonic Order had conquered Prussia.">
+    <relationships>
+		<relationship kingdom="Kingdom.zemaitian" value="-25" isAtWar="true" />
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+
+ </Kingdoms>
