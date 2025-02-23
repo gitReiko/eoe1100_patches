@@ -1,0 +1,337 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<SPCultures>
+  
+  <Culture id="volga_fin"
+           name="{=suzdal.name}Suzdalian"
+           is_main_culture="true"
+           color="0xff224277"
+           color2="0xffCEDAE7"
+           elite_basic_troop="NPCCharacter.rus_hrid"
+           basic_troop="NPCCharacter.rus_smerd"
+           melee_militia_troop="NPCCharacter.rus_woj_spearman"
+           ranged_militia_troop="NPCCharacter.rus_woj_archer"
+           melee_elite_militia_troop="NPCCharacter.rus_woj_veteran_spearman"
+           ranged_elite_militia_troop="NPCCharacter.rus_woj_veteran_archer"
+           can_have_settlement="true"
+           town_edge_number="4"
+           villager_party_template="PartyTemplate.villager_volga_fin_template"
+           default_party_template="PartyTemplate.kingdom_hero_party_volga_fin_template"
+           encounter_background_mesh="encounter_sturgia"
+           faction_banner_key="11.119.19.1836.1836.779.782.1.0.-30.505.144.116.302.281.764.740.0.0.-360.500.144.116.636.639.764.760.1.0.0.504.119.116.398.590.766.768.0.0.-180.444.144.116.155.144.766.918.0.0.-181.510.144.116.365.278.764.710.0.0.-270.510.144.116.206.278.764.617.0.0.-1.510.144.116.295.137.764.856.0.0.-1"
+           elite_caravan_party_template="PartyTemplate.elite_caravan_template_volga_fin"
+           caravan_party_template="PartyTemplate.caravan_template_volga_fin"
+           militia_party_template="PartyTemplate.militia_volga_fin_template"
+           rebels_party_template="PartyTemplate.rebels_volga_fin_template"
+           vassal_reward_party_template="PartyTemplate.vassal_reward_troops_volga_fin"
+           default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+           text="{=suzdal.text}aaa"
+           tournament_master="NPCCharacter.tournament_master_volga_fin"
+           villager="NPCCharacter.villager_volga_fin"
+           caravan_master="NPCCharacter.caravan_master_volga_fin"
+           armed_trader="NPCCharacter.armed_trader_volga_fin"
+           caravan_guard="NPCCharacter.caravan_guard_volga_fin"
+           veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_volga_fin"
+           duel_preset="NPCCharacter.volga_fin_duel_preset"
+           prison_guard="NPCCharacter.prison_guard_volga_fin"
+           guard="NPCCharacter.guard_volga_fin"
+           blacksmith="NPCCharacter.blacksmith_volga_fin"
+           weaponsmith="NPCCharacter.weaponsmith_volga_fin"
+           townswoman="NPCCharacter.townswoman_volga_fin"
+           townswoman_infant="NPCCharacter.townswoman_infant_volga_fin"
+           townswoman_child="NPCCharacter.townswoman_child_volga_fin"
+           townswoman_teenager="NPCCharacter.townswoman_teenager_volga_fin"
+           townsman="NPCCharacter.townsman_volga_fin"
+           townsman_infant="NPCCharacter.townsman_infant_volga_fin"
+           townsman_child="NPCCharacter.townsman_child_volga_fin"
+           townsman_teenager="NPCCharacter.townsman_teenager_volga_fin"
+           village_woman="NPCCharacter.village_woman_volga_fin"
+           villager_male_child="NPCCharacter.villager_child_volga_fin"
+           villager_male_teenager="NPCCharacter.villager_teenager_volga_fin"
+           villager_female_child="NPCCharacter.village_woman_child_volga_fin"
+           villager_female_teenager="NPCCharacter.village_woman_teenager_volga_fin"
+           ransom_broker="NPCCharacter.ransom_broker_volga_fin"
+           gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_volga_fin"
+           merchant_notary="NPCCharacter.merchant_notary_volga_fin"
+           artisan_notary="NPCCharacter.artisan_notary_volga_fin"
+           preacher_notary="NPCCharacter.preacher_notary_volga_fin"
+           rural_notable_notary="NPCCharacter.rural_notable_notary_volga_fin"
+           shop_worker="NPCCharacter.shop_worker_volga_fin"
+           tavernkeeper="NPCCharacter.tavernkeeper_volga_fin"
+           taverngamehost="NPCCharacter.taverngamehost_volga_fin"
+           musician="NPCCharacter.musician_volga_fin"
+           tavern_wench="NPCCharacter.tavern_wench_volga_fin"
+           armorer="NPCCharacter.armorer_volga_fin"
+           horseMerchant="NPCCharacter.horseMerchant_volga_fin"
+           barber="NPCCharacter.barber_volga_fin"
+           merchant="NPCCharacter.merchant_volga_fin"
+           beggar="NPCCharacter.beggar_volga_fin"
+           female_beggar="NPCCharacter.female_beggar_volga_fin"
+           female_dancer="NPCCharacter.female_dancer_volga_fin"
+           gear_practice_dummy="NPCCharacter.gear_practice_dummy_empire"
+           weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_volga_fin"
+           weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_volga_fin"
+           weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_volga_fin"
+           gear_dummy="NPCCharacter.gear_dummy_empire"
+		   default_battle_equipment_roster="EquipmentRoster.emp_civ_template_default"
+		   default_civilian_equipment_roster="EquipmentRoster.emp_civ_template_default"
+		   duel_preset_equipment_roster="EquipmentRoster.emp_duel_preset_template"
+           board_game_type="Konane">
+    <vassal_reward_items>
+      <item id="Item.avalanche_2haxe" />
+    </vassal_reward_items>
+    <banner_bearer_replacement_weapons>
+      <item id="Item.sturgia_sword_1_t2" />
+      <item id="Item.sturgia_sword_2_t3" />
+      <item id="Item.sturgia_sword_4_t4" />
+      <item id="Item.sturgia_sword_5_t5" />
+    </banner_bearer_replacement_weapons>
+    <default_policies>
+      <policy id="policy_lawspeakers" />
+      <policy id="policy_precarial_land_tenure" />
+    </default_policies>
+    <male_names>
+      <name name="{=marian_male_1}Aptysh" />
+      <name name="{=marian_male_2}Vasi" />
+      <name name="{=marian_male_3}Vaska" />
+      <name name="{=marian_male_4}Oshvui" />
+      <name name="{=marian_male_5}Pashai" />
+      <name name="{=marian_male_6}Pegash" />
+      <name name="{=marian_male_7}Pika" />
+      <name name="{=marian_male_8}Saget" />
+      <name name="{=marian_male_9}Tan" />
+      <name name="{=marian_male_10}Toimet" />
+      <name name="{=marian_male_11}Shelyk" />
+      <name name="{=marian_male_12}Paket" />
+      <name name="{=marian_male_13}Eliu" />
+      <name name="{=marian_male_14}Erka" />
+      <name name="{=marian_male_15}Ilai" />
+      <name name="{=marian_male_16}Kemai" />
+      <name name="{=marian_male_17}Kulai" />
+      <name name="{=marian_male_18}Osii" />
+      <name name="{=marian_male_19}Salii" />
+      <name name="{=marian_male_20}Tokpai" />
+      <name name="{=mordovian_male_1}Antias" />
+      <name name="{=mordovian_male_2}Aris" />
+      <name name="{=mordovian_male_3}Bazhat" />
+      <name name="{=mordovian_male_4}Valguzh" />
+      <name name="{=mordovian_male_5}Vezhan" />
+      <name name="{=mordovian_male_6}Dubolgo" />
+      <name name="{=mordovian_male_7}Idman" />
+      <name name="{=mordovian_male_8}Inka" />
+      <name name="{=mordovian_male_9}Kirdian" />
+      <name name="{=mordovian_male_10}Kostiush" />
+      <name name="{=mordovian_male_11}Latyzh" />
+      <name name="{=mordovian_male_12}Moskai" />
+      <name name="{=mordovian_male_13}Nuiat" />
+      <name name="{=mordovian_male_14}Olshuk" />
+      <name name="{=mordovian_male_15}Paramza" />
+      <name name="{=mordovian_male_16}Rizovat" />
+      <name name="{=mordovian_male_17}Sustat" />
+      <name name="{=mordovian_male_18}Tetiush" />
+      <name name="{=mordovian_male_19}Ushmai" />
+      <name name="{=mordovian_male_20}Shatrez" />
+      <name name="{=vyatian_male_1}Khodota" />
+      <name name="{=vyatian_male_2}Viachko" />
+      <name name="{=suzdalian_male_1}Pretich" />
+      <name name="{=suzdalian_male_2}Frelaf" />
+      <name name="{=suzdalian_male_3}Andrei" />
+      <name name="{=suzdalian_male_4}Gleb" />
+      <name name="{=suzdalian_male_5}Boris" />
+      <name name="{=suzdalian_male_6}Zhidislav" />
+      <name name="{=suzdalian_male_7}Georgii" />
+      <name name="{=suzdalian_male_8}Dedilets" />
+      <name name="{=suzdalian_male_9}Dobrynia" />
+      <name name="{=suzdalian_male_10}Ivan" />
+      <name name="{=suzdalian_male_11}Ivor" />
+      <name name="{=suzdalian_male_12}Miroslav" />
+      <name name="{=suzdalian_male_13}Konstantin" />
+      <name name="{=suzdalian_male_14}Korob" />
+      <name name="{=suzdalian_male_15}Mateiasha" />
+      <name name="{=suzdalian_male_16}Averkii" />
+      <name name="{=suzdalian_male_17}Aleksandr" />
+      <name name="{=suzdalian_male_18}Voislav" />
+      <name name="{=suzdalian_male_19}Davyd" />
+      <name name="{=suzdalian_male_20}Evpatii" />
+      <name name="{=suzdalian_male_21}Eremei" />
+      <name name="{=suzdalian_male_22}Zherebets" />
+      <name name="{=suzdalian_male_23}Zern" />
+      <name name="{=suzdalian_male_24}Kirill" />
+      <name name="{=suzdalian_male_25}Kuzma" />
+      <name name="{=suzdalian_male_26}Luka" />
+      <name name="{=suzdalian_male_27}Matvei" />
+      <name name="{=suzdalian_male_28}Filipp" />
+      <name name="{=suzdalian_male_29}Sviatoslav" />
+      <name name="{=suzdalian_male_30}Vladimir" />
+      <name name="{=suzdalian_male_31}Rostislav" />
+      <name name="{=suzdalian_male_32}Igor" />
+      <name name="{=suzdalian_male_33}Iaroslav" />
+      <name name="{=suzdalian_male_34}Vsevolod" />
+      <name name="{=suzdalian_male_35}Mstislav" />
+      <name name="{=suzdalian_male_36}Ingvar" />
+    </male_names>
+    <female_names>
+      <name name="{=marian_female_1}Aivika" />
+      <name name="{=marian_female_2}Anai" />
+      <name name="{=marian_female_3}Arniash" />
+      <name name="{=marian_female_4}Emysh" />
+      <name name="{=marian_female_5}Okavii" />
+      <name name="{=marian_female_6}Okai" />
+      <name name="{=marian_female_7}Pazii" />
+      <name name="{=marian_female_8}Sagepa" />
+      <name name="{=marian_female_9}Salika" />
+      <name name="{=marian_female_10}Salima" />
+      <name name="{=marian_female_11}Takii" />
+      <name name="{=marian_female_12}Unavii" />
+      <name name="{=marian_female_13}Chabi" />
+      <name name="{=marian_female_14}Oksii" />
+      <name name="{=marian_female_15}Padiian" />
+      <name name="{=marian_female_16}Umyrash" />
+      <name name="{=marian_female_17}Anii" />
+      <name name="{=marian_female_18}Eles" />
+      <name name="{=marian_female_19}Nastavi" />
+      <name name="{=marian_female_20}Malika" />
+      <name name="{=mordovian_female_1}Arguma" />
+      <name name="{=mordovian_female_2}Ashnaza" />
+      <name name="{=mordovian_female_3}Bazhuta" />
+      <name name="{=mordovian_female_4}Vandola" />
+      <name name="{=mordovian_female_5}Vidiava" />
+      <name name="{=mordovian_female_6}Iniuva" />
+      <name name="{=mordovian_female_7}Kaniava" />
+      <name name="{=mordovian_female_8}Lada" />
+      <name name="{=mordovian_female_9}Mazava" />
+      <name name="{=mordovian_female_10}Narusha" />
+      <name name="{=mordovian_female_12}Piiana" />
+      <name name="{=mordovian_female_13}Sola" />
+      <name name="{=mordovian_female_14}Tashtana" />
+      <name name="{=mordovian_female_15}Utiasha" />
+      <name name="{=mordovian_female_16}Chipania" />
+      <name name="{=mordovian_female_17}Eliuva" />
+      <name name="{=mordovian_female_18}Iamziur" />
+      <name name="{=mordovian_female_19}Kirdiava" />
+      <name name="{=mordovian_female_20}Tikshana" />
+      <name name="{=mordovian_female_21}Vitava" />
+      <name name="{=suzdalian_female_1}Vasilisa" />
+      <name name="{=suzdalian_female_2}Feodora" />
+      <name name="{=suzdalian_female_3}Feodulia" />
+      <name name="{=suzdalian_female_4}Evfrosinia" />
+      <name name="{=suzdalian_female_5}Nadezhda" />
+      <name name="{=suzdalian_female_6}Elena" />
+      <name name="{=suzdalian_female_7}Olga" />
+      <name name="{=suzdalian_female_8}Vassa" />
+      <name name="{=suzdalian_female_9}Anastasia" />
+      <name name="{=suzdalian_female_10}Evdokia" />
+      <name name="{=suzdalian_female_11}Feodosia" />
+      <name name="{=suzdalian_female_12}Sofia" />
+      <name name="{=suzdalian_female_13}Rostislava" />
+      <name name="{=suzdalian_female_14}Aleksandra" />
+      <name name="{=suzdalian_female_15}Anna" />
+      <name name="{=suzdalian_female_16}Fevronia" />
+      <name name="{=suzdalian_female_17}Maria" />
+      <name name="{=suzdalian_female_18}Agrippina" />
+      <name name="{=suzdalian_female_19}Elena" />
+      <name name="{=suzdalian_female_20}Uliana" />
+      <name name="{=suzdalian_female_21}Feotinia" />
+      <name name="{=suzdalian_female_22}Liubov" />
+    </female_names>
+    <clan_names>
+      <name name="{=suzdalian_clan_1}Vasilchikovy" />
+      <name name="{=suzdalian_clan_2}Zasekiny" />
+      <name name="{=suzdalian_clan_3}Viazemskie" />
+      <name name="{=suzdalian_clan_4}Myshetskie" />
+      <name name="{=suzdalian_clan_5}Meshcherskie" />
+      <name name="{=suzdalian_clan_6}Repniny" />
+      <name name="{=suzdalian_clan_7}Sontsovy" />
+      <name name="{=suzdalian_clan_8}Ukhtomskie" />
+      <name name="{=suzdalian_clan_9}Shakhovskie" />
+      <name name="{=suzdalian_clan_10}Dolgorukovy" />
+    </clan_names>
+    <cultural_feats>
+<feat id="sturgian_cheaper_recruits_infantry" />
+<feat id="vlandian_renown_mercenary_income" />
+    </cultural_feats>
+    <possible_clan_banner_icon_ids>
+      <icon id="112" />
+      <icon id="113" />
+      <icon id="114" />
+      <icon id="115" />
+      <icon id="116" />
+      <icon id="117" />
+      <icon id="118" />
+      <icon id="132" />
+      <icon id="138" />
+      <icon id="139" />
+      <icon id="307" />
+      <icon id="331" />
+      <icon id="407" />
+      <icon id="408" />
+      <icon id="409" />
+      <icon id="410" />
+      <icon id="439" />
+      <icon id="440" />
+      <icon id="441" />
+      <icon id="442" />
+      <icon id="443" />
+      <icon id="444" />
+      <icon id="445" />
+    </possible_clan_banner_icon_ids>
+    <notable_and_wanderer_templates>
+	  <template name="NPCCharacter.spc_wanderer_volga_fin_0" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_1" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_2" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_3" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_4" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_5" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_6" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_7" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_8" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_9" />
+      <template name="NPCCharacter.spc_wanderer_volga_fin_10" />
+      <template name="NPCCharacter.spc_notable_volga_fin_0" />
+      <template name="NPCCharacter.spc_notable_volga_fin_0b" />
+      <template name="NPCCharacter.spc_notable_volga_fin_1" />
+      <template name="NPCCharacter.spc_notable_volga_fin_1b" />
+      <template name="NPCCharacter.spc_notable_volga_fin_2" />
+      <template name="NPCCharacter.spc_notable_volga_fin_2b" />
+      <template name="NPCCharacter.spc_notable_volga_fin_3" />
+      <template name="NPCCharacter.spc_notable_volga_fin_3b" />
+      <template name="NPCCharacter.spc_notable_volga_fin_4" />
+      <template name="NPCCharacter.spc_notable_volga_fin_5" />
+      <template name="NPCCharacter.spc_notable_volga_fin_6" />
+      <template name="NPCCharacter.spc_notable_volga_fin_7" />
+      <template name="NPCCharacter.spc_notable_volga_fin_8" />
+      <template name="NPCCharacter.spc_notable_volga_fin_9" />
+      <template name="NPCCharacter.spc_notable_volga_fin_10" />
+      <template name="NPCCharacter.spc_notable_volga_fin_11" />
+      <template name="NPCCharacter.spc_notable_volga_fin_12" />
+      <template name="NPCCharacter.spc_volga_fin_headman_1" />
+      <template name="NPCCharacter.spc_volga_fin_headman_2" />
+      <template name="NPCCharacter.spc_volga_fin_headman_3" />
+    </notable_and_wanderer_templates>
+    <lord_templates>
+      <template name="NPCCharacter.rus_rebel_lord" />
+    </lord_templates>
+    <rebellion_hero_templates>
+      <template name="NPCCharacter.rus_rebel_lord" />
+    </rebellion_hero_templates>
+    <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v2" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v3" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
+    </tournament_team_templates_four_participant>
+    <basic_mercenary_troops>
+
+      <template name="NPCCharacter.western_mercenary" />
+
+    </basic_mercenary_troops>
+  </Culture>
+  
+</SPCultures> 

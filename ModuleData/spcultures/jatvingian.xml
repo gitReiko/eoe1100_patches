@@ -144,6 +144,16 @@
       <name name="{=novgorodian_male_56}Kuzma" />
       <name name="{=novgorodian_male_57}Matei" />
       <name name="{=novgorodian_male_58}Ratibor" />
+      <name name="{=karelian_male_1}Sulo" />
+      <name name="{=karelian_male_2}Matti" />
+      <name name="{=karelian_male_3}Ortte" />
+      <name name="{=karelian_male_4}Kuuro" />
+      <name name="{=karelian_male_5}Roukku" />
+      <name name="{=karelian_male_6}Valtola" />
+      <name name="{=karelian_male_7}Viimo" />
+      <name name="{=karelian_male_8}Ianis" />
+      <name name="{=karelian_male_9}Okhvoi" />
+      <name name="{=karelian_male_10}Khudula" />
     </male_names>
     <female_names>
       <name name="{=novgorodian_female_1}Vera" />
@@ -179,6 +189,20 @@
       <name name="{=novgorodian_female_31}Premislava" />
       <name name="{=novgorodian_female_32}Mstislava" />
       <name name="{=novgorodian_female_33}Dobronega" />
+      <name name="{=karelian_female_1}Aili" />
+      <name name="{=karelian_female_2}Outi" />
+      <name name="{=karelian_female_3}Khilma" />
+      <name name="{=karelian_female_4}Veino" />
+      <name name="{=karelian_female_5}Sirkka" />
+      <name name="{=karelian_female_6}Aino" />
+      <name name="{=karelian_female_7}Ainikki" />
+      <name name="{=karelian_female_8}Imppi" />
+      <name name="{=karelian_female_9}Natoi" />
+      <name name="{=karelian_female_10}Katti" />
+      <name name="{=karelian_female_11}Anni" />
+      <name name="{=karelian_female_12}Niura" />
+      <name name="{=karelian_female_13}Olei" />
+      <name name="{=karelian_female_14}Okku" />
     </female_names>
     <clan_names>
       <name name="{=novgorodian_clan_1}Giuriatinichi" />
