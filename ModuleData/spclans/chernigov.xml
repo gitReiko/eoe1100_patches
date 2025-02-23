@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+   <Faction id="clan_chernigov_1"
+       name="{=clan_chernigov_1.name}Kniaz Davyd Sviatoslavych"
+       tier="5"
+       is_noble="true"
+       owner="Hero.lord_chernigov_1a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.149.329.220.764.864.0.0.0.510.116.149.250.220.764.848.0.0.90.510.116.149.290.220.632.750.0.0.90.510.116.149.290.220.896.750.0.0.90.510.116.149.150.220.629.702.0.0.0.510.116.149.130.220.764.602.0.0.0" text="{=clan_chernigov_1.text}Representing the Davyd Sviatoslavych family. The coat of arms is a hypothetical reconstruction based on his son seal, knyaz Sviatoslav Davydovych." 
+       color="FFffffff" color2="FF0d0d16" alternative_color="FFffffff" alternative_color2="FF0d0d16"
+       />
+
+   <Faction id="clan_chernigov_2"
+       name="{=clan_chernigov_2.name}Kniaz Iaroslav Sviatoslavych"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_2a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.116.48.1836.1836.768.765.1.0.0.510.40.149.450.220.764.765.0.0.90.510.40.149.329.220.764.810.0.0.0.510.40.149.225.220.896.726.0.0.90.510.40.149.170.220.632.750.0.0.90.503.40.149.130.130.671.674.0.0.0.503.116.149.57.57.671.674.0.0.0.504.116.149.96.114.673.702.0.0.23.505.116.149.43.75.665.710.0.0.0" text="{=clan_volhynia_3.text}Representing the Iaroslav Sviatoslavych family. The coat of arms is the seal of Knyaz Iaroslav Sviatoslavych." 
+       color="FF0d0d16" color2="FFffffff" alternative_color="FF0d0d16" alternative_color2="FFffffff"
+       />	
+
+   <Faction id="clan_chernigov_3"
+       name="{=clan_chernigov_3.name}Kniaz Oleg Sviatoslavych"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_3a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.149.250.220.764.848.0.0.90.510.116.149.329.220.764.864.0.0.0.510.116.149.290.220.632.750.0.0.90.510.116.149.250.220.896.768.0.0.90.510.116.149.150.220.629.702.0.0.0.510.116.149.130.220.764.602.0.0.0.503.116.149.130.130.936.676.0.0.0.503.40.149.57.57.936.676.0.0.0.504.40.149.96.114.938.704.0.0.23.505.40.149.43.75.930.712.0.0.0" text="{=clan_volhynia_3.text}Representing the Oleg Sviatoslavych family. The coat of arms is the seal of Knyaz Oleg Sviatoslavych." 
+       color="ff4e974e" color2="ffecdc04" alternative_color="ff4e974e" alternative_color2="ffecdc04"
+       />	
+    
+   <Faction id="clan_chernigov_4"
+       name="{=clan_chernigov_4.name}Kniaz Sviatoslav Davydovych"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_4a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.149.329.220.764.864.0.0.0.510.116.149.100.220.764.912.0.0.90.510.116.149.290.220.632.750.0.0.90.510.116.149.290.220.896.750.0.0.90.510.116.149.150.220.629.702.0.0.0.510.116.149.80.220.764.602.0.0.45" text="{=clan_volhynia_3.text}Representing the Sviatoslav Davydovich family. The coat of arms is the seal of Knyaz Sviatoslav Davydovich." 
+       color="ffecdc04" color2="ff4e974e" alternative_color="ffecdc04" alternative_color2="ff4e974e"
+       />	
+
+   <Faction id="clan_chernigov_5"
+       name="{=clan_chernigov_5.name}Boyar Dobrynia of Chernigov"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_5a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.100.116.149.351.351.764.739.0.0.0.505.40.149.74.92.759.864.0.0.-1.304.116.149.342.187.764.871.0.0.180.427.116.149.108.99.757.879.0.0.75.427.116.149.108.99.771.879.0.1.285.505.40.149.72.92.764.855.0.1.0.503.116.149.127.84.764.872.0.1.0.506.40.149.91.41.786.856.0.1.128.506.40.149.91.41.742.856.0.0.232.506.40.149.76.41.764.834.0.0.232.505.116.149.13.129.764.846.0.1.0.503.116.149.43.25.764.828.0.1.0" text="{=clan_chernigov_5.text}Representing the boyar Dobrynia family. The coat of arms is the coat of arms of the Chernigov principality." 
+       color="ff4e974e" color2="FFffffff" alternative_color="ff4e974e" alternative_color2="FFffffff"
+       />
+
+   <Faction id="clan_chernigov_6"
+       name="{=clan_chernigov_6.name}Boyar Oleksei of Chernigov"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_6a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.116.48.1836.1836.768.765.1.0.0.100.40.149.351.351.764.739.0.0.0.505.116.149.74.92.759.864.0.0.-1.304.40.149.342.187.764.871.0.0.180.427.40.149.108.99.757.879.0.0.75.427.40.149.108.99.771.879.0.1.285.505.116.149.72.92.764.855.0.1.0.503.40.149.127.84.764.872.0.1.0.506.116.149.91.41.786.856.0.1.128.506.116.149.91.41.742.856.0.0.232.506.116.149.76.41.764.834.0.0.232.505.40.149.13.129.764.846.0.1.0.503.40.149.43.25.764.828.0.1.0" text="{=clan_chernigov_6.text}Representing the boyar Oleksei family. The coat of arms is the coat of arms of the Chernigov principality." 
+       color="ffecdc04" color2="FFffffff" alternative_color="ffecdc04" alternative_color2="FFffffff"
+       />
+
+   <Faction id="clan_chernigov_7"
+       name="{=clan_chernigov_7.name}Tysiacki Andrei of Ryazan"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_7a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.503.116.116.211.211.846.718.0.1.0.505.40.116.141.90.805.776.0.0.271.503.40.116.141.141.834.719.0.1.0.426.116.116.125.153.875.762.0.1.-49.503.116.116.211.211.683.718.0.0.0.503.40.116.141.141.695.719.0.0.0.505.40.116.141.90.716.776.0.0.271.426.116.116.125.153.654.762.0.0.48.505.40.116.85.58.764.744.0.0.271.503.116.116.70.70.833.718.0.1.0.503.116.116.70.70.694.718.0.1.0.503.116.116.85.119.764.844.0.1.0.513.116.116.138.119.764.863.0.1.180.503.116.116.71.91.764.819.0.1.0.510.116.116.87.153.764.723.0.1.90.513.116.116.87.153.764.809.0.1.0.503.116.116.30.30.764.621.0.1.0" text="{=clan_chernigov_7.text}Representing the tysiacki Andrei family. The coat of arms of the clan is an ancient symbol of Ryazan from the coins." 
+       color="FF0d0d16" color2="ffecdc04" alternative_color="FF0d0d16" alternative_color2="ffecdc04"
+       />
+
+   <Faction id="clan_chernigov_8"
+       name="{=clan_chernigov_8.name}Tysiacki Gleb of Belgorod-Ryazanskyi"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_8a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.116.48.1836.1836.768.765.1.0.0.503.40.116.211.211.846.718.0.1.0.505.116.116.141.90.805.776.0.0.271.503.116.116.141.141.834.719.0.1.0.426.40.116.125.153.875.762.0.1.-49.503.40.116.211.211.683.718.0.0.0.503.116.116.141.141.695.719.0.0.0.505.116.116.141.90.716.776.0.0.271.426.40.116.125.153.654.762.0.0.48.505.116.116.85.58.764.744.0.0.271.503.40.116.70.70.833.718.0.1.0.503.40.116.70.70.694.718.0.1.0.503.40.116.85.119.764.844.0.1.0.513.40.116.138.119.764.863.0.1.180.503.40.116.71.91.764.819.0.1.0.510.40.116.87.153.764.723.0.1.90.513.40.116.87.153.764.809.0.1.0.503.40.116.30.30.764.621.0.1.0" text="{=clan_chernigov_8.text}Representing the tysiacki Gleb family. The coat of arms of the clan is an ancient symbol of Ryazan from the coins." 
+       color="FFec6804" color2="ffecdc04" alternative_color="FFec6804" alternative_color2="ffecdc04"
+       />
+
+   <Faction id="clan_chernigov_9"
+       name="{=clan_chernigov_9.name}Homiy Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_9a"
+       culture="Culture.kryvich"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.116.350.200.763.763.0.1.130.510.116.116.175.200.722.616.0.1.220.510.116.116.175.200.810.623.0.1.130.510.116.116.87.200.832.688.0.1.220.510.116.116.87.200.792.640.0.1.220.510.116.116.175.200.805.911.0.1.40.510.116.116.175.200.717.903.0.1.310.510.116.116.87.200.695.839.0.1.40.510.116.116.87.200.735.887.0.1.40" text="{=clan_chernigov_9.text}Probably Homiel (Gomel) was the capital of one of the Radymiches princedoms. In 984 the Kiev voivode (general) Wolf Tail has defeated an army of Radymiches after that they began to pay tribute to Rus, probably became vassals. The battle took place on the approaches to Homiel near the river Piščań. A lamellar workshop of the Rus period and 1500 plates in different condition were found in Homiel. The clan coat of arms is a variation of the Baltic serpent symbol." 
+       color="ffecdc04" color2="ff4e974e" alternative_color="ffecdc04" alternative_color2="ff4e974e"
+       />
+
+   <Faction id="clan_chernigov_10"
+       name="{=clan_chernigov_10.name}Starodub Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_10a"
+       culture="Culture.kryvich"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.116.336.192.764.765.0.1.-45.510.116.116.168.192.711.626.0.1.45.510.116.116.168.192.798.626.0.1.-45.510.116.116.83.192.771.566.0.1.45.510.116.116.83.192.817.612.0.1.45.510.116.116.83.192.738.567.0.1.-45.510.116.116.83.192.695.610.0.1.-45.510.116.116.168.192.817.904.0.1.-135.510.116.116.168.192.730.905.0.1.135.510.116.116.83.192.757.965.0.1.-135.510.116.116.83.192.710.919.0.1.-135.510.116.116.83.192.790.964.0.1.135.510.116.116.83.192.834.921.0.1.135.510.116.116.157.192.763.766.0.1.45.510.116.116.157.192.813.815.0.1.45.510.116.116.157.192.713.717.0.1.45" text="{=clan_chernigov_10.text}The exact age of Starodub is unknown. This city was probably the center of one of the Radymiches principalities. Like other Radymiches cities it was never in direct subordination to Rus. In spite of the chronicle data it is not known about the Rus princes or governors who ruled in it. In 1096 it was able to survive a siege of 33 days and defend itself against Volodymyr Monomakh, which shows that it was a well-developed fortress. The clan coat of arms is a variation of the Baltic serpent symbol." 
+       color="ff4e974e" color2="ffecdc04" alternative_color="ff4e974e" alternative_color2="ffecdc04"
+       />
+
+   <Faction id="clan_chernigov_11"
+       name="{=clan_chernigov_11.name}Trubchevsk Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_11a"
+       culture="Culture.kryvich"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.116.350.150.796.764.0.1.315.510.116.116.175.150.745.613.0.1.45.510.116.116.175.150.839.616.0.1.315.510.116.116.72.150.901.648.0.1.45.510.116.116.72.150.869.615.0.1.45.510.116.116.72.150.839.583.0.1.45.510.116.116.72.150.809.552.0.1.45.510.116.116.72.150.777.551.0.1.135.510.116.116.72.150.744.583.0.1.135.510.116.116.72.150.712.613.0.1.135.510.116.116.72.150.681.643.0.1.135.510.116.116.72.150.682.674.0.1.45.510.116.116.220.150.761.722.0.1.45.510.116.116.72.150.807.646.0.1.315.510.116.116.72.150.775.645.0.1.45.510.116.116.38.150.767.668.0.1.315.510.116.116.72.150.716.800.0.1.135.510.116.116.72.150.746.800.0.1.225.510.116.116.38.150.756.779.0.1.135.510.116.116.220.150.824.788.0.1.45.510.116.116.72.150.872.712.0.1.315.510.116.116.72.150.839.709.0.1.45.510.116.116.38.150.829.732.0.1.315.510.116.116.72.150.778.865.0.1.135.510.116.116.72.150.809.865.0.1.225.510.116.116.38.150.819.845.0.1.135.510.116.116.175.150.848.914.0.1.225.510.116.116.175.150.754.912.0.1.135.510.116.116.72.150.692.879.0.1.225.510.116.116.72.150.724.912.0.1.225.510.116.116.72.150.754.944.0.1.225.510.116.116.72.150.784.975.0.1.225.510.116.116.72.150.816.976.0.1.315.510.116.116.72.150.849.944.0.1.315.510.116.116.72.150.881.914.0.1.315.510.116.116.72.150.911.853.0.1.225.510.116.116.72.150.911.883.0.1.315" text="{=clan_chernigov_11.text}Probably Trubchevsk was the capital of one of the Radymiches princedoms. In 984 the Kiev voivode (general) Wolf Tail has defeated an army of Radymiches after that they began to pay tribute to Rus, probably became vassals. The battle took place on the approaches to Homiel near the river Piščań. A lamellar workshop of the Rus period and 1500 plates in different condition were found in Homiel." 
+       color="FFffffff" color2="FF0d0d16" alternative_color="FFffffff" alternative_color2="FF0d0d16"
+       />
+
+    <Faction id="clan_chernigov_12"
+       name="{=clan_chernigov_12.name}Tysiacki Ivan Bohdaniv"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_12a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.116.127.150.764.942.0.1.0.510.116.116.127.150.764.917.0.1.0.510.116.116.127.150.764.893.0.1.0.510.116.116.127.150.764.868.0.1.0.510.116.116.127.150.764.843.0.1.0.510.116.116.127.150.764.818.0.1.0.510.116.116.127.150.764.793.0.1.0.510.116.116.161.150.764.768.0.1.0.510.116.116.160.150.764.743.0.1.0.510.116.116.161.150.764.717.0.1.0.510.116.116.161.150.764.692.0.1.0.504.116.116.193.150.764.635.0.1.0.510.40.116.75.150.764.729.0.1.0.510.40.116.59.150.764.804.0.1.0.304.116.116.276.257.620.750.0.1.0.301.116.116.276.257.908.750.0.1.0.512.116.116.119.135.764.524.0.0.0.512.116.116.119.135.764.524.0.0.60.512.116.116.119.135.764.524.0.1.120" text="{=clan_chernigov_12.text}Representing the tysiacki Ivan Bohdaniv family. The coat of arms is the coat of arms of the Novhorod-Siverskyi." 
+       color="FF0d0d16" color2="FFffffff" alternative_color="FF0d0d16" alternative_color2="FFffffff"
+       />
+
+		   
+</Factions>
