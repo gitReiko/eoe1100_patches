@@ -1056,8 +1056,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1098,8 +1098,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lady" />
-      <EquipmentSet id="rus_lady"
+      <EquipmentSet id="suzdalian_lady" />
+      <EquipmentSet id="suzdalian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1143,8 +1143,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1189,8 +1189,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1233,8 +1233,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lady" />
-      <EquipmentSet id="rus_lady"
+      <EquipmentSet id="suzdalian_lady" />
+      <EquipmentSet id="suzdalian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1278,8 +1278,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>

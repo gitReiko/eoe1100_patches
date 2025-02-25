@@ -1077,8 +1077,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1123,8 +1123,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1169,8 +1169,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1215,8 +1215,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1261,8 +1261,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1307,8 +1307,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1350,8 +1350,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lady" />
-      <EquipmentSet id="rus_lady"
+      <EquipmentSet id="suzdalian_lady" />
+      <EquipmentSet id="suzdalian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1396,8 +1396,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1811,8 +1811,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1823,7 +1823,7 @@
                 age="36"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.volga_fin"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1855,8 +1855,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lady" />
-      <EquipmentSet id="rus_lady"
+      <EquipmentSet id="suzdalian_lady" />
+      <EquipmentSet id="suzdalian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1901,8 +1901,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1947,8 +1947,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
