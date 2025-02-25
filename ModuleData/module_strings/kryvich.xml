@@ -1,0 +1,22 @@
+<strings>
+
+<!--Baltic-->
+  <string id="str_player_father_name.kryvich" text="{=kryvichfather}Ivaś" />
+  <string id="str_player_mother_name.kryvich" text="{=kryvichmother}Janka" />
+  <string id="str_culture_description.kryvich" text="{=kryvichdescription}Some researchers believe that the Kryvichs came from the lands of modern Poland or Germany. The Kryvichs left many archaeological monuments, such as the remnants of agricultural settlements with traces of ironworks, jeweler's art, blacksmith's work and other handicrafts; long burial mounds of the 6th to 9th centuries with cremated bodies; burial mounds of rich warriors with weapons; sets of distinctive jewelry. The Kryvichs are a largest Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three branches: Połack (Polatsk), Smolensk and Pskov. In the second half of the 10th century the Kryvichs formed the Połack State, which existed for more than 500 years, from the second half of the 13th century as an autonomy within Lithuania. The Kryvichs greatly influenced on the forming of the Belarusian ethnos and the existence of the state. Nowadays Kryvichs are part of the Belarusian and Russian ethnoses. This ethnos also includes the Radimichs, as their history is closely intertwined with the Kryvichs. Over time, the synthesis of Kryvichs and Radimichs was named Belarussians. Over time, this name spread to modern Belarus." />
+  <string id="str_faction_ruler_name_with_title.kryvich" text="{=kryvichrulertitle}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.kryvich" text="{=kryvichnobletitle}{?RULER.GENDER}Boyarynia{?}Boyar{\?} {RULER.NAME}" />
+  <string id="str_faction_official.kryvich" text="{=kryvichofficial}boyar" />
+  <string id="str_faction_official.kryvich_f" text="{=kryvichofficialf}boyarynia" />
+  <string id="str_faction_ruler.kryvich" text="{=kryvichruler}Knyaz" />
+  <string id="str_faction_ruler.kryvich_f" text="{=kryvichrulerf}Knyazna" />
+  <string id="str_faction_ruler_term_in_speech.kryvich" text="{=kryvichrulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.kryvich" text="{=kryvichfactionadjective}Kryvian" />
+  <string id="str_short_term_for_faction.kryvich" text="{=kryvichfactionshortterm}Kryvia" />
+  <string id="str_faction_formal_name_for_culture.kryvich" text="{=kryvichfactionformalname}Kryvia Principality" />
+  <string id="str_faction_informal_name_for_culture.kryvich" text="{=kryvichfactioninformalname}Kryvia Principality" />
+  <string id="str_adjective_for_culture.kryvich" text="{=kryvichcultureadjective}Kryvian" />
+  <string id="str_neutral_term_for_culture.kryvich" text="{=kryvichcultureneutralterm}Kryvia" />
+  <string id="str_culture_rich_name.kryvich" text="{=kryvichmembers}Kryvian" />	
+	
+</strings>

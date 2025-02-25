@@ -1,0 +1,21 @@
+<strings>
+
+  <string id="str_player_father_name.volga_fin" text="{=volga_finfather}Vladimir" />
+  <string id="str_player_mother_name.volga_fin" text="{=volga_finmother}Olga" />
+  <string id="str_culture_description.volga_fin" text="{=volga_findescription}The chronicle name Suzdal is used as the name of the culture; the culture could also be named Rostov, Vladimir, Zalesye or North-Eastern Rus. In most of this territory there exists one large state, Suzdal - historians use different names to describe different periods of this state. Before Slavic colonization, Baltic and Finno-Ugric ethnoses lived on this territory. Slavicization of the region was primarly peaceful. The first waves of Slavs came from the 6th century. By the 12th century, a significant part of the population was Slavic. The Finnish ethnic groups were Meryans, Meshcherians, Vesians, Mordvins and Muromians. The first waves of Slavs consisted of the Balto-Slavic ethnoses: Kryviches, Ilmen Slavs and Vyatichs. After the Mongol invasion a new wave of Slavs came to these lands from the territory of modern Ukraine. Over time this ethnos evolved into the Muscovites (Moscowians), then the Velikorossi (Great Russians) and finally the modern Russians." />
+  <string id="str_faction_ruler_name_with_title.volga_fin" text="{=volga_finrulertitle}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.volga_fin" text="{=volga_finnobletitle}{?RULER.GENDER}Boyarynia{?}Boyar{\?} {RULER.NAME}" />
+  <string id="str_faction_official.volga_fin" text="{=volga_finofficial}boyar" />
+  <string id="str_faction_official.volga_fin_f" text="{=volga_finofficialf}boyarynia" />
+  <string id="str_faction_ruler.volga_fin" text="{=volga_finruler}knyaz" />
+  <string id="str_faction_ruler.volga_fin_f" text="{=volga_finrulerf}knyazna" />
+  <string id="str_faction_ruler_term_in_speech.volga_fin" text="{=volga_finrulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.volga_fin" text="{=volga_finfactionadjective}Suzdalian" />
+  <string id="str_short_term_for_faction.volga_fin" text="{=volga_finfactionshortterm}Suzdal" />
+  <string id="str_faction_formal_name_for_culture.volga_fin" text="{=volga_finfactionformalname}Suzdal Principality" />
+  <string id="str_faction_informal_name_for_culture.volga_fin" text="{=volga_finfactioninformalname}Suzdal Principality" />
+  <string id="str_adjective_for_culture.volga_fin" text="{=volga_fincultureadjective}Suzdalian" />
+  <string id="str_neutral_term_for_culture.volga_fin" text="{=volga_fincultureneutralterm}Suzdal" />
+  <string id="str_culture_rich_name.volga_fin" text="{=volga_finmembers}Suzdal" />	
+	
+	</strings>

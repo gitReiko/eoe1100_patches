@@ -1,0 +1,486 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<SPCultures>
+  
+  <Culture id="kryvich"
+           name="{=kryvich.name}Kryvian"
+           is_main_culture="true"
+           color="0xff3b6298"
+           color2="0xffffffff"
+           elite_basic_troop="NPCCharacter.kryvich_druzinnik_son"
+           basic_troop="NPCCharacter.kryvich_levy"
+           melee_militia_troop="NPCCharacter.kryvich_armed_levy"
+           ranged_militia_troop="NPCCharacter.kryvich_archer_levy"
+           melee_elite_militia_troop="NPCCharacter.kryvich_palkavy"
+           ranged_elite_militia_troop="NPCCharacter.kryvich_palkavy_archer"
+           can_have_settlement="true"
+           town_edge_number="16"
+           encounter_background_mesh="encounter_sturgia"
+           faction_banner_key="11.40.48.1836.1836.767.764.1.0.0.510.141.116.318.281.959.786.0.1.90.510.141.116.318.281.568.786.0.1.90.510.141.116.490.281.764.941.0.1.0.510.141.116.449.281.764.735.0.1.90.510.141.116.299.281.764.778.0.1.45.510.141.116.299.281.764.778.0.1.135"
+           villager_party_template="PartyTemplate.villager_kryvich_template"
+           default_party_template="PartyTemplate.kingdom_hero_party_kryvich_template"
+           elite_caravan_party_template="PartyTemplate.elite_caravan_template_kryvich"
+           caravan_party_template="PartyTemplate.caravan_template_kryvich"
+           militia_party_template="PartyTemplate.militia_kryvich_template"
+           rebels_party_template="PartyTemplate.rebels_kryvich_template"
+           vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kryvich"
+           default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+           text="{=kryvich.text}Some researchers believe that the Kryvichs came from the lands of modern Poland or Germany. The Kryvichs left many archaeological monuments, such as the remnants of agricultural settlements with traces of ironworks, jeweler's art, blacksmith's work and other handicrafts; long burial mounds of the 6th to 9th centuries with cremated bodies; burial mounds of rich warriors with weapons; sets of distinctive jewelry. The Kryvichs are a largest Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three branches: Połack (Polatsk), Smolensk and Pskov. In the second half of the 10th century the Kryvichs formed the Połack State, which existed for more than 500 years, from the second half of the 13th century as an autonomy within Lithuania. The Kryvichs greatly influenced on the forming of the Belarusian ethnos and the existence of the state. Nowadays Kryvichs are part of the Belarusian and Russian ethnoses. This ethnos also includes the Radimichs, as their history is closely intertwined with the Kryvichs. Over time, the synthesis of Kryvichs and Radimichs was named Belarussians. Over time, this name spread to modern Belarus."
+           tournament_master="NPCCharacter.tournament_master_kryvich"
+           villager="NPCCharacter.villager_kryvich"
+           caravan_master="NPCCharacter.caravan_master_kryvich"
+           armed_trader="NPCCharacter.armed_trader_kryvich"
+           caravan_guard="NPCCharacter.caravan_guard_kryvich"
+           veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_kryvich"
+           duel_preset="NPCCharacter.kryvich_duel_preset"
+           prison_guard="NPCCharacter.prison_guard_kryvich"
+           guard="NPCCharacter.guard_kryvich"
+           blacksmith="NPCCharacter.blacksmith_kryvich"
+           weaponsmith="NPCCharacter.weaponsmith_kryvich"
+           townswoman="NPCCharacter.townswoman_kryvich"
+           townswoman_infant="NPCCharacter.townswoman_infant_kryvich"
+           townswoman_child="NPCCharacter.townswoman_child_kryvich"
+           townswoman_teenager="NPCCharacter.townswoman_teenager_kryvich"
+           townsman="NPCCharacter.townsman_kryvich"
+           townsman_infant="NPCCharacter.townsman_infant_kryvich"
+           townsman_child="NPCCharacter.townsman_child_kryvich"
+           townsman_teenager="NPCCharacter.townsman_teenager_kryvich"
+           village_woman="NPCCharacter.village_woman_kryvich"
+           villager_male_child="NPCCharacter.villager_child_kryvich"
+           villager_male_teenager="NPCCharacter.villager_teenager_kryvich"
+           villager_female_child="NPCCharacter.village_woman_child_kryvich"
+           villager_female_teenager="NPCCharacter.village_woman_teenager_kryvich"
+           ransom_broker="NPCCharacter.ransom_broker_kryvich"
+           gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_kryvich"
+           merchant_notary="NPCCharacter.merchant_notary_kryvich"
+           artisan_notary="NPCCharacter.artisan_notary_kryvich"
+           preacher_notary="NPCCharacter.preacher_notary_kryvich"
+           rural_notable_notary="NPCCharacter.rural_notable_notary_kryvich"
+           shop_worker="NPCCharacter.shop_worker_kryvich"
+           tavernkeeper="NPCCharacter.tavernkeeper_kryvich"
+           taverngamehost="NPCCharacter.taverngamehost_kryvich"
+           musician="NPCCharacter.musician_kryvich"
+           tavern_wench="NPCCharacter.tavern_wench_kryvich"
+           armorer="NPCCharacter.armorer_kryvich"
+           horseMerchant="NPCCharacter.horseMerchant_kryvich"
+           barber="NPCCharacter.barber_kryvich"
+           merchant="NPCCharacter.merchant_kryvich"
+           beggar="NPCCharacter.beggar_kryvich"
+           female_beggar="NPCCharacter.female_beggar_kryvich"
+           female_dancer="NPCCharacter.female_dancer_kryvich"
+           gear_practice_dummy="NPCCharacter.gear_practice_dummy_empire"
+           weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_kryvich"
+           weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_kryvich"
+           weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_kryvich"
+           gear_dummy="NPCCharacter.gear_dummy_empire"
+           board_game_type="Konane">
+    <vassal_reward_items>
+      <item id="Item.avalanche_2haxe" />
+    </vassal_reward_items>
+    <banner_bearer_replacement_weapons>
+      <item id="Item.sturgia_sword_1_t2" />
+      <item id="Item.sturgia_sword_2_t3" />
+      <item id="Item.sturgia_sword_4_t4" />
+      <item id="Item.sturgia_sword_5_t5" />
+    </banner_bearer_replacement_weapons>
+    <default_policies>
+      <policy id="policy_citizenship" />
+    </default_policies>
+    <male_names>
+      <name name="{=kryvich_male_1}Bračysłaŭ" />
+      <name name="{=kryvich_male_2}Rahvałod" />
+      <name name="{=kryvich_male_3}Iziasłaŭ" />
+      <name name="{=kryvich_male_4}Śviatasłaŭ" />
+      <name name="{=kryvich_male_5}Vałodša" />
+      <name name="{=kryvich_male_6}Viačasłaŭ" />
+      <name name="{=kryvich_male_7}Ratmir" />
+      <name name="{=kryvich_male_8}Žyrasłaŭ" />
+      <name name="{=kryvich_male_9}Jarasłaŭ" />
+      <name name="{=kryvich_male_10}Bahusłaŭ" />
+      <name name="{=kryvich_male_11}Barysłaŭ" />
+      <name name="{=kryvich_male_12}Stanisłaŭ" />
+      <name name="{=kryvich_male_13}Časłaŭ" />
+      <name name="{=kryvich_male_14}Bahdan" />
+      <name name="{=kryvich_male_15}Vadzim" />
+      <name name="{=kryvich_male_16}Vaładar" />
+      <name name="{=kryvich_male_17}Budzisłaŭ" />
+      <name name="{=kryvich_male_18}Ždan" />
+      <name name="{=kryvich_male_19}Bohša" />
+      <name name="{=kryvich_male_20}Słava" />
+      <name name="{=kryvich_male_21}Anisim" />
+      <name name="{=kryvich_male_22}Adaś" />
+      <name name="{=kryvich_male_23}Hleb" />
+      <name name="{=kryvich_male_24}Barys" />
+      <name name="{=kryvich_male_25}Davyd" />
+      <name name="{=kryvich_male_26}Bazyl" />
+      <name name="{=kryvich_male_27}Haraś" />
+      <name name="{=kryvich_male_28}Ryhor" />
+      <name name="{=kryvich_male_29}Jachim" />
+      <name name="{=kryvich_male_30}Jaś" />
+      <name name="{=kryvich_male_31}Kastuś" />
+      <name name="{=kryvich_male_32}Piatruś" />
+      <name name="{=kryvich_male_33}Radzivon" />
+      <name name="{=kryvich_male_34}Symon" />
+      <name name="{=kryvich_male_35}Pilip" />
+      <name name="{=kryvich_male_36}Łaŭryš" />
+      <name name="{=kryvich_male_37}Januš" />
+      <name name="{=kryvich_male_38}Michał" />
+      <name name="{=kryvich_male_39}Mikita" />
+      <name name="{=kryvich_male_40}Šymon" />
+      <name name="{=kryvich_male_41}Javnut" />
+      <name name="{=kryvich_male_42}Vojdat" />
+      <name name="{=kryvich_male_43}Vihunt" />
+      <name name="{=kryvich_male_44}Viačka" />
+      <name name="{=kryvich_male_45}Dahnis" />
+      <name name="{=kryvich_male_46}Hajdzis" />
+      <name name="{=kryvich_male_47}Łajmonis" />
+      <name name="{=kryvich_male_48}Bałvis" />
+      <name name="{=kryvich_male_49}Venc" />
+      <name name="{=kryvich_male_50}Vikint" />
+    </male_names>
+    <female_names>
+      <name name="{=kryvich_female_1}Budzisłava" />
+      <name name="{=kryvich_female_2}Branisłava" />
+      <name name="{=kryvich_female_3}Viačasłava" />
+      <name name="{=kryvich_female_4}Harysłava" />
+      <name name="{=kryvich_female_5}Lubava" />
+      <name name="{=kryvich_female_6}Lubaša" />
+      <name name="{=kryvich_female_7}Lubamira" />
+      <name name="{=kryvich_female_8}Luboŭ" />
+      <name name="{=kryvich_female_9}Ludmiła" />
+      <name name="{=kryvich_female_10}Miła" />
+      <name name="{=kryvich_female_11}Miłka" />
+      <name name="{=kryvich_female_12}Śviatasłava" />
+      <name name="{=kryvich_female_13}Časłava" />
+      <name name="{=kryvich_female_14}Bohusłava" />
+      <name name="{=kryvich_female_15}Ratmira" />
+      <name name="{=kryvich_female_16}Žyrasłava" />
+      <name name="{=kryvich_female_17}Rahnieda" />
+      <name name="{=kryvich_female_18}Źvienisłava" />
+      <name name="{=kryvich_female_19}Pradsłava" />
+      <name name="{=kryvich_female_20}Hardzisłava" />
+      <name name="{=kryvich_female_21}Aŭhuta" />
+      <name name="{=kryvich_female_22}Ahata" />
+      <name name="{=kryvich_female_23}Aniśka" />
+      <name name="{=kryvich_female_24}Vika" />
+      <name name="{=kryvich_female_25}Daruś" />
+      <name name="{=kryvich_female_26}Darota" />
+      <name name="{=kryvich_female_27}Prośka" />
+      <name name="{=kryvich_female_28}Zita" />
+      <name name="{=kryvich_female_29}Marka " />
+      <name name="{=kryvich_female_30}Mara" />
+      <name name="{=kryvich_female_31}Marta" />
+      <name name="{=kryvich_female_32}Nasta" />
+      <name name="{=kryvich_female_33}Volka" />
+      <name name="{=kryvich_female_34}Paraska" />
+      <name name="{=kryvich_female_35}Zośka" />
+      <name name="{=kryvich_female_36}Sońka" />
+      <name name="{=kryvich_female_37}Tekla" />
+      <name name="{=kryvich_female_38}Tadosia" />
+      <name name="{=kryvich_female_39}Anusia" />
+      <name name="{=kryvich_female_40}Hasia" />
+      <name name="{=kryvich_female_41}Birete" />
+      <name name="{=kryvich_female_42}Dzehuze" />
+      <name name="{=kryvich_female_43}Mite" />
+      <name name="{=kryvich_female_44}Ścirna" />
+      <name name="{=kryvich_female_45}Jeŭna" />
+      <name name="{=kryvich_female_46}Aldona" />
+      <name name="{=kryvich_female_47}Žara" />
+      <name name="{=kryvich_female_48}Jurate" />
+      <name name="{=kryvich_female_49}Judre" />
+      <name name="{=kryvich_female_50}Sihita" />
+    </female_names>
+    <clan_names>
+      <name name="{=kryvich_clan_1}Połackija" />
+      <name name="{=kryvich_clan_2}Łahojskija" />
+      <name name="{=kryvich_clan_3}Łukomskija" />
+      <name name="{=kryvich_clan_4}Barysaŭskija" />
+      <name name="{=kryvich_clan_5}Smalenskija" />
+      <name name="{=kryvich_clan_6}Brasłaŭskija" />
+      <name name="{=kryvich_clan_7}Iziasłaŭskija" />
+      <name name="{=kryvich_clan_8}Viciebskija" />
+      <name name="{=kryvich_clan_9}Pskoŭskija" />
+      <name name="{=kryvich_clan_10}Tarapieckija" />
+    </clan_names>
+    <cultural_feats>
+      <feat id="sturgian_cheaper_recruits_infantry" />
+      <feat id="aserai_cheaper_caravans" />
+    </cultural_feats>
+    <possible_clan_banner_icon_ids>
+      <icon id="112" />
+      <icon id="113" />
+      <icon id="114" />
+      <icon id="115" />
+      <icon id="116" />
+      <icon id="117" />
+      <icon id="118" />
+      <icon id="132" />
+      <icon id="138" />
+      <icon id="139" />
+      <icon id="307" />
+      <icon id="331" />
+      <icon id="407" />
+      <icon id="408" />
+      <icon id="409" />
+      <icon id="410" />
+      <icon id="439" />
+      <icon id="440" />
+      <icon id="441" />
+      <icon id="442" />
+      <icon id="443" />
+      <icon id="444" />
+      <icon id="445" />
+    </possible_clan_banner_icon_ids>
+    <notable_and_wanderer_templates>
+	  <template name="NPCCharacter.spc_wanderer_kryvich_0" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_1" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_2" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_3" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_4" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_5" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_6" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_7" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_8" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_9" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_10" />
+      <template name="NPCCharacter.spc_notable_kryvich_0" />
+      <template name="NPCCharacter.spc_notable_kryvich_0b" />
+      <template name="NPCCharacter.spc_notable_kryvich_1" />
+      <template name="NPCCharacter.spc_notable_kryvich_1b" />
+      <template name="NPCCharacter.spc_notable_kryvich_2" />
+      <template name="NPCCharacter.spc_notable_kryvich_2b" />
+      <template name="NPCCharacter.spc_notable_kryvich_3" />
+      <template name="NPCCharacter.spc_notable_kryvich_3b" />
+      <template name="NPCCharacter.spc_notable_kryvich_4" />
+      <template name="NPCCharacter.spc_notable_kryvich_5" />
+      <template name="NPCCharacter.spc_notable_kryvich_6" />
+      <template name="NPCCharacter.spc_notable_kryvich_7" />
+      <template name="NPCCharacter.spc_notable_kryvich_8" />
+      <template name="NPCCharacter.spc_notable_kryvich_9" />
+      <template name="NPCCharacter.spc_notable_kryvich_10" />
+      <template name="NPCCharacter.spc_notable_kryvich_11" />
+      <template name="NPCCharacter.spc_notable_kryvich_12" />
+      <template name="NPCCharacter.spc_kryvich_headman_1" />
+      <template name="NPCCharacter.spc_kryvich_headman_2" />
+      <template name="NPCCharacter.spc_kryvich_headman_3" />
+    </notable_and_wanderer_templates>
+    <lord_templates>
+      <template name="NPCCharacter.kryvian_rebel_lord" />
+    </lord_templates>
+    <rebellion_hero_templates>
+      <template name="NPCCharacter.kryvian_rebel_lord" />
+    </rebellion_hero_templates>
+    <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v2" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v3" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
+    </tournament_team_templates_four_participant>
+    <basic_mercenary_troops>
+      <template name="NPCCharacter.nordic_huscarl" />
+      <template name="NPCCharacter.lithuanian_volunteer" />
+      <template name="NPCCharacter.lithuanian_noble_spearman" />
+      <template name="NPCCharacter.dregovian_otrak" />
+      <template name="NPCCharacter.dregovian_levy" />
+      <template name="NPCCharacter.latvian_volunteer" />
+      <template name="NPCCharacter.latvian_noble_footman" />
+    </basic_mercenary_troops>
+  </Culture>
+  
+<!--
+
+About names
+
+Latinization according to modern Belarusian standards.
+
+Slavic = common Slavic regional names
+Christian = based on ethnographic collections from the 19th century
+Baltic = names of neighboring Baltic tribes
+German = Slavicized German names from chronicles
+
+Male names
+
+1,Брачыслаў,Slavic,Bračysłaŭ
+2,Рагвалод,Slavic,Rahvałod
+3,Ізяслаў,Slavic,Iziasłaŭ
+4,Сьвятаслаў,Slavic,Śviatasłaŭ
+5,Валодша,Slavic,Vałodša
+6,Вячаслаў,Slavic,Viačasłaŭ
+7,Ратмір,Slavic,Ratmir
+8,Жыраслаў,Slavic,Žyrasłaŭ
+9,Яраслаў,Slavic,Jarasłaŭ
+10,Багуслаў,Slavic,Bahusłaŭ
+11,Барыслаў,Slavic,Barysłaŭ
+12,Станіслаў,Slavic,Stanisłaŭ
+13,Часлаў,Slavic,Časłaŭ
+14,Багдан,Slavic,Bahdan
+15,Вадзім,Slavic,Vadzim
+16,Валадар,Slavic,Vaładar
+17,Будзіслаў,Slavic,Budzisłaŭ
+18,Ждан,Slavic,Ždan
+19,Богша,Slavic,Bohša
+20,Слава,Slavic,Słava
+21,Анісім,Christian,Anisim
+22,Адась,Christian,Adaś
+23,Глеб,Christian,Hleb
+24,Барыс,Christian,Barys
+25,Давыд,Christian,Davyd
+26,Базыль,Christian,Bazyl
+27,Гарась,Christian,Haraś
+28,Рыгор,Christian,Ryhor
+29,Яхім,Christian,Jachim
+30,Ясь,Christian,Jaś
+31,Кастусь,Christian,Kastuś
+32,Пятрусь,Christian,Piatruś
+33,Радзівон,Christian,Radzivon
+34,Сымон,Christian,Symon
+35,Піліп,Christian,Pilip
+36,Лаўрыш,Christian,Łaŭryš
+37,Януш,Christian,Januš
+38,Міхал,Christian,Michał
+39,Мікіта,Christian,Mikita
+40,Шымон,Christian,Šymon
+41,Явнут,Baltic,Javnut
+42,Войдат,Baltic,Vojdat
+43,Вігунт,Baltic,Vihunt
+44,Вячка,Baltic,Viačka
+45,Дагніс,Baltic,Dahnis
+46,Гайдзіс,Baltic,Hajdzis
+47,Лаймоніс,Baltic,Łajmonis
+48,Балвіс,Baltic,Bałvis
+49,Вэнц,Baltic,Venc
+50,Вікінт,Baltic,Vikint
+
+Female names
+
+1,Будзіслава,Slavic,Budzisłava
+2,Браніслава,Slavic,Branisłava
+3,Вячаслава,Slavic,Viačasłava
+4,Гарыслава,Slavic,Harysłava
+5,Любава,Slavic,Lubava
+6,Любаша,Slavic,Lubaša
+7,Любаміра,Slavic,Lubamira
+8,Любоў,Slavic,Luboŭ
+9,Людміла,Slavic,Ludmiła
+10,Міла,Slavic,Miła
+11,Мілка,Slavic,Miłka
+12,Сьвятаслава,Slavic,Śviatasłava
+13,Часлава,Slavic,Časłava
+14,Богуслава,Slavic,Bohusłava
+15,Ратміра,Slavic,Ratmira
+16,Жыраслава,Slavic,Žyrasłava
+17,Рагнеда,German,Rahnieda
+18,Зьвеніслава,Slavic,Źvienisłava
+19,Прадслава,Slavic,Pradsłava
+20,Гардзіслава,Slavic,Hardzisłava
+21,Аўгута,Christian,Aŭhuta
+22,Агата,Christian,Ahata
+23,Аніська,Christian,Aniśka
+24,Віка,Christian,Vika
+25,Дарусь,Christian,Daruś
+26,Дарота,Christian,Darota
+27,Проська,Christian,Prośka
+28,Зіта,Christian,Zita
+29,Марка,Christian,Marka
+30,Мара,Christian,Mara
+31,Марта,Christian,Marta
+32,Наста,Christian,Nasta
+33,Волька,German,Volka
+34,Параска,Christian,Paraska
+35,Зоська,Christian,Zośka
+36,Сонька,Christian,Sońka
+37,Тэкля,Christian,Tekla
+38,Тадося,Christian,Tadosia
+39,Ануся,Christian,Anusia
+40,Гася,Christian,Hasia
+41,Бірэтэ,Baltic,Birete
+42,Дзэгузэ,Baltic,Dzehuze
+43,Мітэ,Baltic,Mite
+44,Сьцірна,Baltic,Ścirna
+45,Еўна,Baltic,Jeŭna
+46,Альдона,Baltic,Aldona
+47,Жара,Baltic,Žara
+48,Юратэ,Baltic,Jurate
+49,Юдрэ,Baltic,Judre
+50,Сігіта,Baltic,Sihita
+
+These were the names for the year 1100. Over time, Christian names began to dominate.
+
+Male names
+
+1,Аўгусь,Christian,Aŭhuś
+2,Акім,Christian,Akim
+3,Алесь,Christian,Aleś
+4,Бальцар,Christian,Balcar
+5,Вінцусь,Christian,Vincuś
+6,Герасім,Christian,Hierasim
+7,Астась,Christian,Astaś
+8,Яхім,Christian,Jachim
+9,Занон,Christian,Zanon
+10,Сідар,Christian,Sidar
+11,Ягаш,Christian,Jahaš
+12,Кандрат,Christian,Kandrat
+13,Канстайла,Christian,Kanstajła
+14,Самойла,Christian,Samojła
+15,Мінайла,Christian,Minajła
+16,Матыяш,Christian,Matyjaš
+17,Міраш,Christian,Miraš
+18,Юзік,Christian,Juzik
+19,Пятрук,Christian,Piatruk
+20,Рафась,Christian,Rafaś
+21,Савель,Christian,Saviel
+22,Самуль,Christian,Samul
+23,Шымаш,Christian,Šymaš
+24,Хвядос,Christian,Chviados
+25,Тумаш,Christian,Tumaš
+26,Маўрук,Christian,Maŭruk
+27,Лютысь,Christian,Lutyś
+28,Гіпаліт,Christian,Hipalit
+29,Іван,Christian,Ivan
+30,Данут,Christian,Danut
+
+Female names
+
+1,Дося,Christian,Dosia
+2,Аўдоля,Christian,Aŭdola
+3,Агнеша,Christian,Ahnieša
+4,Адэля,Christian,Adela
+5,Разаля,Christian,Razala
+6,Анна,Christian,Anna
+7,Вікта,Christian,Vikta
+8,Праксэда,Christian,Prakseda
+9,Прося,Christian,Prosia
+10,Фрузька,Christian,Fruźka
+11,Палюта,Christian,Paluta
+12,Гэля,Christian,Hela
+13,Галена,Christian,Halena
+14,Альжбета,Christian,Alžbeta
+15,Юзэфа,Christian,Juzefa
+16,Ягата,Christian,Jahata
+17,Ягася,Christian,Jahasia
+18,Юлька,Christian,Julka
+19,Юля,Christian,Jula
+20,Крыстуся,Christian,Krystusia
+21,Крыста,Christian,Krysta
+22,Акціся,Christian,Akcisia
+23,Лявося,Christian,Lavosia
+24,Лютка,Christian,Lutka
+25,Магда,Christian,Mahda
+26,Маргарыта,Christian,Marharyta
+27,Маруся,Christian,Marusia
+28,Матруся,Christian,Matrusia
+29,Вольга,Christian,Volha
+30,Палася,Christian,Pałasia
+
+
+-->
+
+
+</SPCultures> 
