@@ -168,6 +168,17 @@
       <name name="{=suzdalian_male_34}Vsevolod" />
       <name name="{=suzdalian_male_35}Mstislav" />
       <name name="{=suzdalian_male_36}Ingvar" />
+      <name name="{=kryvich_male_10}Bahusłaŭ" />
+      <name name="{=kryvich_male_11}Barysłaŭ" />
+      <name name="{=kryvich_male_12}Stanisłaŭ" />
+      <name name="{=kryvich_male_13}Časłaŭ" />
+      <name name="{=kryvich_male_14}Bahdan" />
+      <name name="{=kryvich_male_15}Vadzim" />
+      <name name="{=kryvich_male_16}Vaładar" />
+      <name name="{=kryvich_male_17}Budzisłaŭ" />
+      <name name="{=kryvich_male_18}Ždan" />
+      <name name="{=kryvich_male_19}Bohša" />
+      <name name="{=kryvich_male_20}Słava" />
     </male_names>
     <female_names>
       <name name="{=marian_female_1}Aivika" />
@@ -232,6 +243,17 @@
       <name name="{=suzdalian_female_20}Uliana" />
       <name name="{=suzdalian_female_21}Feotinia" />
       <name name="{=suzdalian_female_22}Liubov" />
+      <name name="{=kryvich_female_20}Hardzisłava" />
+      <name name="{=kryvich_female_21}Aŭhuta" />
+      <name name="{=kryvich_female_22}Ahata" />
+      <name name="{=kryvich_female_23}Aniśka" />
+      <name name="{=kryvich_female_24}Vika" />
+      <name name="{=kryvich_female_25}Daruś" />
+      <name name="{=kryvich_female_26}Darota" />
+      <name name="{=kryvich_female_27}Prośka" />
+      <name name="{=kryvich_female_28}Zita" />
+      <name name="{=kryvich_female_29}Marka " />
+      <name name="{=kryvich_female_30}Mara" />
     </female_names>
     <clan_names>
       <name name="{=suzdalian_clan_1}Vasilchikovy" />
