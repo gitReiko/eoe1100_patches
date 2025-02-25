@@ -179,6 +179,17 @@
       <name name="{=kryvich_male_18}Ždan" />
       <name name="{=kryvich_male_19}Bohša" />
       <name name="{=kryvich_male_20}Słava" />
+      <name name="{=novgorodian_male_20}Miloneg" />
+      <name name="{=novgorodian_male_21}Mironeg" />
+      <name name="{=novgorodian_male_22}Miroslav" />
+      <name name="{=novgorodian_male_23}Molbovich" />
+      <name name="{=novgorodian_male_24}Nezhata" />
+      <name name="{=novgorodian_male_25}Nezda" />
+      <name name="{=novgorodian_male_26}Nozdrcha" />
+      <name name="{=novgorodian_male_27}Petr" />
+      <name name="{=novgorodian_male_28}Petrila" />
+      <name name="{=novgorodian_male_29}Prokopii" />
+      <name name="{=novgorodian_male_30}Savka" />
     </male_names>
     <female_names>
       <name name="{=marian_female_1}Aivika" />
@@ -254,6 +265,17 @@
       <name name="{=kryvich_female_28}Zita" />
       <name name="{=kryvich_female_29}Marka " />
       <name name="{=kryvich_female_30}Mara" />
+      <name name="{=novgorodian_female_4}Elisava" />
+      <name name="{=novgorodian_female_10}Sudimira" />
+      <name name="{=novgorodian_female_11}Iakima" />
+      <name name="{=novgorodian_female_12}Umila" />
+      <name name="{=novgorodian_female_13}Malusha" />
+      <name name="{=novgorodian_female_14}Liubava" />=
+      <name name="{=novgorodian_female_16}Gremislava" />
+      <name name="{=novgorodian_female_21}Gertruda" />
+      <name name="{=novgorodian_female_22}Predslava" />
+      <name name="{=novgorodian_female_23}Ingeborga" />
+      <name name="{=novgorodian_female_24}Malfrida" />
     </female_names>
     <clan_names>
       <name name="{=suzdalian_clan_1}Vasilchikovy" />
