@@ -1,0 +1,60 @@
+<partyTemplates>
+
+    <MBPartyTemplate id="villager_volga_fin_template" >
+      <stacks>
+        <PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.villager_volga_fin" />
+      </stacks>
+    </MBPartyTemplate>
+	
+  <MBPartyTemplate id="rebels_volga_fin_template" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.suzdalian_levy" />
+    </stacks>
+  </MBPartyTemplate>
+
+  <MBPartyTemplate id="caravan_template_volga_fin" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_volga_fin" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caravan_guard_volga_fin" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.veteran_caravan_guard_volga_fin" />
+    </stacks>
+  </MBPartyTemplate>
+
+  <MBPartyTemplate id="elite_caravan_template_volga_fin" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_volga_fin" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.caravan_guard_volga_fin" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.veteran_caravan_guard_volga_fin" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.caravan_master_volga_fin" />
+    </stacks>
+  </MBPartyTemplate>
+  
+    <MBPartyTemplate id="militia_volga_fin_template" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.suzdalian_armed_levy" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.suzdalian_archer" />
+      </stacks>
+    </MBPartyTemplate>
+	
+  <MBPartyTemplate id="kingdom_hero_party_volga_fin_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.suzdalian_levy" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.suzdalian_armed_levy" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.suzdalian_archer" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.suzdalian_spearman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.suzdalian_axeman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.suzdalian_experienced_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.suzdalian_detskii" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.suzdalian_boyar_son" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.suzdalian_boyar" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  <MBPartyTemplate id="vassal_reward_troops_volga_fin" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.suzdalian_boyar_son" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.suzdalian_boyar" />
+    </stacks>
+  </MBPartyTemplate>
+
+</partyTemplates>
