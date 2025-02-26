@@ -3404,10 +3404,10 @@
        level="21"
        occupation="Soldier"
        is_basic_troop="true"
-       culture="Culture.aestian"
+       culture="Culture.jatvingian"
        name="{=ushkuynik_tier_1.name}Ushkuynik Warrior">
        <face>
-              <face_key_template value="BodyProperty.villager_aestian"/>
+              <face_key_template value="BodyProperty.villager_jatvingian"/>
        </face>
        <upgrade_targets>
               <upgrade_target id="NPCCharacter.ushkuynik_tier_2" />
@@ -3446,10 +3446,10 @@
        level="26"
        occupation="Soldier"
        is_basic_troop="true"
-       culture="Culture.aestian"
+       culture="Culture.jatvingian"
        name="{=ushkuynik_tier_2.name}Ushkuynik Armoured Warrior">
        <face>
-              <face_key_template value="BodyProperty.villager_aestian"/>
+              <face_key_template value="BodyProperty.villager_jatvingian"/>
        </face>
        <upgrade_targets>
               <upgrade_target id="NPCCharacter.ushkuynik_tier_3" />
@@ -3488,10 +3488,10 @@
        level="31"
        occupation="Soldier"
        is_basic_troop="true"
-       culture="Culture.aestian"
+       culture="Culture.jatvingian"
        name="{=ushkuynik_tier_3.name}Ushkuynik Warlord">
        <face>
-              <face_key_template value="BodyProperty.villager_aestian"/>
+              <face_key_template value="BodyProperty.villager_jatvingian"/>
        </face>
        <skills >
               <skill id="Athletics" value="225"/>

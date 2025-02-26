@@ -32,6 +32,17 @@
       <PartyTemplateStack min_value="6" max_value="10" troop="NPCCharacter.kylfingar_tier_3" />
     </stacks>
   </MBPartyTemplate>
+
+  <MBPartyTemplate id="rus_varangians_party_template">
+    <stacks>
+      <PartyTemplateStack min_value="3" max_value="6" troop="NPCCharacter.volhynian_levy_woj" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.volhynian_foot_younger_druzynnik" />
+      <PartyTemplateStack min_value="3" max_value="6" troop="NPCCharacter.novgorodian_grid" />
+      <PartyTemplateStack min_value="7" max_value="14" troop="NPCCharacter.dregovian_palkavy_archer" />
+      <PartyTemplateStack min_value="3" max_value="5" troop="NPCCharacter.kryvich_druzinnik_son" />
+      <PartyTemplateStack min_value="2" max_value="5" troop="NPCCharacter.rus_polkovy_infantryman" />
+    </stacks>
+  </MBPartyTemplate>
   
 
 </partyTemplates>

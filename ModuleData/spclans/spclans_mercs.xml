@@ -451,7 +451,7 @@
     color2="ff53b7c6"
     alternative_color="ff53b7c6"
     alternative_color2="fff4ca16"
-    culture="Culture.aestian"
+    culture="Culture.jatvingian"
     default_party_template="PartyTemplate.ushkuyniks_party_template"
     settlement_banner_mesh="encounter_flag_f"
     is_minor_faction="true"
@@ -489,6 +489,31 @@
       <template id="NPCCharacter.kylfingar_leader_1" />
       <template id="NPCCharacter.kylfingar_leader_2" />
       <template id="NPCCharacter.kylfingar_leader_3" />
+		</minor_faction_character_templates>
+	</Faction>
+
+  <Faction id="rus_varangians"
+    initial_posX="801.9323"
+    initial_posY="1339.292"
+    banner_key="11.43.19.1836.1836.764.764.1.0.0.510.125.116.435.438.764.860.0.0.0.510.125.116.431.438.764.759.0.0.90.504.125.116.70.154.764.527.0.0.0.504.125.116.70.154.764.988.0.1.180.510.125.116.259.362.597.736.0.0.90.504.125.116.201.85.597.622.0.1.270.510.125.116.259.362.931.736.0.1.270.504.125.116.201.85.931.622.0.0.90"
+    label_color="ff0090a7"
+    color="ffa97535"
+    color2="ffebdcbb"
+    alternative_color="ffebdcbb"
+    alternative_color2="ffa97535"
+    culture="Culture.rus"
+    default_party_template="PartyTemplate.rus_varangians_party_template"
+    settlement_banner_mesh="encounter_flag_f"
+    is_minor_faction="true"
+    name="{=rus_varangians.name}Rus Varangians"
+    tier="4"
+    text="{=rus_varangians.text}xxx"
+    >
+		<minor_faction_character_templates>
+			<template id="NPCCharacter.rus_varangians_leader_0" />
+      <template id="NPCCharacter.rus_varangians_leader_1" />
+      <template id="NPCCharacter.rus_varangians_leader_2" />
+      <template id="NPCCharacter.rus_varangians_leader_3" />
 		</minor_faction_character_templates>
 	</Faction>
 
