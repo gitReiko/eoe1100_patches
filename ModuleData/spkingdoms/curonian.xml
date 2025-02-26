@@ -18,7 +18,7 @@
 		   short_name="{=curonian.short_name}Curonian Tribes"
 		   title="{=curonian.title}Curonian Tribal Principalities"
 		   ruler_title="{=curonian.ruler_title}Kunigs"
-		   text="{=curonian.text}xxx">
+		   text="{=curonian.text}From 650 there existed a large Scandinavian settlement, Grobin, which the Curonians conquered around 800. In 853, the Danes invaded Curonia, but were defeated. Two Curonian rulers are known that fought against the Vikings in the second half of the 9th century - Loker and Dorno. From Rimbert we know that already in the IX century the Curonians had a state formation consisting of five principalities. The fragmentary historical records that have survived to us show that in the IX-XII centuries, the Curonians continued both to trade and to war with the Scandinavians. In 1170, the Curonians plunder Eland. It was common for the Curonians to carry out joint raids and campaigns together with Estonians (Oeselians). According to some opinions, they took part in attacking Sweden's main city Sigtuna in 1187.">
     <relationships>
 		<relationship kingdom="Kingdom.curonian" value="-25" isAtWar="true" />
 		<relationship kingdom="Kingdom.goldenhorde" value="-25" isAtWar="true" />

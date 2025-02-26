@@ -12673,7 +12673,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ragaine" name="{=castle_ragaine_name}Ragaine Castle" owner="Faction.clan_prussian_3" posX="679.041" posY="1243.607" culture="Culture.latvian" gate_posX="677.851" gate_posY="1242.794">
+  <Settlement id="castle_ragaine" name="{=castle_ragaine_name}Ragaine Castle" owner="Faction.clan_zemaitian_1" posX="679.041" posY="1243.607" culture="Culture.latvian" gate_posX="677.851" gate_posY="1242.794">
     <Components>
       <Town id="castle_comp_ragaine" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>

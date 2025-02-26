@@ -83,7 +83,7 @@
       <item id="Item.sturgia_sword_5_t5" />
     </banner_bearer_replacement_weapons>
     <default_policies>
-      <policy id="policy_sacred_majesty" />
+      <policy id="policy_council_of_the_commons" />
     </default_policies>
     <male_names>
       <name name="{=latvian_male_1}Vents" />

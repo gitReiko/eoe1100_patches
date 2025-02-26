@@ -86,8 +86,7 @@
       <item id="Item.sturgia_sword_5_t5" />
     </banner_bearer_replacement_weapons>
     <default_policies>
-      <policy id="policy_lawspeakers" />
-      <policy id="policy_precarial_land_tenure" />
+      <policy id="policy_council_of_the_commons" />
     </default_policies>
     <male_names>
       <name name="{=marian_male_1}Aptysh" />
