@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_curonian_1a" spouse="Hero.lord_curonian_1b" faction="Faction.clan_curonian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_curonian_1b" spouse="Hero.lord_curonian_1a" faction="Faction.clan_curonian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_curonian_1c" father="Hero.lord_curonian_1a" mother="Hero.lord_curonian_1b" faction="Faction.clan_curonian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_curonian_1d" father="Hero.lord_curonian_1a" mother="Hero.lord_curonian_1b" faction="Faction.clan_curonian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+
+
+   <Hero id="lord_curonian_2a" faction="Faction.clan_curonian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_curonian_2b" father="Hero.lord_curonian_2a" spouse="Hero.lord_latgalian_4c" faction="Faction.clan_curonian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_curonian_2c" spouse="Hero.lord_curonian_2b" faction="Faction.clan_curonian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_curonian_3a" spouse="Hero.lord_curonian_3b" faction="Faction.clan_curonian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_curonian_3b" spouse="Hero.lord_curonian_3a" faction="Faction.clan_curonian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_curonian_3c" father="Hero.lord_curonian_3a" mother="Hero.lord_curonian_3b" faction="Faction.clan_curonian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+
+</Heroes>

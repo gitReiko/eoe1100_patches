@@ -25,18 +25,6 @@
            color="FFf4d32e" color2="FFe44535" alternative_color="FFf4d32e" alternative_color2="FFe44535"
   />
 
-  <Faction id="clan_zemaitian_3"
-           name="{=clan_zemaitian_3.name}Knituva"
-           tier="5"
-           is_noble="true"
-           owner="Hero.lord_zemaitian_3a"
-           culture="Culture.latvian"
-           super_faction="Kingdom.zemaitian"
-           banner_key="11.126.48.1836.1836.767.764.1.0.0.510.48.116.241.241.855.646.0.1.225.510.48.116.120.241.818.737.0.1.135.510.48.116.120.241.945.608.0.1.135.510.48.116.241.241.856.882.0.0.-46.510.48.116.120.241.819.791.0.0.44.510.48.116.120.241.946.922.0.0.44.510.48.116.241.241.673.646.0.0.135.510.48.116.120.241.710.737.0.0.225.510.48.116.120.241.583.608.0.0.225.510.48.116.241.241.672.882.0.1.46.510.48.116.120.241.709.791.0.1.316.510.48.116.120.241.582.920.0.1.316"
-           text="{=clan_zemaitian.text}This clan represents the Žemaitian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Moon (Mēness) symbol."
-           color="FF35671c" color2="FFf4d32e" alternative_color="FF35671c" alternative_color2="FFf4d32e"
-  />
-
   <Faction id="clan_zemaitian_4"
     name="{=clan_zemaitian_4.name}Upytė"
     tier="5"

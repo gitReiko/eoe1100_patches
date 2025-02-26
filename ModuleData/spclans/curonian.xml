@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_curonian_1"
+    name="{=clan_curonian_1.name}Ventava"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_curonian_1a"
+    culture="Culture.latvian"
+    super_faction="Kingdom.curonian"
+    banner_key="11.44.48.1836.1836.767.764.1.0.0.510.122.116.470.300.764.764.0.1.45.510.122.116.198.300.946.683.0.1.315.510.122.116.85.300.986.748.0.0.45.510.122.116.198.300.581.844.0.1.135.510.122.116.85.300.542.780.0.0.225.510.122.116.202.250.825.697.0.1.315.510.122.116.370.250.764.764.0.0.315.510.122.116.202.250.703.830.0.1.315"
+    text="{=clan_curonian_1.text}This clan represents the Curonian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of Baltic folk symbol."
+    color="fff0e0a5" color2="ffa97535" alternative_color="fff0e0a5" alternative_color2="ffa97535"
+  />
+
+  <Faction id="clan_curonian_2"
+    name="{=clan_curonian_2.name}Piemare"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_curonian_2a"
+    culture="Culture.latvian"
+    super_faction="Kingdom.curonian"
+    banner_key="11.122.48.1836.1836.767.764.1.0.0.510.44.116.470.300.764.764.0.1.45.510.44.116.136.300.923.660.0.1.315.510.44.116.100.300.683.791.0.1.315.510.44.116.136.300.605.868.0.1.315.510.44.116.136.300.682.789.0.1.315.510.44.116.136.300.846.739.0.1.315.510.44.116.136.300.788.683.0.1.315.510.44.116.136.300.740.845.0.1.315"
+    text="{=clan_curonian_1.text}This clan represents the Curonian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of Baltic folk symbol."
+    color="ff0086ad" color2="fffaf4e3" alternative_color="ff0086ad" alternative_color2="fffaf4e3"
+  />
+
+  <Faction id="clan_curonian_3"
+    name="{=clan_curonian_3.name}Megava"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_curonian_3a"
+    culture="Culture.latvian"
+    super_faction="Kingdom.curonian"
+    banner_key="11.44.48.1836.1836.767.764.1.0.0.510.122.116.470.300.764.764.0.1.45.510.122.116.136.300.923.660.0.1.315.510.122.116.100.300.683.791.0.1.315.510.122.116.136.300.605.868.0.1.315.510.122.116.136.300.682.789.0.1.315.510.122.116.136.300.846.739.0.1.315"
+    text="{=clan_curonian_1.text}This clan represents the Curonian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of Baltic folk symbol."
+    color="ff468499" color2="ff849946" alternative_color="ff468499" alternative_color2="ff849946"
+  />
+
+  
+
+		   
+</Factions>

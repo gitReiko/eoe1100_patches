@@ -12023,7 +12023,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ventspils" name="{=town_ventspils_name}Ventspils" owner="Faction.clan_zemgalian_1" posX="667.609" posY="1298.594" culture="Culture.latvian" gate_posX="668.802" gate_posY="1297.684" text="{=town_ventspils_text}Ventspils text...">
+  <Settlement id="town_ventspils" name="{=town_ventspils_name}Ventspils" owner="Faction.clan_curonian_1" posX="667.609" posY="1298.594" culture="Culture.latvian" gate_posX="668.802" gate_posY="1297.684" text="{=town_ventspils_text}Ventspils text...">
     <Components>
       <Town id="town_comp_ventspils" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -12070,7 +12070,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_grobin" name="{=castle_grobin_name}Grobin Castle" owner="Faction.clan_zemgalian_1" posX="663.281" posY="1280.55" culture="Culture.latvian" gate_posX="664.1816" gate_posY="1279.424">
+  <Settlement id="castle_grobin" name="{=castle_grobin_name}Grobin Castle" owner="Faction.clan_curonian_2" posX="663.281" posY="1280.55" culture="Culture.latvian" gate_posX="664.1816" gate_posY="1279.424">
     <Components>
       <Town id="castle_comp_grobin" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12093,7 +12093,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_klaipeda" name="{=castle_klaipeda_name}Klaipeda Castle" owner="Faction.clan_zemaitian_3" posX="664.689" posY="1264.633" culture="Culture.latvian" gate_posX="665.8028" gate_posY="1264.008">
+  <Settlement id="castle_klaipeda" name="{=castle_klaipeda_name}Klaipeda Castle" owner="Faction.clan_curonian_3" posX="664.689" posY="1264.633" culture="Culture.latvian" gate_posX="665.8028" gate_posY="1264.008">
     <Components>
       <Town id="castle_comp_klaipeda" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -12139,7 +12139,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_dubene" name="{=castle_dubene_name}Dubene Castle" owner="Faction.clan_zemgalian_4" posX="689.935" posY="1285.4" culture="Culture.latvian" gate_posX="690.9464" gate_posY="1284.625">
+  <Settlement id="castle_dubene" name="{=castle_dubene_name}Dubene Castle" owner="Faction.clan_zemgalian_1" posX="689.935" posY="1285.4" culture="Culture.latvian" gate_posX="690.9464" gate_posY="1284.625">
     <Components>
       <Town id="castle_comp_dubene" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>

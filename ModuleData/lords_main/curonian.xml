@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NPCCharacters> 
+
+    <NPCCharacter id="lord_curonian_1a"
+                name="{=lord_curonian_1a.name}Erdivil*"
+                voice="softspoken"
+                age="46"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B406C02C13C5665454A4A36666689694767C4AB7A99A689E37585656B64600B236030BD95A13000000000000000000000000000000000000000023746102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="225" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="125" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_king" />
+      <EquipmentSet id="latvian_king"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_curonian_1b"
+                name="{=lord_curonian_1b.name}Mantė*"
+                voice="softspoken"
+                age="41"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.21" weight="0.1867" build="0.1944"  key="0005AC0D00FC100E398346743E38674654AC43963A6A78A7583784E994EC78BD00833603087416ED00000000000000000000000000000000000000004D143103"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="75" />
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="100" />
+        <skill id="Scouting" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Throwing" value="50" />
+        <skill id="Polearm" value="50" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lady" />
+      <EquipmentSet id="latvian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_curonian_1c"
+                name="{=lord_curonian_1c.name}Vaidot*"
+                voice="softspoken"
+                age="25"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B40AC02C1002865654848366676A9696767A4AB7899A689B37585656969600B236030B875A13000000000000000000000000000000000000000023742102"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_curonian_1d"
+                name="{=lord_curonian_1d.name}Ivars*"
+                default_group="Cavalry"
+                age="19"
+                voice="ironic"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+    <BodyProperties version="4" age="22.21" weight="0.1867" build="0.1944"  key="0005BC0980FC1010378346743E38674656AA439668697897583785E994BC78BA00833603087436BB00000000000000000000000000000000000000004D143103"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="200" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="225" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_curonian_2a"
+                name="{=lord_curonian_2a.name}Ziedonis*"
+                voice="softspoken"
+                age="54"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.5648" build="0.5185"  key="000A8C0980702482655466756C2696DAB483387A336467372B6153553B35833300C886030C54422600000000000000000000000000000000000000005D8420C2"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="250" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="175" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="200" />
+        <skill id="Athletics" value="175" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="125" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_curonian_2b"
+                name="{=lord_curonian_2b.name}Salnis*"
+                voice="softspoken"
+                age="31"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.3102" build="0.2948"  key="000AA40998701482685466756A46969AB485387A33547737286153583835833300A456030A74422600000000000000000000000000000000000000005D5C20C2"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="175" />
+        <skill id="Riding" value="100" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_curonian_2c"
+                name="{=lord_curonian_2c.name}Grīva*"
+                voice="softspoken"
+                age="25"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.3102" build="0.4397"  key="00050406C0A0200624BC4B3B5CBA6649CA89876E3969B2CB497758B99A69B75500975603098192C5000000000000000000000000000000000000000029342003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="175" />
+        <skill id="Riding" value="125" />
+        <skill id="Bow" value="100" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lady" />
+      <EquipmentSet id="latvian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+
+    <NPCCharacter id="lord_curonian_3a"
+                name="{=lord_curonian_3a.name}Drosmis*"
+                voice="softspoken"
+                age="43"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.8966" build="0.4491"  key="0015B4080070338544367677A66932644D595B46C98985B48A5B6839A6C4974700B7D6030B7D6668000000000000000000000000000000000000000055746002"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="225" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="100" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lord" />
+      <EquipmentSet id="latvian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_curonian_3b"
+                name="{=lord_curonian_3b.name}Gude*"
+                voice="softspoken"
+                age="42"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.3179" build="0.4256"  key="001B8C0B80CC00011B5C95B8C9A33472778B6739A36895467E4868C87B7A632900B656030B5A486A0000000000000000000000000000000000000000236C4103"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="75" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="250" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="75" />
+        <skill id="OneHanded" value="50" />
+        <skill id="Athletics" value="200" />
+        <skill id="Riding" value="125" />
+        <skill id="Roguery" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lady" />
+      <EquipmentSet id="latvian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_curonian_3c"
+                name="{=lord_curonian_3c.name}Ligitas*"
+                voice="softspoken"
+                age="25"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.5764" build="0.5995"  key="00109808C070344344369677A66932684A595B46C98987948A5A685BA6A4974700A996030A7B66680000000000000000000000000000000000000000554C4002"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="200" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lord" />
+      <EquipmentSet id="latvian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+
+
+
+
+
+
+
+</NPCCharacters>

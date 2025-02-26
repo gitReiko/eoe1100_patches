@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="curonian"
+		   owner="Hero.lord_baltic_1a"
+		   banner_key="11.44.48.1836.1836.767.764.1.0.0.510.122.116.470.300.764.764.0.1.45.510.122.116.198.300.946.683.0.1.315.510.122.116.85.300.986.748.0.0.45.510.122.116.198.300.581.844.0.1.135.510.122.116.85.300.542.780.0.0.225.510.122.116.202.250.825.697.0.1.315.510.122.116.370.250.764.764.0.0.315.510.122.116.202.250.703.830.0.1.315"
+		   primary_banner_color="0xfff0e0a5"
+		   secondary_banner_color="0xffa97535"
+		   label_color="ff875d2a"
+		   color="fff0e0a5"
+		   color2="ffa97535"
+		   alternative_color="ff7eba53"
+		   alternative_color2="ffa97535"
+		   culture="Culture.latvian"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_b"
+		   name="{=curonian.name}Curonian Tribal Principalities"
+		   short_name="{=curonian.short_name}Curonian Tribes"
+		   title="{=curonian.title}Curonian Tribal Principalities"
+		   ruler_title="{=curonian.ruler_title}Kunigs"
+		   text="{=curonian.text}xxx">
+    <relationships>
+		<relationship kingdom="Kingdom.curonian" value="-25" isAtWar="true" />
+		<relationship kingdom="Kingdom.goldenhorde" value="-25" isAtWar="true" />
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+
+ </Kingdoms>

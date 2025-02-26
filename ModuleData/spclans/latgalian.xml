@@ -37,17 +37,7 @@
            color="FFb7ef90" color2="FFefc990" alternative_color="FFb7ef90" alternative_color2="FFefc990"
   />
 
-  <Faction id="clan_latgalian_4"
-           name="{=clan_latgalian_4.name}Idums"
-           tier="5"
-           is_noble="true"
-           owner="Hero.lord_latgalian_4a"
-           culture="Culture.latvian"
-           super_faction="Kingdom.latgalian"
-           banner_key="11.48.48.1836.1836.767.764.1.0.0.505.11.116.242.242.763.765.0.0.135.505.48.116.169.169.763.765.0.0.135.510.11.116.441.220.763.765.0.0.45.510.11.116.441.220.763.765.0.0.135"
-           text="{=clan_latgalian.text}This clan represents the Latgalian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the World’s Fabric symbol."
-           color="FFe44533" color2="FFefc990" alternative_color="FFe44533" alternative_color2="FFefc990"
-  />
+
   
 
 		   

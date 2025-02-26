@@ -34,15 +34,6 @@
            color="FFeed690" color2="FFe68c35" alternative_color="FFeed690" alternative_color2="FFe68c35"
     />
 
-    <Faction id="clan_zemgalian_4"
-           name="{=clan_zemgalian_4.name}Dobene"
-           tier="5"
-           is_noble="true"
-           owner="Hero.lord_zemgalian_4a"
-           culture="Culture.latvian"
-           super_faction="Kingdom.zemgalian"
-           banner_key="11.47.48.1836.1836.767.764.1.0.0.510.55.116.571.244.763.764.0.0.0.510.55.116.195.244.932.764.0.0.90.510.55.116.195.244.596.764.0.0.90.510.55.116.571.244.763.764.0.0.90.510.55.116.195.244.763.596.0.0.180.510.55.116.195.244.763.932.0.0.180.510.55.116.195.244.694.764.0.0.90.510.55.116.195.244.834.764.0.0.90.510.55.116.195.244.763.694.0.0.0.510.55.116.195.244.763.834.0.0.0.505.47.116.125.125.763.764.0.0.0" text="{=clan_zemgalian.text}This clan represents the Žemaitian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic goddess Māra crosses." 
-           color="FFda6c6d" color2="FFf9d574" alternative_color="FFda6c6d" alternative_color2="FFf9d574"
-    />
+    
 		   
 </Factions>
