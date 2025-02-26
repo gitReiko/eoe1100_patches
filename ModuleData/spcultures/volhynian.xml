@@ -1,0 +1,384 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<SPCultures>
+
+  <Culture id="volhynian"
+           name="{=volhynian.name}Volhynian"
+           is_main_culture="true"
+           color="0xff3b6298"
+           color2="0xffffffff"
+           elite_basic_troop="NPCCharacter.volhynian_otrok"
+           basic_troop="NPCCharacter.volhynian_levy"
+           melee_militia_troop="NPCCharacter.volhynian_armed_levy"
+           ranged_militia_troop="NPCCharacter.volhynian_levy_archer"
+           melee_elite_militia_troop="NPCCharacter.volhynian_levy_woj"
+           ranged_elite_militia_troop="NPCCharacter.volhynian_experienced_levy_archer"
+           can_have_settlement="true"
+           town_edge_number="16"
+           encounter_background_mesh="encounter_sturgia"
+           faction_banner_key="11.40.48.1836.1836.767.764.1.0.0.510.141.116.318.281.959.786.0.1.90.510.141.116.318.281.568.786.0.1.90.510.141.116.490.281.764.941.0.1.0.510.141.116.449.281.764.735.0.1.90.510.141.116.299.281.764.778.0.1.45.510.141.116.299.281.764.778.0.1.135"
+           villager_party_template="PartyTemplate.villager_volhynian_template"
+           default_party_template="PartyTemplate.kingdom_hero_party_volhynian_template"
+           elite_caravan_party_template="PartyTemplate.elite_caravan_template_volhynian"
+           caravan_party_template="PartyTemplate.caravan_template_volhynian"
+           militia_party_template="PartyTemplate.militia_volhynian_template"
+           rebels_party_template="PartyTemplate.rebels_volhynian_template"
+           vassal_reward_party_template="PartyTemplate.vassal_reward_troops_volhynian"
+           default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+           text="{=volhynian.text}On the territory of modern Volhynia and Galicia in the 7-8th centuries lived the tribes of Volhynians and White Croats. In the 10th century, the region was united by the Volhynian Duchy, which was part of the Rus state. In the 11th century, the Principality of Galicia began to form on the territory of the White Croats. In 1100 the locals didn't consider themselves Ruthenians yet, they pay tribute to Rus. But after the invasion of the Golden Horde into Rus in 1240 and the collapse of this proto-empire. The ruling dynasty of Rus was able to survive on the territory of Volhynia and Galicia, then to create Ruthenian Kingdom. From this point on, the local population begins to consider themselves Ruthenians, until now. In 1349 Ruthenian Kingdom will stop to exist with death of the last member of a dynasty. In the following centuries the Ruthenians were part of different states. Nowadays the Ruthenians are part of the Ukrainian nation."
+           tournament_master="NPCCharacter.tournament_master_volhynian"
+           villager="NPCCharacter.villager_volhynian"
+           caravan_master="NPCCharacter.caravan_master_volhynian"
+           armed_trader="NPCCharacter.armed_trader_volhynian"
+           caravan_guard="NPCCharacter.caravan_guard_volhynian"
+           veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_volhynian"
+           duel_preset="NPCCharacter.volhynian_duel_preset"
+           prison_guard="NPCCharacter.prison_guard_volhynian"
+           guard="NPCCharacter.guard_volhynian"
+           blacksmith="NPCCharacter.blacksmith_volhynian"
+           weaponsmith="NPCCharacter.weaponsmith_volhynian"
+           townswoman="NPCCharacter.townswoman_volhynian"
+           townswoman_infant="NPCCharacter.townswoman_infant_volhynian"
+           townswoman_child="NPCCharacter.townswoman_child_volhynian"
+           townswoman_teenager="NPCCharacter.townswoman_teenager_volhynian"
+           townsman="NPCCharacter.townsman_volhynian"
+           townsman_infant="NPCCharacter.townsman_infant_volhynian"
+           townsman_child="NPCCharacter.townsman_child_volhynian"
+           townsman_teenager="NPCCharacter.townsman_teenager_volhynian"
+           village_woman="NPCCharacter.village_woman_volhynian"
+           villager_male_child="NPCCharacter.villager_child_volhynian"
+           villager_male_teenager="NPCCharacter.villager_teenager_volhynian"
+           villager_female_child="NPCCharacter.village_woman_child_volhynian"
+           villager_female_teenager="NPCCharacter.village_woman_teenager_volhynian"
+           ransom_broker="NPCCharacter.ransom_broker_volhynian"
+           gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_volhynian"
+           merchant_notary="NPCCharacter.merchant_notary_volhynian"
+           artisan_notary="NPCCharacter.artisan_notary_volhynian"
+           preacher_notary="NPCCharacter.preacher_notary_volhynian"
+           rural_notable_notary="NPCCharacter.rural_notable_notary_volhynian"
+           shop_worker="NPCCharacter.shop_worker_volhynian"
+           tavernkeeper="NPCCharacter.tavernkeeper_volhynian"
+           taverngamehost="NPCCharacter.taverngamehost_volhynian"
+           musician="NPCCharacter.musician_volhynian"
+           tavern_wench="NPCCharacter.tavern_wench_volhynian"
+           armorer="NPCCharacter.armorer_volhynian"
+           horseMerchant="NPCCharacter.horseMerchant_volhynian"
+           barber="NPCCharacter.barber_volhynian"
+           merchant="NPCCharacter.merchant_volhynian"
+           beggar="NPCCharacter.beggar_volhynian"
+           female_beggar="NPCCharacter.female_beggar_volhynian"
+           female_dancer="NPCCharacter.female_dancer_volhynian"
+           gear_practice_dummy="NPCCharacter.gear_practice_dummy_empire"
+           weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_volhynian"
+           weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_volhynian"
+           weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_volhynian"
+           gear_dummy="NPCCharacter.gear_dummy_empire"
+           board_game_type="Konane">
+    <vassal_reward_items>
+      <item id="Item.avalanche_2haxe" />
+    </vassal_reward_items>
+    <banner_bearer_replacement_weapons>
+      <item id="Item.sturgia_sword_1_t2" />
+      <item id="Item.sturgia_sword_2_t3" />
+      <item id="Item.sturgia_sword_4_t4" />
+      <item id="Item.sturgia_sword_5_t5" />
+    </banner_bearer_replacement_weapons>
+    <default_policies>
+      <policy id="policy_council_of_the_commons" />
+    </default_policies>
+    <male_names>
+      <name name="{=volhynian_male_1}Volodymyr" />
+      <name name="{=volhynian_male_2}Iaroslav" />
+      <name name="{=volhynian_male_3}Rostyslav" />
+      <name name="{=volhynian_male_4}Volodar" />
+      <name name="{=volhynian_male_5}Vasylko" />
+      <name name="{=volhynian_male_6}Iaropolk" />
+      <name name="{=volhynian_male_7}Illia" />
+      <name name="{=volhynian_male_8}Ruryk" />
+      <name name="{=volhynian_male_9}Vsevolod" />
+      <name name="{=volhynian_male_10}Iziaslav" />
+      <name name="{=volhynian_male_11}Ivan" />
+      <name name="{=volhynian_male_12}Volodymyrko" />
+      <name name="{=volhynian_male_13}Mykola" />
+      <name name="{=volhynian_male_14}Igor" />
+      <name name="{=volhynian_male_15}Oleg" />
+      <name name="{=volhynian_male_16}Roman" />
+      <name name="{=volhynian_male_17}Sviatoslav" />
+      <name name="{=volhynian_male_18}Vladyslav" />
+      <name name="{=volhynian_male_19}Danylo" />
+      <name name="{=volhynian_male_20}Iraklyi" />
+      <name name="{=volhynian_male_21}Liv" />
+      <name name="{=volhynian_male_22}Kostyantyn" />
+      <name name="{=volhynian_male_23}Mikhailo" />
+      <name name="{=volhynian_male_24}Andryi" />
+      <name name="{=volhynian_male_25}Sudyslav" />
+      <name name="{=volhynian_male_26}Dmytro" />
+      <name name="{=volhynian_male_27}Jyroslav" />
+      <name name="{=volhynian_male_28}Grygoryi" />
+      <name name="{=volhynian_male_29}Dobroslav" />
+      <name name="{=volhynian_male_30}Viacheslav" />
+      <name name="{=volhynian_male_31}Bogomyr" />
+      <name name="{=volhynian_male_32}Stefan" />
+      <name name="{=volhynian_male_33}Mykolai" />
+      <name name="{=volhynian_male_34}Volodyslav" />
+      <name name="{=volhynian_male_35}Kormyl" />
+      <name name="{=volhynian_male_36}Ksniatyn" />
+      <name name="{=volhynian_male_37}Siroslav" />
+      <name name="{=volhynian_male_38}Demian" />
+      <name name="{=volhynian_male_39}Pylyp" />
+      <name name="{=volhynian_male_40}Oleksandr" />
+      <name name="{=volhynian_male_41}Miroslav" />
+      <name name="{=volhynian_male_42}Tudor" />
+      <name name="{=volhynian_male_43}Kuzma" />
+      <name name="{=volhynian_male_44}Borys" />
+      <name name="{=volhynian_male_45}Vasylyi" />
+      <name name="{=volhynian_male_46}Symon" />
+    </male_names>
+    <female_names>
+      <name name="{=volhynian_female_1}Anna" />
+      <name name="{=volhynian_female_2}Oleksandra" />
+      <name name="{=volhynian_female_3}Oda" />
+      <name name="{=volhynian_female_4}Ingegerd" />
+      <name name="{=volhynian_female_5}Lanka" />
+      <name name="{=volhynian_female_6}Ilona" />
+      <name name="{=volhynian_female_7}Iryna" />
+      <name name="{=volhynian_female_8}Olena" />
+      <name name="{=volhynian_female_9}Sofia" />
+      <name name="{=volhynian_female_10}Maria" />
+      <name name="{=volhynian_female_11}Anastasia" />
+      <name name="{=volhynian_female_12}Evdokia" />
+      <name name="{=volhynian_female_13}Filip" />
+      <name name="{=volhynian_female_14}Olga" />
+      <name name="{=volhynian_female_15}Efrosynia" />
+      <name name="{=volhynian_female_16}Visheslava" />
+      <name name="{=volhynian_female_17}Fedora" />
+      <name name="{=volhynian_female_18}Nastaska" />
+      <name name="{=volhynian_female_19}Ryksa" />
+      <name name="{=volhynian_female_20}Pereiaslava" />
+      <name name="{=volhynian_female_21}Ustynia" />
+      <name name="{=volhynian_female_22}Sviatoslava" />
+      <name name="{=volhynian_female_23}Gremislava" />
+      <name name="{=volhynian_female_24}Dobrava" />
+      <name name="{=volhynian_female_25}Ganna" />
+      <name name="{=volhynian_female_26}Dobroslava" />
+      <name name="{=volhynian_female_27}Rostyslava" />
+      <name name="{=volhynian_female_28}Vladyslava" />
+      <name name="{=volhynian_female_29}Jyroslava" />
+      <name name="{=volhynian_female_30}Agafia" />
+      <name name="{=volhynian_female_31}Boleslava" />
+    </female_names>
+    <clan_names>
+      <name name="{=volhynian_clan_1}Iaropolkovichy" />
+      <name name="{=volhynian_clan_2}Vsevolodovichy" />
+      <name name="{=volhynian_clan_3}Romanovichy" />
+      <name name="{=volhynian_clan_4}Danylovichy" />
+      <name name="{=volhynian_clan_5}Jyroslavichy" />
+      <name name="{=volhynian_clan_6}Dobroslavichy" />
+      <name name="{=volhynian_clan_7}Vasylkovichy" />
+      <name name="{=volhynian_clan_8}Ivanovichy" />
+      <name name="{=volhynian_clan_9}Olegovichy" />
+      <name name="{=volhynian_clan_10}Sviatoslavichy" />
+    </clan_names>
+    <cultural_feats>
+<feat id="vlandian_villages_production_bonus" />
+<feat id="aserai_cheaper_caravans" />
+    </cultural_feats>
+    <possible_clan_banner_icon_ids>
+      <icon id="112" />
+      <icon id="113" />
+      <icon id="114" />
+      <icon id="115" />
+      <icon id="116" />
+      <icon id="117" />
+      <icon id="118" />
+      <icon id="132" />
+      <icon id="138" />
+      <icon id="139" />
+      <icon id="307" />
+      <icon id="331" />
+      <icon id="407" />
+      <icon id="408" />
+      <icon id="409" />
+      <icon id="410" />
+      <icon id="439" />
+      <icon id="440" />
+      <icon id="441" />
+      <icon id="442" />
+      <icon id="443" />
+      <icon id="444" />
+      <icon id="445" />
+    </possible_clan_banner_icon_ids>
+    <notable_and_wanderer_templates>
+	  <template name="NPCCharacter.spc_wanderer_volhynian_0" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_1" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_2" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_3" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_4" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_5" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_6" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_7" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_8" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_9" />
+      <template name="NPCCharacter.spc_wanderer_volhynian_10" />
+      <template name="NPCCharacter.spc_notable_volhynian_0" />
+      <template name="NPCCharacter.spc_notable_volhynian_0b" />
+      <template name="NPCCharacter.spc_notable_volhynian_1" />
+      <template name="NPCCharacter.spc_notable_volhynian_1b" />
+      <template name="NPCCharacter.spc_notable_volhynian_2" />
+      <template name="NPCCharacter.spc_notable_volhynian_2b" />
+      <template name="NPCCharacter.spc_notable_volhynian_3" />
+      <template name="NPCCharacter.spc_notable_volhynian_3b" />
+      <template name="NPCCharacter.spc_notable_volhynian_4" />
+      <template name="NPCCharacter.spc_notable_volhynian_5" />
+      <template name="NPCCharacter.spc_notable_volhynian_6" />
+      <template name="NPCCharacter.spc_notable_volhynian_7" />
+      <template name="NPCCharacter.spc_notable_volhynian_8" />
+      <template name="NPCCharacter.spc_notable_volhynian_9" />
+      <template name="NPCCharacter.spc_notable_volhynian_10" />
+      <template name="NPCCharacter.spc_notable_volhynian_11" />
+      <template name="NPCCharacter.spc_notable_volhynian_12" />
+      <template name="NPCCharacter.spc_volhynian_headman_1" />
+      <template name="NPCCharacter.spc_volhynian_headman_2" />
+      <template name="NPCCharacter.spc_volhynian_headman_3" />
+    </notable_and_wanderer_templates>
+    <lord_templates>
+      <template name="NPCCharacter.volhynian_rebel_lord" />
+    </lord_templates>
+    <rebellion_hero_templates>
+      <template name="NPCCharacter.volhynian_rebel_lord" />
+    </rebellion_hero_templates>
+    <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v2" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v3" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
+    </tournament_team_templates_four_participant>
+    <basic_mercenary_troops>
+      <template name="NPCCharacter.polish_druzynnik" />
+      <template name="NPCCharacter.polish_levy" />
+      <template name="NPCCharacter.hungarian_levy" />
+      <template name="NPCCharacter.hungarian_ban" />
+      <template name="NPCCharacter.cuman_nomad" />
+      <template name="NPCCharacter.cuman_light_cavalry" />
+      <template name="NPCCharacter.dregovian_otraks" />
+      <template name="NPCCharacter.dregovian_levys" />
+    </basic_mercenary_troops>
+  </Culture>
+
+
+<!--
+
+About names
+
+Latinization by modern Ukrainian patterns.
+
+Princely and boyar names connected with Volhynia and Galicia.
+
+Male names
+
+1,Volodymyr,Володимир,
+2,Iaroslav,Ярослав,
+3,Rostyslav,Ростислав,
+4,Volodar,Володар,
+5,Vasylko,Василько,
+6,Iaropolk,Ярополк,
+7,Illia,Ілля,
+8,Ruryk,Рурык,
+9,Vsevolod,Всеволод,
+10,Iziaslav,Ізяслав,
+11,Ivan,Іван,
+12,Volodymyrko,Володимирко,
+13,Mykola,Микола,
+14,Igor,Ігор,
+15,Oleg,Олег,
+16,Roman,Роман,
+17,Sviatoslav,Святослав,
+18,Vladyslav,Владислав,
+19,Danylo,Данило,
+20,Iraklyi,Іраклій,
+21,Liv,Лів,
+22,Kostiantyn,Костянтин,
+23,Mikhailo,Міхайло,
+24,Andryi,Андрій,
+25,Sudyslav,Судислав,
+26,Dmytro,Дмитро,
+27,Jyroslav,Жирослав,
+28,Grygoryi,Григорій,
+29,Dobroslav,Доброслав,
+30,Viacheslav,Вячеслав,
+31,Bogomyr,Богомир,
+32,Stefan,Стефан,
+33,Mykolai,Миколай,
+34,Volodyslav,Володислав,
+35,Kormyl,Кормил,??? (from father name)
+36,Ksniatyn,Кснятин,
+37,Siroslav,Сірослав,
+38,Demian,Дем'ян,
+39,Pylyp,Пилип,
+40,Oleksandr,Олександр,
+41,Miroslav,Мирослав,
+42,Tudor,Тудор,
+43,Kuzma,Кузьма,
+44,Borys,Борис,
+45,Vasylyi,Василій,
+46,Symon,Симон,
+
+Female names
+
+1,Anna,Анна
+2,Oleksandra,Олександра
+3,Oda,Ода
+4,Ingegerd,Інгегерд
+5,Lanka,Ланка
+6,Ilona,Ілона
+7,Iryna,Ірина
+8,Olena,Олена
+9,Sofia,Софія ??
+10,Maria,Марія ??
+11,Anastasia,Анастасія
+12,Evdokia,Евдокія
+13,Nastasia,Настасья
+14,Olga,Ольга
+15,Efrosynia,Ефросинія ??
+16,Visheslava,Вішеслава
+17,Fedora,Федора
+18,Nastaska,Настаска
+19,Ryksa,Рикса
+20,Pereiaslava,Переяслава
+21,Ustynia,Устинія
+22,Sviatoslava,Святослава
+23,Gremislava,Греміслава
+24,Dobrava,Добрава
+25,Ganna,Ганна
+26,Dobroslava,Доброслава
+27,Rostyslava,Ростислава
+28,Vladyslava,Владислава
+29,Jyroslava,Жирослава
+30,Agafia,Агафія
+31,Boleslava,Болеслава
+
+Clan names
+
+1,Iaropolkovichy
+2,Vsevolodovichy
+3,Romanovichy
+4,Danylovichy
+5,Jyroslavichy
+6,Dobroslavichy
+7,Vasylkovichy
+8,Ivanovichy
+9,Olegovichy
+10,Sviatoslavichy
+
+
+-->
+
+
+</SPCultures> 

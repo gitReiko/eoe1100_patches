@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="aestian_rebel_lord" 
+				name="{=aestian_rebel_lord.name}of the Aestia" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Infantry" 
+				is_hero="false" 
+				culture="Culture.aestian" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aestian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="SergeantCommandSkills" value="6" />
+      <Trait id="PeltastFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="aestian_lord" />
+      <EquipmentSet id="aestian_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="dregovian_rebel_lord" 
+				name="{=dregovian_rebel_lord.name}of the Dregovia" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Infantry" 
+				is_hero="false" 
+				culture="Culture.dregovian" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_dregovian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="SergeantCommandSkills" value="3" />
+      <Trait id="ArcherFIghtingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="dregovian_lord" />
+      <EquipmentSet id="dregovian_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="jatvingian_rebel_lord" 
+				name="{=jatvingian_rebel_lord.name}of the Jatvingia" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Infantry" 
+				is_hero="false" 
+				culture="Culture.jatvingian" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_jatvingian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="HuscarlFightingSkills" value="6" />
+      <Trait id="PeltastFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="kryvian_rebel_lord" 
+				name="{=kryvian_rebel_lord.name}of the Kryvia" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Cavalry" 
+				is_hero="false" 
+				culture="Culture.kryvich" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_kryvian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="PeltastFightingSkills" value="3" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="latvian_rebel_lord" 
+				name="{=latvian_rebel_lord.name}of the Latvia" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Infantry" 
+				is_hero="false" 
+				culture="Culture.latvian" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_latvian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="PeltastFightingSkills" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lord" />
+      <EquipmentSet id="latvian_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lithuanian_rebel_lord" 
+				name="{=lithuanian_rebel_lord.name}of the Lithuania" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Cavalry" 
+				is_hero="false" 
+				culture="Culture.goldenhorde" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lord" />
+      <EquipmentSet id="lithuanian_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="rus_rebel_lord" 
+				name="{=rus_rebel_lord.name}of the Rus" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Cavalry" 
+				is_hero="false" 
+				culture="Culture.rus" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_rus" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="suzdalian_rebel_lord" 
+				name="{=suzdalian_rebel_lord.name}of the Suzdal" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Cavalry" 
+				is_hero="false" 
+				culture="Culture.volga_fin" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="suzdalian_lord" />
+      <EquipmentSet id="suzdalian_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="volhynian_rebel_lord" 
+				name="{=volhynian_rebel_lord.name}of the Volhynia" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Cavalry" 
+				is_hero="false" 
+				culture="Culture.volhynian" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volhynian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+ 
+</NPCCharacters>

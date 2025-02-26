@@ -13,11 +13,11 @@
            melee_elite_militia_troop="NPCCharacter.suzdalian_spearman"
            ranged_elite_militia_troop="NPCCharacter.suzdalian_experienced_archer"
            can_have_settlement="true"
-           town_edge_number="4"
-           villager_party_template="PartyTemplate.villager_volga_fin_template"
-           default_party_template="PartyTemplate.kingdom_hero_party_volga_fin_template"
+           town_edge_number="16"
            encounter_background_mesh="encounter_sturgia"
            faction_banner_key="11.119.19.1836.1836.779.782.1.0.-30.505.144.116.302.281.764.740.0.0.-360.500.144.116.636.639.764.760.1.0.0.504.119.116.398.590.766.768.0.0.-180.444.144.116.155.144.766.918.0.0.-181.510.144.116.365.278.764.710.0.0.-270.510.144.116.206.278.764.617.0.0.-1.510.144.116.295.137.764.856.0.0.-1"
+           villager_party_template="PartyTemplate.villager_volga_fin_template"
+           default_party_template="PartyTemplate.kingdom_hero_party_volga_fin_template"
            elite_caravan_party_template="PartyTemplate.elite_caravan_template_volga_fin"
            caravan_party_template="PartyTemplate.caravan_template_volga_fin"
            militia_party_template="PartyTemplate.militia_volga_fin_template"
@@ -72,9 +72,6 @@
            weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_volga_fin"
            weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_volga_fin"
            gear_dummy="NPCCharacter.gear_dummy_empire"
-		   default_battle_equipment_roster="EquipmentRoster.emp_civ_template_default"
-		   default_civilian_equipment_roster="EquipmentRoster.emp_civ_template_default"
-		   duel_preset_equipment_roster="EquipmentRoster.emp_duel_preset_template"
            board_game_type="Konane">
     <vassal_reward_items>
       <item id="Item.avalanche_2haxe" />
@@ -351,10 +348,10 @@
       <template name="NPCCharacter.spc_volga_fin_headman_3" />
     </notable_and_wanderer_templates>
     <lord_templates>
-      <template name="NPCCharacter.rus_rebel_lord" />
+      <template name="NPCCharacter.suzdalian_rebel_lord" />
     </lord_templates>
     <rebellion_hero_templates>
-      <template name="NPCCharacter.rus_rebel_lord" />
+      <template name="NPCCharacter.suzdalian_rebel_lord" />
     </rebellion_hero_templates>
     <tournament_team_templates_one_participant>
       <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />
@@ -371,9 +368,14 @@
       <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
     </tournament_team_templates_four_participant>
     <basic_mercenary_troops>
-
-      <template name="NPCCharacter.western_mercenary" />
-
+      <template name="NPCCharacter.nordic_huscarl" />
+      <template name="NPCCharacter.kryvich_druzinnik_son" />
+      <template name="NPCCharacter.kryvich_levy" />
+      <template name="NPCCharacter.novgorodian_detskii" />
+      <template name="NPCCharacter.novgorodian_okhochii" />
+      <template name="NPCCharacter.rus_opolchenets" />
+      <template name="NPCCharacter.rus_foot_younger_dryzhynnik" />
+      <template name="NPCCharacter.ushkuynik_tier_1" />
     </basic_mercenary_troops>
   </Culture>
   

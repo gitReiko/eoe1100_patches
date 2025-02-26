@@ -297,11 +297,12 @@
       <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
     </tournament_team_templates_four_participant>
     <basic_mercenary_troops>
-      <template name="NPCCharacter.lithuanian_volunteer" />
-      <template name="NPCCharacter.lithuanian_noble_spearman" />
       <template name="NPCCharacter.nordic_huscarl" />
-      <template name="NPCCharacter.dregovian_otrak" />
-      <template name="NPCCharacter.dregovian_levy" />
+      <template name="NPCCharacter.suzdalian_levy" />
+      <template name="NPCCharacter.suzdalian_detskii" />
+      <template name="NPCCharacter.kryvich_levy" />
+      <template name="NPCCharacter.kryvich_druzinnik_son" />
+      <template name="NPCCharacter.ushkuynik_tier_1" />
     </basic_mercenary_troops>
   </Culture>
 
