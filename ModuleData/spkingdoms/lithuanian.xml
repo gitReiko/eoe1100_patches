@@ -14,7 +14,7 @@
 		   culture="Culture.latvian"
 		   settlement_banner_mesh="encounter_flag_a"
 		   flag_mesh="info_screen_flags_a"
-		   name="{=lithuanian_kingdom_name}The Lithuanian Tribal Principalities"
+		   name="{=lithuanian_kingdom_name}Lithuanian Tribal Principalities"
 		   short_name="{=lithuanian_kingdom_short_name}Lithuanians"
 		   title="{=lithuanian_kingdom_title}Lithuanian Tribal Principalities"
 		   ruler_title="{=lithuanian_ruler_title}Knyaz"
