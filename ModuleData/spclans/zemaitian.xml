@@ -3,7 +3,7 @@
 
   <Faction id="clan_zemaitian_1"
            name="{=clan_zemaitian_1.name}Karšuva"
-           tier="5"
+           tier="6"
            is_noble="true"
            owner="Hero.lord_zemaitian_1a"
            culture="Culture.latvian"

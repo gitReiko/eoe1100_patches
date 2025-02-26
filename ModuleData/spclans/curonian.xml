@@ -3,7 +3,7 @@
 
   <Faction id="clan_curonian_1"
     name="{=clan_curonian_1.name}Ventava"
-    tier="5"
+    tier="6"
     is_noble="true"
     owner="Hero.lord_curonian_1a"
     culture="Culture.latvian"
