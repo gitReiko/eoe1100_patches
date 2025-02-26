@@ -1682,7 +1682,7 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="rus_varangians_leader_0" name="{=rus_varangians_leader_0}of the Rus Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.rus" occupation="Lord">
+  <NPCCharacter id="rus_varangians_leader_0" name="{=rus_varangians_leader_0} of the Rus Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.rus" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.villager_rus"/>
 		</face>
@@ -1712,7 +1712,7 @@
         <equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
-      <EquipmentSet>
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
         <equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
         <equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
@@ -1720,8 +1720,8 @@
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
         <equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
-      </EquipmentSet>
-      <EquipmentSet>
+      </EquipmentRoster>
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
         <equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
         <equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
@@ -1729,7 +1729,7 @@
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
         <equipment slot="Body" id="Item.sturgian_lamellar_base"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
-      </EquipmentSet>
+      </EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
@@ -1740,7 +1740,7 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="rus_varangians_leader_1" name="{=rus_varangians_leader_0}of the Rus Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.rus" occupation="Lord">
+  <NPCCharacter id="rus_varangians_leader_1" name="{=rus_varangians_leader_0} of the Rus Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.rus" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.villager_rus"/>
 		</face>
@@ -1770,7 +1770,7 @@
         <equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
-      <EquipmentSet>
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
         <equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
         <equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
@@ -1778,8 +1778,8 @@
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
         <equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
-      </EquipmentSet>
-      <EquipmentSet>
+      </EquipmentRoster>
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
         <equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
         <equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
@@ -1787,7 +1787,7 @@
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
         <equipment slot="Body" id="Item.sturgian_lamellar_base"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
-      </EquipmentSet>
+      </EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
@@ -1798,7 +1798,7 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="rus_varangians_leader_2" name="{=rus_varangians_leader_0}of the Rus Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.rus" occupation="Lord">
+  <NPCCharacter id="rus_varangians_leader_2" name="{=rus_varangians_leader_0} of the Rus Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.rus" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.villager_rus"/>
 		</face>
@@ -1828,7 +1828,7 @@
         <equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
-      <EquipmentSet>
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
         <equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
         <equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
@@ -1836,8 +1836,8 @@
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
         <equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
-      </EquipmentSet>
-      <EquipmentSet>
+      </EquipmentRoster>
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
         <equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
         <equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
@@ -1845,7 +1845,7 @@
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
         <equipment slot="Body" id="Item.sturgian_lamellar_base"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
-      </EquipmentSet>
+      </EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
@@ -1856,7 +1856,7 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="rus_varangians_leader_3" name="{=rus_varangians_leader_0}of the Rus Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.rus" occupation="Lord">
+  <NPCCharacter id="rus_varangians_leader_3" name="{=rus_varangians_leader_0} of the Rus Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.rus" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.villager_rus"/>
 		</face>
@@ -1886,7 +1886,7 @@
         <equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
-      <EquipmentSet>
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
         <equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
         <equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
@@ -1894,8 +1894,8 @@
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
         <equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
-      </EquipmentSet>
-      <EquipmentSet>
+      </EquipmentRoster>
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
         <equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
         <equipment slot="Item2" id="Item.rus_oaken_cavalry_spear_t3_type3_12_13"/>
@@ -1903,7 +1903,7 @@
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
         <equipment slot="Body" id="Item.sturgian_lamellar_base"/>
         <equipment slot="Leg" id="Item.turndown_leather_boots"/>
-      </EquipmentSet>
+      </EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
