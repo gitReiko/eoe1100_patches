@@ -496,7 +496,7 @@
     initial_posX="849.1315"
     initial_posY="1156.534"
     banner_key="11.43.19.1836.1836.764.764.1.0.0.510.125.116.435.438.764.860.0.0.0.510.125.116.431.438.764.759.0.0.90.504.125.116.70.154.764.527.0.0.0.504.125.116.70.154.764.988.0.1.180.510.125.116.259.362.597.736.0.0.90.504.125.116.201.85.597.622.0.1.270.510.125.116.259.362.931.736.0.1.270.504.125.116.201.85.931.622.0.0.90"
-    label_color="ff0090a7"
+    label_color="ff98692f"
     color="ffa97535"
     color2="ffebdcbb"
     alternative_color="ffebdcbb"
@@ -514,6 +514,31 @@
       <template id="NPCCharacter.rus_varangians_leader_1" />
       <template id="NPCCharacter.rus_varangians_leader_2" />
       <template id="NPCCharacter.rus_varangians_leader_3" />
+		</minor_faction_character_templates>
+	</Faction>
+
+  <Faction id="anglo_saxon_varangians"
+    initial_posX="849.1315"
+    initial_posY="1156.534"
+    banner_key="11.48.48.1836.1836.767.764.1.0.0.510.31.116.473.281.764.764.0.0.330.510.31.116.473.281.764.764.0.1.30.506.31.116.412.196.786.593.0.0.0.506.48.116.239.113.786.593.0.0.0.510.31.116.579.281.763.764.0.1.90.505.48.116.239.88.706.582.0.0.90"
+    label_color="ffcd3e2f"
+    color="ffe44535"
+    color2="ffece8dd"
+    alternative_color="ffece8dd"
+    alternative_color2="ffe44535"
+    culture="Culture.english"
+    default_party_template="PartyTemplate.anglo_saxon_varangians_party_template"
+    settlement_banner_mesh="encounter_flag_f"
+    is_minor_faction="true"
+    name="{=anglo_saxon_varangians.name}Anglo-Saxon Varangians"
+    tier="4"
+    text="{=anglo_saxon_varangians.text}Initially, the Byzantine Varangian Guard consisted mainly of Norsemen. But over time, the definition of the word has changed. It has become broader. The Varangians formed or conquered states and settled in them. They mixed with the local people, absorbed their cultural characteristics, and popularized own culture. The descendants of these Varangians and locals from this states also served in the Varangian Guard. Composed primarily of Norsemen and Rus for the first 100 years, the Varangian Guard began to see increased numbers of Anglo-Saxons after the Norman conquest of England. By the time of the Emperor Alexios Komnenos in the late 11th century, the Varangian Guard was largely recruited from Anglo-Saxons and 'others who had suffered at the hands of the Vikings and their cousins the Normans'."
+    >
+		<minor_faction_character_templates>
+			<template id="NPCCharacter.anglo_saxon_varangians_leader_0" />
+      <template id="NPCCharacter.anglo_saxon_varangians_leader_1" />
+      <template id="NPCCharacter.anglo_saxon_varangians_leader_2" />
+      <template id="NPCCharacter.anglo_saxon_varangians_leader_3" />
 		</minor_faction_character_templates>
 	</Faction>
 

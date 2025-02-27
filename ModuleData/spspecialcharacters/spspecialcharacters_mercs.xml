@@ -1193,9 +1193,9 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="ushkuynik_leader_0" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="35" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+  <NPCCharacter id="ushkuynik_leader_0" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="35" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.jatvingian" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.villager_aestian"/>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
 		</face>
 		<skills></skills>
 		<Traits>
@@ -1252,9 +1252,9 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="ushkuynik_leader_1" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="37" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+  <NPCCharacter id="ushkuynik_leader_1" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="37" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.jatvingian" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.villager_aestian"/>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
 		</face>
 		<skills></skills>
 		<Traits>
@@ -1311,9 +1311,9 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="ushkuynik_leader_2" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="38" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+  <NPCCharacter id="ushkuynik_leader_2" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="38" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.jatvingian" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.villager_aestian"/>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
 		</face>
 		<skills></skills>
 		<Traits>
@@ -1370,9 +1370,9 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="ushkuynik_leader_3" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.aestian" occupation="Lord">
+  <NPCCharacter id="ushkuynik_leader_3" name="{=ushkuynik_leader}of the Ushkuyniks" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.jatvingian" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.villager_aestian"/>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
 		</face>
 		<skills></skills>
 		<Traits>
@@ -1910,6 +1910,138 @@
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
 				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="anglo_saxon_varangians_leader_0" name="{=anglo_saxon_varangians_leader_0} of the Anglo-Saxon Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.english" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.fighter_english"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Valor" value="1" />
+			<Trait id="Mercy" value="-1" />
+      <Trait id="SergeantCommandSkills" value="7" />
+      <Trait id="Commander" value="10" />
+		</Traits>
+		<Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.fortified_kite_shield"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.fortified_kite_shield"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="anglo_saxon_varangians_leader_1" name="{=anglo_saxon_varangians_leader_0} of the Anglo-Saxon Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.english" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.fighter_english"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Valor" value="1" />
+			<Trait id="Mercy" value="-1" />
+      <Trait id="SergeantCommandSkills" value="7" />
+      <Trait id="Commander" value="10" />
+		</Traits>
+		<Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.fortified_kite_shield"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.fortified_kite_shield"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="anglo_saxon_varangians_leader_2" name="{=anglo_saxon_varangians_leader_0} of the Anglo-Saxon Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.english" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.fighter_english"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Valor" value="1" />
+			<Trait id="Mercy" value="-1" />
+      <Trait id="SergeantCommandSkills" value="7" />
+      <Trait id="Commander" value="10" />
+		</Traits>
+		<Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.fortified_kite_shield"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.fortified_kite_shield"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="anglo_saxon_varangians_leader_3" name="{=anglo_saxon_varangians_leader_0} of the Anglo-Saxon Varangians" is_female="false" age="45" voice="ironic" is_template="true" default_group="Ranged" is_hero="false" culture="Culture.english" occupation="Lord">
+		<face>
+			<face_key_template value="BodyProperty.fighter_english"/>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Valor" value="1" />
+			<Trait id="Mercy" value="-1" />
+      <Trait id="SergeantCommandSkills" value="7" />
+      <Trait id="Commander" value="10" />
+		</Traits>
+		<Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.fortified_kite_shield"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.fortified_kite_shield"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
