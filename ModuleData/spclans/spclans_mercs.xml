@@ -507,7 +507,7 @@
     is_minor_faction="true"
     name="{=rus_varangians.name}Rus Varangians"
     tier="4"
-    text="{=rus_varangians.text}xxx"
+    text="{=rus_varangians.text}Initially, the Byzantine Varangian Guard consisted mainly of Norsemen. But over time, the definition of the word has changed. It has become broader. The Varangians formed or conquered states and settled in them. They mixed with the local people, absorbed their cultural characteristics, and popularized own culture. The descendants of these Varangians and locals from this states also served in the Varangian Guard. This clan represents the Varangians from the vast region, which was controlled by Rus and similar neighboring states, such as Polatsk. This region was inhabited by various ethnic groups: Baltic, Balto-Slavic, Slavic, Finnish, Fino-Slavic, Turkic and other. They had no unified military traditions, although they were inspired first by the Norsemen, later by Byzantium. Rather this clan describes a vast region and its Norman-inspired mercenaries than any cultural community."
     >
 		<minor_faction_character_templates>
 			<template id="NPCCharacter.rus_varangians_leader_0" />
