@@ -156,6 +156,37 @@
         <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
         <Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.vlandia_mace_3_t5"/>
+		<Equipment slot="Item1" id="Item.northern_scouts_shield"/>
+		<Equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
+        <Equipment slot="Head" id="Item.nasalhelm_over_mail"/>
+		<Equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+		<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+        <Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.empire_sword_6_t5"/>
+		<Equipment slot="Item1" id="Item.northern_scouts_shield"/>
+		<Equipment slot="Item2" id="Item.rus_oaken_kapjo_t2_type3a"/>
+        <Equipment slot="Head" id="Item.nasal_helmet_over_mail_coif"/>
+		<Equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+		<Equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+		<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+        <Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.vlandia_mace_3_t5"/>
+		<Equipment slot="Item1" id="Item.northern_scouts_shield"/>
+		<Equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
+        <Equipment slot="Head" id="Item.nasal_cervelliere_over_mail_coif"/>
+		<Equipment slot="Body" id="Item.vlandia_chainmail"/>
+		<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+        <Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
 	<EquipmentSet civilian="true">
 		<Equipment slot="Item0" id="Item.vlandia_noble_sword_1_t5"/>
 		<Equipment slot="Body" id="Item.nordic_tunic"/>
@@ -219,6 +250,27 @@
 		<Equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 		<Equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
 		<Equipment slot="Leg" id="Item.fine_town_boots"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+        <Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.vlandia_mace_3_t5"/>
+		<Equipment slot="Item1" id="Item.northern_scouts_shield"/>
+		<Equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
+        <Equipment slot="Head" id="Item.nasalhelm_over_mail"/>
+		<Equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+		<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+        <Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.empire_sword_6_t5"/>
+		<Equipment slot="Item1" id="Item.northern_scouts_shield"/>
+		<Equipment slot="Item2" id="Item.rus_oaken_kapjo_t2_type3a"/>
+        <Equipment slot="Head" id="Item.nasal_helmet_over_mail_coif"/>
+		<Equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+		<Equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+		<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
         <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
         <Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 	</EquipmentSet>
