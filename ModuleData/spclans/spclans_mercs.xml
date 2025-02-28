@@ -227,10 +227,10 @@
            is_minor_faction="true"
            is_outlaw="false"
            is_mafia="true"
-           name="{=E11VARAG_name}Varangians"
-           short_name="{=E11VARAG_shortname}Varangians"
+           name="{=E11VARAG_name}Norse Varangians"
+           short_name="{=E11VARAG_shortname}Norse Varangians"
            tier="4"
-           text="{=E11VARAG_text}The Varangians were Viking conquerors, traders and settlers, mostly from present-day Sweden. The Varangians settled in the territories of modern-day Belarus, Russia and Ukraine, and in the 9th century, they founded the medieval state of Kievan Rus. They also formed the Byzantine Varangian Guard, which later also included Anglo-Saxons.">
+           text="{=E11VARAG_text}The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England. Until the late 11th century, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen, from Västergötland declared no one could inherit while staying in 'Greece'—the then Scandinavian term for the Byzantine Empire—to stop the emigration, especially as two other European courts simultaneously also recruited Scandinavians: Kyivan Rus c. 980–1060 and London 1013–1051 (the Þingalið).">
     <minor_faction_character_templates>
       <template id="NPCCharacter.spc_lakepike_leader_0" />
       <template id="NPCCharacter.spc_lakepike_leader_1" />
@@ -495,12 +495,12 @@
   <Faction id="rus_varangians"
     initial_posX="849.1315"
     initial_posY="1156.534"
-    banner_key="11.43.19.1836.1836.764.764.1.0.0.510.125.116.435.438.764.860.0.0.0.510.125.116.431.438.764.759.0.0.90.504.125.116.70.154.764.527.0.0.0.504.125.116.70.154.764.988.0.1.180.510.125.116.259.362.597.736.0.0.90.504.125.116.201.85.597.622.0.1.270.510.125.116.259.362.931.736.0.1.270.504.125.116.201.85.931.622.0.0.90"
-    label_color="ff98692f"
-    color="ffa97535"
-    color2="ffebdcbb"
-    alternative_color="ffebdcbb"
-    alternative_color2="ffa97535"
+    banner_key="11.42.48.1836.1836.767.764.1.0.0.111.149.116.605.605.776.819.0.1.-26"
+    label_color="ff1f1f1f"
+    color="ff1f1f1f"
+    color2="ffe9e2c5"
+    alternative_color="ffe9e2c5"
+    alternative_color2="ff1f1f1f"
     culture="Culture.rus"
     default_party_template="PartyTemplate.rus_varangians_party_template"
     settlement_banner_mesh="encounter_flag_f"
@@ -520,7 +520,7 @@
   <Faction id="anglo_saxon_varangians"
     initial_posX="849.1315"
     initial_posY="1156.534"
-    banner_key="11.48.48.1836.1836.767.764.1.0.0.510.31.116.473.281.764.764.0.0.330.510.31.116.473.281.764.764.0.1.30.506.31.116.412.196.786.593.0.0.0.506.48.116.239.113.786.593.0.0.0.510.31.116.579.281.763.764.0.1.90.505.48.116.239.88.706.582.0.0.90"
+    banner_key="11.48.48.1836.1836.767.764.1.0.0.111.149.116.605.605.776.819.0.1.-26"
     label_color="ffcd3e2f"
     color="ffe44535"
     color2="ffece8dd"
