@@ -557,7 +557,7 @@
     is_minor_faction="true"
     name="{=berendeis.name}Berendeis"
     tier="4"
-    text="{=berendeis.text}In 1097 the Berendeis, together with the Torks and Pechenegs, concluded an alliance with the Terebovlia knyaz Vasylko Rostyslavych. In 1121 Volodymyr Vsevolodovych Monomakh has expelled Berendeis from Rus. In 1139 on the help to the Kyiv knyaz has come 30 000 of Berendeis from the Hungarian king. In gratitude, knyaz Yaropolk II Volodymyrovych of Kiev granted lands in Porosje to the Berendeys for pastures. In time, the Berendeis became part of the Black Klobuks tribal alliance. The Black Klobuks had wide autonomy and self-government within the Kyivan Principality. Their leaders were part of the Kyivan nobility and the closest circle of knyazes."
+    text="{=berendeis.text}In 1097 the Berendeis, together with the Torks and Pechenegs, concluded an alliance with the Terebovlia knyaz Vasylko Rostyslavych. In 1121 Volodymyr Vsevolodovych Monomakh has expelled Berendeis from Rus. In 1139 on the help to the Kyiv knyaz has come 30 000 of Berendeis from the Hungarian king. In gratitude, knyaz Yaropolk II Volodymyrovych of Kyiv granted lands in Porosje to the Berendeys for pastures. In time, the Berendeis became part of the Black Klobuks tribal alliance. The Black Klobuks had wide autonomy and self-government within the Kyivan Principality. Their leaders were part of the Kyivan nobility and the closest circle of knyazes."
     >
 		<minor_faction_character_templates>
       <template id="NPCCharacter.spc_skolderbrotva_leader_0" />
