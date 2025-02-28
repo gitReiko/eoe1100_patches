@@ -542,5 +542,29 @@
 		</minor_faction_character_templates>
 	</Faction>
 
+  <Faction id="berendeis"
+    initial_posX="231.3918"
+    initial_posY="1137.54"
+    banner_key="11.63.19.1836.1836.764.764.1.0.-30.510.40.116.443.240.586.764.0.0.90.510.40.116.443.240.765.584.0.0.0.510.40.116.443.240.765.944.0.0.0.510.40.116.443.240.765.764.0.0.0.510.40.116.220.240.943.676.0.0.90.510.40.116.72.240.943.969.0.0.90"
+    label_color="ff966955"
+    color="ffd7967a"
+    color2="ffffffff"
+    alternative_color="ffffffff"
+    alternative_color2="ffd7967a"
+    culture="Culture.khuzait"
+    default_party_template="PartyTemplate.berendeis_party_template"
+    settlement_banner_mesh="encounter_flag_f"
+    is_minor_faction="true"
+    name="{=berendeis.name}Berendeis"
+    tier="4"
+    text="{=berendeis.text}In 1097 the Berendeis, together with the Torks and Pechenegs, concluded an alliance with the Terebovlia knyaz Vasylko Rostyslavych. In 1121 Volodymyr Vsevolodovych Monomakh has expelled Berendeis from Rus. In 1139 on the help to the Kyiv knyaz has come 30 000 of Berendeis from the Hungarian king. In gratitude, knyaz Yaropolk II Volodymyrovych of Kiev granted lands in Porosje to the Berendeys for pastures. In time, the Berendeis became part of the Black Klobuks tribal alliance. The Black Klobuks had wide autonomy and self-government within the Kyivan Principality. Their leaders were part of the Kyivan nobility and the closest circle of knyazes."
+    >
+		<minor_faction_character_templates>
+      <template id="NPCCharacter.spc_skolderbrotva_leader_0" />
+      <template id="NPCCharacter.spc_skolderbrotva_leader_1" />
+      <template id="NPCCharacter.spc_skolderbrotva_leader_2" />
+      <template id="NPCCharacter.spc_skolderbrotva_leader_3" />
+		</minor_faction_character_templates>
+	</Faction>
 	   
 </Factions>
