@@ -2,7 +2,7 @@
 <SPCultures>
   
   <Culture id="aestian"
-           name="{=aestian.name}Aestian"
+           name="{=finnic.name}Finnic"
            is_main_culture="true"
            color="0xff3b6298"
            color2="0xffffffff"
@@ -24,7 +24,7 @@
            rebels_party_template="PartyTemplate.rebels_aestian_template"
            vassal_reward_party_template="PartyTemplate.vassal_reward_troops_aestian"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=aestian.text}Estonia in the 1100-1200 AD was characterized by a decentralized political landscape. The Estonian people, primarily of Finno-Ugric descent, inhabited a land of dense forests, fertile plains, and a coastline dotted with small ports. The society was organized into various tribes or clans, each led by chieftains or elders. These tribes engaged in agriculture, fishing, and trading activities, forming the backbone of the economy. The Estonians were skilled craftsmen, known for their expertise in metalwork, woodworking, and textile production. Despite their decentralized structure, the Estonian tribes often united under a common cause to defend against external threats. They faced frequent raids from neighboring powers, such as the Swedes, Danes, Russians and Germans, who sought to expand their influence into the Baltic region. By the late 12th century, the influence of Christianity began to permeate Estonia through trade and missionary activities. However, the conversion process was gradual and met with resistance from some pagan factions. Overall, Estonia in the 1100-1200 AD was a land of diverse cultures, where tribal identities intersected with emerging political dynamics, shaping the course of its history."
+           text="{=finnic.text}A more accurate name for the culture is Baltic Finns. This culture represents the following ethnoses of Aestians, Finns, Ingrians, Karelians, Livonians, Tavastians, Vepsians and Votians. In the High Middle Ages, the Aestians were the most active. They raided the Norsemens together with other Balts and Finns, defended themselves against the Novgorod Principality. The Livonians were under the influence of Polatsk. Votians in 1069 together with Polatsk raided Novgorod. According to one version, the Kylfingars consisted of the Votians. The Vepsians and Ingrians were under the influence of Novgorod. And over time they became the core of the Novgorod ethnos. The Karelians were the most technologically advanced on the territory of modern Finland thanks to trade and interaction with Novgorod. Some Karelians paid tribute to Novgorod, but in 1100 they were not part of Novgorod. In 1143 the Karelians raided Tavastians, in 1187 the Karelians pillaged Swedish Sigtuna. There are no written reports about the Finns, but most likely they were colonized and Christianized by Sweden. Over time, this ethnos gave the name to Finland."
            tournament_master="NPCCharacter.tournament_master_aestian"
            villager="NPCCharacter.villager_aestian"
            caravan_master="NPCCharacter.caravan_master_aestian"
