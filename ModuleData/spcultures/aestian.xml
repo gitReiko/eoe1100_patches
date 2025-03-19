@@ -138,6 +138,46 @@
       <name name="{=aestian_male_50}Vihavald" />
       <name name="{=aestian_male_51}Viidik" />
       <name name="{=aestian_male_52}Õigemeel" />
+      <name name="{=livonian_male_1}Aigars" />
+      <name name="{=livonian_male_2}Imants" />
+      <name name="{=livonian_male_3}Ako" />
+      <name name="{=livonian_male_4}Caupo" />
+      <name name="{=livonian_male_5}Ilo" />
+      <name name="{=livonian_male_6}Imake" />
+      <name name="{=livonian_male_7}Kike" />
+      <name name="{=livonian_male_8}Musts" />
+      <name name="{=livonian_male_9}Paimis" />
+      <name name="{=livonian_male_10}Sula" />
+      <name name="{=livonian_male_11}Usis" />
+      <name name="{=livonian_male_12}Vesike" />
+      <name name="{=livonian_male_13}Vietso" />
+      <name name="{=livonian_male_14}Wane" />
+      <name name="{=livonian_male_15}Ylo" />
+      <name name="{=livonian_male_16}Ymaut" />
+      <name name="{=livonian_male_17}Uldenago" />
+      <name name="{=livonian_male_18}Peite" />
+      <name name="{=livonian_male_19}Kove" />
+      <name name="{=livonian_male_20}Gerweder" />
+      <name name="{=finnish_male_1}Aarnikka" />
+      <name name="{=finnish_male_2}Ahti" />
+      <name name="{=finnish_male_3}Asikko" />
+      <name name="{=finnish_male_4}Bast" />
+      <name name="{=finnish_male_5}Brynolf" />
+      <name name="{=finnish_male_6}Elsebo" />
+      <name name="{=finnish_male_7}Evasti" />
+      <name name="{=finnish_male_8}Folke" />
+      <name name="{=finnish_male_9}Gumme" />
+      <name name="{=finnish_male_10}Hakuli" />
+      <name name="{=finnish_male_11}Isku" />
+      <name name="{=finnish_male_12}Jussi" />
+      <name name="{=finnish_male_13}Lanssi" />
+      <name name="{=finnish_male_14}Matti" />
+      <name name="{=finnish_male_15}Mikko" />
+      <name name="{=finnish_male_16}Nissi" />
+      <name name="{=finnish_male_17}Olli" />
+      <name name="{=finnish_male_18}Saara" />
+      <name name="{=finnish_male_19}Turo" />
+      <name name="{=finnish_male_20}Vidke" />
     </male_names>
     <female_names>
       <name name="{=aestian_female_1}Ait" />
@@ -193,6 +233,42 @@
       <name name="{=aestian_female_51}Õis" />
       <name name="{=aestian_female_52}Öö" />
       <name name="{=aestian_female_53}Äke" />
+      <name name="{=livonian_female_1}Liva" />
+      <name name="{=livonian_female_2}Elmede" />
+      <name name="{=livonian_female_3}Imake" />
+      <name name="{=livonian_female_4}Use" />
+      <name name="{=livonian_female_5}Valata" />
+      <name name="{=livonian_female_6}Vasara" />
+      <name name="{=finnish_female_1}Abble" />
+      <name name="{=finnish_female_2}Ablum" />
+      <name name="{=finnish_female_3}Aleta" />
+      <name name="{=finnish_female_4}Benne" />
+      <name name="{=finnish_female_5}Brynhild" />
+      <name name="{=finnish_female_6}Dordi" />
+      <name name="{=finnish_female_7}Dorete" />
+      <name name="{=finnish_female_8}Elsa" />
+      <name name="{=finnish_female_9}Elseby" />
+      <name name="{=finnish_female_10}Fuska" />
+      <name name="{=finnish_female_11}Gudlög" />
+      <name name="{=finnish_female_12}Gunnil" />
+      <name name="{=finnish_female_13}Hebla" />
+      <name name="{=finnish_female_14}Kaisa" />
+      <name name="{=finnish_female_15}Kati" />
+      <name name="{=finnish_female_16}Kirsti" />
+      <name name="{=finnish_female_17}Luci" />
+      <name name="{=finnish_female_18}Maisa" />
+      <name name="{=finnish_female_19}Metta" />
+      <name name="{=finnish_female_20}Pirit" />
+      <name name="{=finnish_female_21}Rikitsa" />
+      <name name="{=finnish_female_22}Saara" />
+      <name name="{=finnish_female_23}Signild" />
+      <name name="{=finnish_female_24}Siitsa" />
+      <name name="{=finnish_female_25}Truda" />
+      <name name="{=finnish_female_26}Valpur" />
+      <name name="{=finnish_female_27}Torlaf" />
+      <name name="{=finnish_female_28}Sunneva" />
+      <name name="{=finnish_female_29}Sigrid" />
+      <name name="{=finnish_female_30}Holfrid" />
     </female_names>
     <clan_names>
       <name name="{=aestian_clan_1}Järva" />
