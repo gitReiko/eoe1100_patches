@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NPCCharacters> 
+
+    <NPCCharacter id="lord_finnic_1a"
+                name="{=lord_finnic_1a.name}Olli*"
+                voice="softspoken"
+                age="53"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B406C02C13C5665454A4A36666689694767C4AB7A99A689E37585656B64600B236030BD95A13000000000000000000000000000000000000000023746102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="250" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="150" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="aestian_king" />
+      <EquipmentSet id="aestian_king"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_1b"
+                name="{=lord_finnic_1b.name}Pirit*"
+                voice="softspoken"
+                age="55"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.21" weight="0.1867" build="0.1944"  key="0005AC0D00FC100E398346743E38674654AC43963A6A78A7583784E994EC78BD00833603087416ED00000000000000000000000000000000000000004D143103"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="50" />
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="75" />
+        <skill id="Scouting" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Throwing" value="25" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_1c"
+                name="{=lord_finnic_1c.name}Mikko*"
+                voice="softspoken"
+                age="33"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B40AC02C1002865654848366676A9696767A4AB7899A689B37585656969600B236030B875A13000000000000000000000000000000000000000023742102"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_1d"
+                name="{=lord_finnic_1d.name}Bast*"
+                voice="softspoken"
+                age="31"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B40AC02C1002865654848366676A9696767A4AB7899A689B37585656969600B236030B875A13000000000000000000000000000000000000000023742102"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="-1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_1e"
+                name="{=lord_finnic_1e.name}Sirkka*"
+                voice="softspoken"
+                age="27"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.21" weight="0.1867" build="0.1944"  key="0005AC0D00FC100E398346743E38674654AC43963A6A78A7583784E994EC78BD00833603087416ED00000000000000000000000000000000000000004D143103"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="50" />
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="50" />
+        <skill id="Scouting" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Throwing" value="25" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_2a"
+                name="{=lord_finnic_2a.name}Folke*"
+                voice="softspoken"
+                age="47"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B40AC02C1002865654848366676A9696767A4AB7899A689B37585656969600B236030B875A13000000000000000000000000000000000000000023742102"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="200" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="-2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_2b"
+                name="{=lord_finnic_2b.name}Aleta*"
+                voice="softspoken"
+                age="44"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.21" weight="0.1867" build="0.1944"  key="0005AC0D00FC100E398346743E38674654AC43963A6A78A7583784E994EC78BD00833603087416ED00000000000000000000000000000000000000004D143103"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="50" />
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="150" />
+        <skill id="Scouting" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_2c"
+                name="{=lord_finnic_2c.name}Gerweder*"
+                voice="softspoken"
+                age="45"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B40AC02C1002865654848366676A9696767A4AB7899A689B37585656969600B236030B875A13000000000000000000000000000000000000000023742102"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="200" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_2d"
+                name="{=lord_finnic_2d.name}Turo*"
+                voice="softspoken"
+                age="21"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B40AC02C1002865654848366676A9696767A4AB7899A689B37585656969600B236030B875A13000000000000000000000000000000000000000023742102"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="50" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_3a"
+                name="{=lord_finnic_3a.name}Brynolf*"
+                voice="softspoken"
+                age="46"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B40AC02C1002865654848366676A9696767A4AB7899A689B37585656969600B236030B875A13000000000000000000000000000000000000000023742102"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_3b"
+                name="{=lord_finnic_3b.name}Lanssi*"
+                voice="softspoken"
+                age="36"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.2018" build="0.1173"  key="0005B40AC02C1002865654848366676A9696767A4AB7899A689B37585656969600B236030B875A13000000000000000000000000000000000000000023742102"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="75" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="75" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="125" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_finnic_3c"
+                name="{=lord_finnic_3c.name}Gunnil*"
+                voice="softspoken"
+                age="22"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.aestian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.21" weight="0.1867" build="0.1944"  key="0005AC0D00FC100E398346743E38674654AC43963A6A78A7583784E994EC78BD00833603087416ED00000000000000000000000000000000000000004D143103"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="50" />
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="75" />
+        <skill id="Scouting" value="100" />
+        <skill id="Bow" value="100" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="-1" />
+        <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+
+
+</NPCCharacters>

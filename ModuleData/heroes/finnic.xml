@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_finnic_1a" spouse="Hero.lord_finnic_1b" faction="Faction.clan_finnic_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_finnic_1b" spouse="Hero.lord_finnic_1a" faction="Faction.clan_finnic_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_finnic_1c" father="Hero.lord_finnic_1a" mother="Hero.lord_finnic_1b" faction="Faction.clan_finnic_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_finnic_1d" father="Hero.lord_finnic_1a" mother="Hero.lord_finnic_1b" faction="Faction.clan_finnic_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_finnic_1e" father="Hero.lord_finnic_1a" mother="Hero.lord_finnic_1b" faction="Faction.clan_finnic_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+
+
+   <Hero id="lord_finnic_2a" spouse="Hero.lord_finnic_2b" faction="Faction.clan_finnic_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_finnic_2b" spouse="Hero.lord_finnic_2a" faction="Faction.clan_finnic_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_finnic_2c" faction="Faction.clan_finnic_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_finnic_2d" father="Hero.lord_finnic_2a" mother="Hero.lord_finnic_2b" faction="Faction.clan_finnic_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+
+
+   <Hero id="lord_finnic_3a" faction="Faction.clan_finnic_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_finnic_3b" faction="Faction.clan_finnic_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_finnic_3c" father="Hero.lord_finnic_3a" faction="Faction.clan_finnic_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+
+</Heroes>
