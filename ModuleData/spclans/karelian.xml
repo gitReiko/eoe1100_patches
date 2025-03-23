@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_karelian_1"
+    name="{=clan_karelian_1.name}Tervu"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_karelian_1a"
+    culture="Culture.aestian"
+    super_faction="Kingdom.karelia"
+    banner_key="11.27.19.1836.1836.764.764.1.0.0.505.126.116.381.38.728.798.0.0.315.505.126.116.381.38.799.729.0.0.315.505.126.116.381.38.799.799.0.0.45.505.126.116.381.38.728.728.0.0.45.505.126.116.131.38.794.584.0.0.315.505.126.116.131.38.731.588.0.0.45.505.126.116.131.38.584.732.0.0.45.505.126.116.131.38.943.735.0.0.315"
+    text="{=clan_finnic.text}This clan is not a historical clan. It was created to reconstruct medieval Finland. Banner is based on folk ornaments."
+    color="ff35681c" color2="ffeae1da" alternative_color="ff35681c" alternative_color2="ffeae1da"
+  />
+
+  <Faction id="clan_karelian_2"
+    name="{=clan_karelian_2.name}Tervu"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_karelian_2a"
+    culture="Culture.aestian"
+    super_faction="Kingdom.karelia"
+    banner_key="11.27.19.1836.1836.764.764.1.0.0.505.126.116.328.328.764.763.0.0.45.505.27.116.257.257.764.763.0.0.45.505.126.116.476.38.764.763.0.0.-45.505.126.116.476.38.764.763.0.0.45.505.126.116.143.38.615.709.0.0.-45.505.126.116.181.38.627.808.0.0.45.505.126.116.143.38.708.615.0.1.135.505.126.116.181.38.807.626.0.1.45.505.126.116.143.38.912.818.0.0.135.505.126.116.181.38.900.719.0.0.225.505.126.116.143.38.819.912.0.1.-45.505.126.116.181.38.720.901.0.1.-135"
+    text="{=clan_finnic.text}This clan is not a historical clan. It was created to reconstruct medieval Finland. Banner is based on folk ornaments."
+    color="ffe50000" color2="ff35681c" alternative_color="ffe50000" alternative_color2="ff35681c"
+  />
+
+  <Faction id="clan_karelian_3"
+    name="{=clan_karelian_3.name}Paaso"
+    tier="4"
+    is_noble="true"
+    owner="Hero.lord_karelian_3a"
+    culture="Culture.aestian"
+    super_faction="Kingdom.karelia"
+    banner_key="11.27.19.1836.1836.764.764.1.0.0.505.126.116.326.326.764.764.0.0.45.505.27.116.254.254.764.764.0.0.45.505.126.116.267.38.693.639.0.0.-45.505.126.116.267.38.835.639.0.1.44.505.126.116.124.38.685.566.0.1.44.505.126.116.124.38.843.566.0.0.315.505.126.116.267.38.693.889.0.1.224.505.126.116.267.38.835.889.0.0.135.505.126.116.124.38.685.962.0.0.135.505.126.116.124.38.843.962.0.1.-136.505.126.116.119.38.678.791.0.1.224.505.126.116.119.38.677.739.0.0.135.505.126.116.119.38.850.791.0.0.135.505.126.116.119.38.851.739.0.1.224"
+    text="{=clan_finnic.text}This clan is not a historical clan. It was created to reconstruct medieval Finland. Banner is based on folk ornaments."
+    color="ffffc617" color2="ffe50000" alternative_color="ffffc617" alternative_color2="ffe50000"
+  />
+
+  <Faction id="clan_karelian_4"
+    name="{=clan_karelian_4.name}Uiburk"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_karelian_4a"
+    culture="Culture.aestian"
+    super_faction="Kingdom.karelia"
+    banner_key="11.27.19.1836.1836.764.764.1.0.0.505.126.116.141.141.764.827.0.0.45.505.27.116.64.64.764.827.0.0.45.505.126.116.204.38.649.879.0.0.-135.505.126.116.204.38.879.879.0.1.135.505.126.116.115.38.683.924.0.1.135.505.126.116.115.38.844.924.0.0.225.505.126.116.141.141.764.702.0.1.135.505.27.116.64.64.764.702.0.1.135.505.126.116.204.38.649.650.0.1.315.505.126.116.204.38.879.650.0.0.45.505.126.116.115.38.684.604.0.0.45.505.126.116.115.38.844.604.0.1.-45"
+    text="{=clan_finnic.text}This clan is not a historical clan. It was created to reconstruct medieval Finland. Banner is based on folk ornaments."
+    color="ffffc617" color2="ff34738f" alternative_color="ffffc617" alternative_color2="ff34738f"
+  />
+
+  <Faction id="clan_karelian_5"
+    name="{=clan_karelian_5.name}Tiurinlinna"
+    tier="4"
+    is_noble="true"
+    owner="Hero.lord_karelian_5a"
+    culture="Culture.aestian"
+    super_faction="Kingdom.karelia"
+    banner_key="11.27.19.1836.1836.764.764.1.0.0.505.126.116.123.123.762.789.0.1.44.505.27.116.58.58.762.789.0.1.44.505.126.116.123.123.763.676.0.1.44.505.27.116.58.58.763.676.0.1.44.505.126.116.123.123.763.905.0.1.44.505.27.116.58.58.763.905.0.1.44.505.126.116.195.38.879.725.0.1.45.505.126.116.101.38.955.704.0.0.315.505.126.116.99.38.852.870.0.1.45.505.126.116.149.38.952.768.0.1.45.505.126.116.99.38.854.638.0.1.45.505.126.116.99.38.804.585.0.1.45.505.126.116.195.38.649.725.0.0.315.505.126.116.101.38.573.704.0.1.45.505.126.116.99.38.676.870.0.0.315.505.126.116.149.38.576.768.0.0.315.505.126.116.99.38.674.638.0.0.315.505.126.116.99.38.724.585.0.0.315"
+    text="{=clan_finnic.text}This clan is not a historical clan. It was created to reconstruct medieval Finland. Banner is based on folk ornaments."
+    color="ff35681c" color2="fffdff30" alternative_color="ff35681c" alternative_color2="fffdff30"
+  />
+
+  <Faction id="clan_karelian_6"
+    name="{=clan_karelian_6.name}Kakisalmi"
+    tier="4"
+    is_noble="true"
+    owner="Hero.lord_karelian_6a"
+    culture="Culture.aestian"
+    super_faction="Kingdom.karelia"
+    banner_key="11.27.19.1836.1836.764.764.1.0.0.505.126.116.218.218.762.762.0.0.45.505.27.116.163.163.762.762.0.0.45.505.126.116.170.25.657.660.0.0.135.505.126.116.170.25.686.630.0.0.135.505.126.116.170.25.628.689.0.0.135.505.126.116.170.25.599.719.0.0.135.505.126.116.170.25.715.600.0.0.135.505.126.116.170.25.869.866.0.0.135.505.126.116.170.25.898.837.0.0.135.505.126.116.170.25.840.896.0.0.135.505.126.116.170.25.811.926.0.0.135.505.126.116.170.25.927.807.0.0.135.505.126.116.170.25.659.868.0.0.225.505.126.116.170.25.630.839.0.0.225.505.126.116.170.25.688.897.0.0.225.505.126.116.170.25.718.927.0.0.225.505.126.116.170.25.600.810.0.0.225.505.126.116.170.25.867.658.0.0.225.505.126.116.170.25.838.629.0.0.225.505.126.116.170.25.897.687.0.0.225.505.126.116.170.25.926.716.0.0.225.505.126.116.170.25.808.600.0.0.225"
+    text="{=clan_finnic.text}This clan is not a historical clan. It was created to reconstruct medieval Finland. Banner is based on folk ornaments."
+    color="ffe50000" color2="ffffffff" alternative_color="ffe50000" alternative_color2="ffffffff"
+  />
+
+		   
+</Factions>

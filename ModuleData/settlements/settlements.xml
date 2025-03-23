@@ -14627,7 +14627,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_velikiye" name="{=castle_velikiye_name}Velikiye Luki Castle" owner="Faction.clan_pereiaslav_2" posX="837.669" posY="1313.77" culture="Culture.jatvingian" gate_posX="836.2549" gate_posY="1313.815">
+  <Settlement id="castle_velikiye" name="{=castle_velikiye_name}Velikiye Luki Castle" owner="Faction.clan_karelian_1" posX="837.669" posY="1313.77" culture="Culture.jatvingian" gate_posX="836.2549" gate_posY="1313.815">
     <Components>
       <Town id="castle_comp_velikiye" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>

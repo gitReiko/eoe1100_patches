@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_karelian_1a" spouse="Hero.lord_karelian_1b" faction="Faction.clan_karelian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_1b" spouse="Hero.lord_karelian_1a" faction="Faction.clan_karelian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_1c" father="Hero.lord_karelian_1a" mother="Hero.lord_karelian_1b" faction="Faction.clan_karelian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_karelian_1d" father="Hero.lord_karelian_1a" mother="Hero.lord_karelian_1b" faction="Faction.clan_karelian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+
+
+   <Hero id="lord_karelian_2a" spouse="Hero.lord_karelian_2b" faction="Faction.clan_karelian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_2b" spouse="Hero.lord_karelian_2a" faction="Faction.clan_karelian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_2c" faction="Faction.clan_karelian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_2d" faction="Faction.clan_karelian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_karelian_3a" spouse="Hero.lord_karelian_3b" faction="Faction.clan_karelian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_3b" spouse="Hero.lord_karelian_3a" faction="Faction.clan_karelian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_3c" faction="Faction.clan_karelian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_karelian_4a" spouse="Hero.lord_karelian_4b" faction="Faction.clan_karelian_4" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_4b" spouse="Hero.lord_karelian_4a" faction="Faction.clan_karelian_4" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_4c" father="Hero.lord_karelian_4a" mother="Hero.lord_karelian_4b" faction="Faction.clan_karelian_4" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_4d" father="Hero.lord_karelian_4a" mother="Hero.lord_karelian_4b" faction="Faction.clan_karelian_4" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_karelian_5a" spouse="Hero.lord_karelian_5b" faction="Faction.clan_karelian_5" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_5b" spouse="Hero.lord_karelian_5a" faction="Faction.clan_karelian_5" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_5c" father="Hero.lord_karelian_5a" mother="Hero.lord_karelian_5b" faction="Faction.clan_karelian_5" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_karelian_6a" spouse="Hero.lord_karelian_6b" faction="Faction.clan_karelian_6" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_6b" spouse="Hero.lord_karelian_6a" faction="Faction.clan_karelian_6" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_karelian_6c" faction="Faction.clan_karelian_6" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   
+
+
+
+</Heroes>

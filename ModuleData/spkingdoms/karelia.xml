@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="karelia"
+		   owner="Hero.lord_finnic_1a"
+		   banner_key="11.27.19.1836.1836.764.764.1.0.0.505.126.116.381.38.728.798.0.0.315.505.126.116.381.38.799.729.0.0.315.505.126.116.381.38.799.799.0.0.45.505.126.116.381.38.728.728.0.0.45.505.126.116.131.38.794.584.0.0.315.505.126.116.131.38.731.588.0.0.45.505.126.116.131.38.584.732.0.0.45.505.126.116.131.38.943.735.0.0.315"
+		   primary_banner_color="0xff35681c"
+		   secondary_banner_color="0xffeae1da"
+		   label_color="ff35681c"
+		   color="ff35681c"
+		   color2="ffeae1da"
+		   alternative_color="ffffc617"
+		   alternative_color2="ffeae1da"
+		   culture="Culture.aestian"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_b"
+		   name="{=karelia.name}Karelian Principality"
+		   short_name="{=karelia.short_name}Karelia"
+		   title="{=karelia.title}Karelian Principality"
+		   ruler_title="{=karelia.ruler_title}Kunigs"
+		   text="{=karelia.text}At the end of the 7th century, the semi-legendary Denmark king Ivar Vidfamne lost a battle to an army of Karelians and died. At the beginning of the 11th century, in the Olafs saga helga, the Karelian principality is mentioned. In the 11th century the Karelians expanded to the Olonets Isthmus. As a result of mixing with the local population, the Livviks and Ludiks ethnic groups were formed. In 1143 the Karelians raided Tavastians. In 1187 the Karelians pillaged Swedish Sigtuna. This mention of Karelian raids on Sweden in the chronicle is given as the main reason to found Stockholm, the current capital of Sweden. In 1253, Karelians aided Novgorod in its wars with Estonians. In 1269, the knyaz of Novgorod prepared a raid against Karelians, but he abandoned his plans as he was advised against it by his councilors. In 1278, Novgorod made war against Karelians and, according to the chronicle, put Karelian lands 'to sword and fire', which significantly reduced Karelian military power. As a result of these actions, most of the Karelians became part of the Novgorod Republic and were divided into 10 pogosts (administrative unit).">
+    <relationships>
+		<relationship kingdom="Kingdom.aestia" value="-25" isAtWar="true" />
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+
+ </Kingdoms>
