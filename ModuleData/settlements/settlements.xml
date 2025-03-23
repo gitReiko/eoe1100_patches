@@ -14484,7 +14484,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_liubno" name="{=town_liubno_name}Liubno" owner="Faction.clan_pereiaslav_10" posX="893.297" posY="1340.634" culture="Culture.jatvingian" gate_posX="893.0134" gate_posY="1337.623" text="{=town_liubno_text}Liubno text...">
+  <Settlement id="town_liubno" name="{=town_liubno_name}Liubno" owner="Faction.clan_finnic_1" posX="893.297" posY="1340.634" culture="Culture.jatvingian" gate_posX="893.0134" gate_posY="1337.623" text="{=town_liubno_text}Liubno text...">
     <Components>
       <Town id="town_comp_liubno" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500" />
     </Components>
@@ -14604,7 +14604,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_torzok" name="{=castle_torzok_name}Torzhok Castle" owner="Faction.clan_pereiaslav_12" posX="921.234" posY="1330.016" culture="Culture.jatvingian" gate_posX="921.325" gate_posY="1328.742">
+  <Settlement id="castle_torzok" name="{=castle_torzok_name}Torzhok Castle" owner="Faction.clan_tavastian_1" posX="921.234" posY="1330.016" culture="Culture.jatvingian" gate_posX="921.325" gate_posY="1328.742">
     <Components>
       <Town id="castle_comp_torzok" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="500" />
     </Components>

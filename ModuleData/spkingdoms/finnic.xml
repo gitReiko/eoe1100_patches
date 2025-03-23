@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="finland"
+		   owner="Hero.lord_finnic_1a"
+		   banner_key="11.136.19.1836.1836.764.764.1.0.0.505.118.116.141.141.764.703.0.0.45.505.136.116.64.64.764.703.0.0.45.505.118.116.141.141.764.826.0.0.45.505.136.116.64.64.764.826.0.0.45.505.118.116.141.38.879.650.0.0.45.505.118.116.141.38.649.650.0.1.315.505.118.116.141.38.879.878.0.1.135.505.118.116.141.38.649.878.0.0.-135.505.120.116.90.30.887.764.0.0.0.505.120.116.90.30.887.764.0.0.90.505.120.116.90.30.643.764.0.0.0.505.120.116.90.30.643.764.0.0.90"
+		   primary_banner_color="0xffe36663"
+		   secondary_banner_color="0xffffe9d4"
+		   label_color="ff9e4745"
+		   color="ffe36663"
+		   color2="ffffe9d4"
+		   alternative_color="ffcead00"
+		   alternative_color2="ffffe9d4"
+		   culture="Culture.aestian"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_b"
+		   name="{=finnic.name}Finnish Tribal Principalities"
+		   short_name="{=finnic.short_name}Finnish Tribes"
+		   title="{=finnic.title}Finnish Tribal Principalities"
+		   ruler_title="{=finnic.ruler_title}Kunigs"
+		   text="{=finnic.text}The Finns are an ethnos in the west of Finland. Over time, it has given its name to the country of Finland and its people. Written records about the Finns have not survived. The main source of information is archaeology. By 1100, the Swedes founded many colonies on the shores of present-day Finland. Christianization of the local population was underway. In 1155 the Swedish King Saint Erik IX started a crusade against the Finns to Christianize them. As a result of which Finland was subordinated to Sweden until 1809.">
+    <relationships>
+		<relationship kingdom="Kingdom.tavastia" value="-25" isAtWar="true" />
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+
+ </Kingdoms>
