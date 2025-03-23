@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_tavastian_1a" spouse="Hero.lord_tavastian_1b" faction="Faction.clan_tavastian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_tavastian_1b" spouse="Hero.lord_tavastian_1a" faction="Faction.clan_tavastian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_tavastian_1c" father="Hero.lord_tavastian_1a" mother="Hero.lord_tavastian_1b" faction="Faction.clan_tavastian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_tavastian_1d" father="Hero.lord_tavastian_1a" mother="Hero.lord_tavastian_1b" faction="Faction.clan_tavastian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_tavastian_1e" faction="Faction.clan_tavastian_1" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+
+
+   <Hero id="lord_tavastian_2a" spouse="Hero.lord_tavastian_2b" faction="Faction.clan_tavastian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_tavastian_2b" spouse="Hero.lord_tavastian_2a" faction="Faction.clan_tavastian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_tavastian_2c" father="Hero.lord_tavastian_2a" mother="Hero.lord_tavastian_2b" faction="Faction.clan_tavastian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_tavastian_2d" father="Hero.lord_tavastian_2a" mother="Hero.lord_tavastian_2b" faction="Faction.clan_tavastian_2" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+
+
+   <Hero id="lord_tavastian_3a" spouse="Hero.lord_tavastian_3b" faction="Faction.clan_tavastian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_tavastian_3b" spouse="Hero.lord_tavastian_3a" faction="Faction.clan_tavastian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_tavastian_3c" faction="Faction.clan_tavastian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_tavastian_3d" faction="Faction.clan_tavastian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+
+</Heroes>
