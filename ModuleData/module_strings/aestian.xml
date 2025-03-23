@@ -1,0 +1,22 @@
+<strings>
+
+
+  <string id="str_player_father_name.aestian" text="{=aestianfather}Vello" />
+  <string id="str_player_mother_name.aestian" text="{=aestianmother}Lättelemb" />
+  <string id="str_culture_description.aestian" text="{=aestiandescription}A more accurate name for the culture is Baltic Finns. This culture represents the following ethnoses of Aestians, Finns, Ingrians, Karelians, Livonians, Tavastians, Vepsians and Votians. In the High Middle Ages, the Aestians were the most active. They raided the Norsemens together with other Balts and Finns, defended themselves against the Novgorod Principality. The Livonians were under the influence of Polatsk. Votians in 1069 together with Polatsk raided Novgorod. According to one version, the Kylfingars consisted of the Votians. The Vepsians and Ingrians were under the influence of Novgorod. And over time they became the core of the Novgorod ethnos. The Karelians were the most technologically advanced on the territory of modern Finland thanks to trade and interaction with Novgorod. Some Karelians paid tribute to Novgorod, but in 1100 they were not part of Novgorod. In 1143 the Karelians raided Tavastians, in 1187 the Karelians pillaged Swedish Sigtuna. There are no written reports about the Finns, but most likely they were colonized and Christianized by Sweden. Over time, this ethnos gave the name to Finland." />
+  <string id="str_faction_ruler_name_with_title.aestian" text="{=aestianrulertitle}{?RULER.GENDER}High Chieftess{?}High Chieftan{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.aestian" text="{=aestiannobletitle}{?RULER.GENDER}Chieftess{?}Chieftan{\?} {RULER.NAME}" />
+  <string id="str_faction_official.aestian" text="{=aestianofficial}chieftan" />
+  <string id="str_faction_official.aestian_f" text="{=aestianofficialf}chieftess" />
+  <string id="str_faction_ruler.aestian" text="{=aestianruler}High Chieftan" />
+  <string id="str_faction_ruler.aestian_f" text="{=aestianrulerf}High Chieftess" />
+  <string id="str_faction_ruler_term_in_speech.aestian" text="{=aestianrulerterm}{?RULER.GENDER}High Chieftess{?}High Chieftan{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.aestian" text="{=aestianfactionadjective}Finnish" />
+  <string id="str_short_term_for_faction.aestian" text="{=aestianfactionshortterm}Finns" />
+  <string id="str_faction_formal_name_for_culture.aestian" text="{=aestianfactionformalname}Finnish Principality" />
+  <string id="str_faction_informal_name_for_culture.aestian" text="{=aestianfactioninformalname}Finnish Principality" />
+  <string id="str_adjective_for_culture.aestian" text="{=aestiancultureadjective}Finnish" />
+  <string id="str_neutral_term_for_culture.aestian" text="{=aestiancultureneutralterm}Finns" />
+  <string id="str_culture_rich_name.aestian" text="{=aestianmembers}Finnish" />	
+	
+</strings>
