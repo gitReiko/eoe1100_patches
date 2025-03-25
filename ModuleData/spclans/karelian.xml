@@ -14,7 +14,7 @@
   />
 
   <Faction id="clan_karelian_2"
-    name="{=clan_karelian_2.name}Tervu"
+    name="{=clan_karelian_2.name}Aunus"
     tier="5"
     is_noble="true"
     owner="Hero.lord_karelian_2a"
